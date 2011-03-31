@@ -1,0 +1,2076 @@
+
+This is the accessible text file for GAO report number GAO-09-186 
+entitled 'Research And Development: DOE Could Enhance the Project 
+Selection Process for Government Oil and Natural Gas Research' which 
+was released on January 9, 2009.
+
+This text file was formatted by the U.S. Government Accountability 
+Office (GAO) to be accessible to users with visual impairments, as part 
+of a longer term project to improve GAO products' accessibility. Every 
+attempt has been made to maintain the structural and data integrity of 
+the original printed product. Accessibility features, such as text 
+descriptions of tables, consecutively numbered footnotes placed at the 
+end of the file, and the text of agency comment letters, are provided 
+but may not exactly duplicate the presentation or format of the printed 
+version. The portable document format (PDF) file is an exact electronic 
+replica of the printed version. We welcome your feedback. Please E-mail 
+your comments regarding the contents or accessibility features of this 
+document to Webmaster@gao.gov. 
+
+This is a work of the U.S. government and is not subject to copyright 
+protection in the United States. It may be reproduced and distributed 
+in its entirety without further permission from GAO. Because this work 
+may contain copyrighted images or other material, permission from the 
+copyright holder may be necessary if you wish to reproduce this 
+material separately. 
+
+Report to the Chairman, Subcommittee on Energy and Water Development, 
+Committee on Appropriations, U.S. Senate: 
+
+United States Government Accountability Office: 
+GAO: 
+
+December 2008: 
+
+Research And Development: 
+
+DOE Could Enhance the Project Selection Process for Government Oil and 
+Natural Gas Research: 
+
+GAO-09-186: 
+
+GAO Highlights: 
+
+Highlights of GAO-09-186, a report to the Chairman, Subcommittee on 
+Energy and Water Development, Committee on Appropriations, U.S. Senate. 
+
+Why GAO Did This Study: 
+
+Although competitive oil and natural gas markets generally provide 
+incentives for companies to invest in research and development (R&D), 
+some industry experts believe these companies may under invest in 
+certain areas. A recent GAO report noted important criteria for the 
+Department of Energy (DOE) to consider in evaluating its oil and 
+natural gas R&D efforts—including the likelihood that industry would 
+perform the research without federal funding. The Office of Management 
+and Budget has raised similar concerns. In this context, GAO was asked 
+to review (1) how much U.S. industry has invested in oil and natural 
+gas R&D over the last 10 years, and the current focus of these 
+activities; (2) how DOE’s oil and natural gas R&D funding and 
+activities compare with industry’s; and (3) to what extent DOE ensures 
+that its oil and natural gas R&D would not occur without federal 
+funding. GAO reviewed DOE and U.S. industry data for oil and natural 
+gas R&D spending, and interviewed DOE officials and representatives 
+from various segments of the industry. 
+
+What GAO Found: 
+
+From 1997 through 2006, the U.S. oil and natural gas industry spent at 
+least $20 billion on R&D, and currently focuses mostly on near-term 
+(within about the next 2 years) production challenges. The nature of 
+R&D varies by type of company. For example, major oil companies tend to 
+have in-house R&D facilities, and though most of their projects are 
+designed to meet near-term needs, they also conduct some longer-term 
+research. Similarly, service companies, which specialize in providing 
+technologies to facilitate exploration and production, focus their R&D 
+primarily on their clients’ immediate needs, but also conduct some 
+longer-term research. In contrast, larger independent companies 
+generally do not conduct in-house R&D; instead, they may buy new 
+technologies from other companies and adapt them to meet their needs, 
+and also may participate in research partnerships. Smaller independent 
+companies do not generally conduct R&D, but some obtain or become aware 
+of technology from other companies, trade publications, or professional 
+associations. 
+
+From 1997 through 2006, DOE’s total funding for oil and natural gas R&D 
+totaled significantly less than industry’s—about $1 billion versus at 
+least $20 billion—and, in contrast to industry’s focus on near-term 
+challenges, DOE’s R&D focuses on both near- and longer-term challenges. 
+Some examples of DOE’s projects that have had a near-term focus include 
+projects that develop more advanced drilling and imaging tools, and 
+enhance oil recovery. An example of a DOE project that has had a longer-
+term, high-risk focus is evaluating the potential use of methane 
+hydrates, which are molecules of methane trapped inside a lattice of 
+ice, as a future energy source—an area that industry officials said was 
+generally beyond their time horizon for R&D. 
+
+DOE keeps abreast of industry R&D activities and uses a project 
+selection process to ensure that its efforts support industry R&D; 
+however, DOE does not formally assess whether industry would undertake 
+this R&D without federal funding. Based on its awareness of industry 
+needs gathered from its interactions with industry, DOE develops 
+research priorities that drive its project solicitations. Individual 
+oil and natural gas projects are screened to ensure that the applicant 
+(1) explains the significance of the problem the proposal addresses, 
+(2) demonstrates understanding of the current technology and 
+information gaps, and (3) considers the likelihood that the project 
+will advance the current state of technology. While these efforts help 
+to ensure that DOE is informed about industry activities, DOE does not 
+formally assesses the likelihood that industry would have conducted the 
+R&D without federal funding, nor does it explicitly include such an 
+evaluation in its screening criteria. For instance, GAO found that 
+several of DOE’s projects addressing challenges in advanced drilling 
+and improved recovery of oil and natural gas were similar to activities 
+conducted by industry. In this regard, in its review of DOE’s oil and 
+natural gas R&D budget, the Office of Management and Budget has 
+challenged DOE to better justify the need for certain government 
+research. By making a more formal evaluation in its screening process, 
+DOE could better demonstrate that it selects projects that industry is 
+unlikely to pursue. 
+
+What GAO Recommends: 
+
+To better ensure that DOE selects oil and gas R&D projects that 
+industry is unlikely to pursue, GAO recommends DOE’s project selection 
+process include a formal assessment of the likelihood that the R&D 
+would not have occurred without federal funding. DOE provided only 
+technical comments which we incorporated as appropriate. 
+
+To view the full product, including the scope and methodology, click on 
+[hyperlink, http://www.gao.gov/cgi-bin/getrpt?GAO-09-186]. For more 
+information, contact Mark E. Gaffigan (202) 512-3841 or 
+gaffiganm@gao.gov. 
+
+[End of section] 
+
+Contents: 
+
+Letter: 
+
+Results in Brief: 
+
+DOE Works to Ensure That Its R&D Supports Industry, but Does Not 
+Formally Assess the Likelihood That Industry Would Conduct Research 
+Without Federal Funding: 
+
+Conclusions: 
+
+Recommendation for Executive Action: 
+
+Agency Comments: 
+
+Appendix I: Objectives, Scope, and Methodology: 
+
+Appendix II: Oil and Gas R&D Spending and Activities Conducted by 
+Selected Nations' Governments: 
+
+Appendix III: GAO Contact and Staff Acknowledgments: 
+
+Tables: 
+
+Table 1: DOE Oil and Gas Investments, Fiscal Year 1997-2006 Dollars in 
+millions (2006 dollars): 
+
+Table 2: Canada's Total Energy R&D Spending: 
+
+Table 3: Breakdown of Canada's Oil and Gas R&D Spending by Research 
+Area: 
+
+Table 4: France's Total Energy R&D Spending: 
+
+Table 5: Breakdown of France's Oil and Gas R&D Spending by Research 
+Area: 
+
+Table 6: Japan's Total Energy R&D Spending: 
+
+Table 7: Breakdown of Japan's Oil and Gas R&D Spending by Research 
+Area: 
+
+Table 8: Norway's Total Energy R&D Spending: 
+
+Table 9: Breakdown of Norway's Oil and Gas R&D Spending by Research 
+Area: 
+
+Table 10: Switzerland's Total Energy R&D Spending: 
+
+Table 11: Breakdown of Switzerland's Oil and Gas R&D Spending by 
+Research Area: 
+
+Figures: 
+
+Figure 1: Oil and Gas Industry R&D Spending in Nominal and Real Terms, 
+Fiscal Years 1997-2006: 
+
+Figure 2: DOE and U.S. Industry Oil and Gas R&D Investments, Fiscal 
+Years 1997-2006: 
+
+Abbreviations: 
+
+DOE: Department of Energy: 
+
+EIA: Energy Information Administration: 
+
+EPAct 2005: Energy Policy Act of 2005: 
+
+FOA: Funding Opportunity Announcement: 
+
+FRS: Financial Reporting System: 
+
+IEA: International Energy Agency: 
+
+NETL: National Energy Technology Laboratory: 
+
+OMB: Office of Management and Budget: 
+
+R&D: research and development: 
+
+RPSEA: Research Partnership to Secure Energy for America: 
+
+SEC: Security and Exchange Commission: 
+
+[End of section] 
+
+United States Government Accountability Office:
+Washington, DC 20548: 
+
+December 29, 2008: 
+
+The Honorable Byron L. Dorgan: 
+Chairman: 
+Subcommittee on Energy and Water Development: 
+Committee on Appropriations: 
+United States Senate: 
+
+Dear Mr. Chairman: 
+
+The United States is the world's largest consumer of oil and natural 
+gas, as well as the world's largest importer of these resources, 
+importing about one-fifth of the natural gas used and about two-thirds 
+of the oil.[Footnote 1] Although domestic resources are substantial, 
+they are increasingly concentrated in geologically challenging settings 
+that require innovative exploration and production technologies. The 
+U.S. oil and gas industry invests in research and development (R&D) to 
+develop new oil and gas technologies to explore for and produce these 
+resources, and its innovations make the United States more competitive. 
+
+The U.S. oil and gas industry comprises a variety of companies. The 
+largest oil and gas companies, referred to as "majors," are integrated 
+companies; they explore, develop, and produce oil and gas resources, 
+and refine them into products such as gasoline before selling them 
+through retail outlets. Service companies, which specialize in 
+providing equipment and delivering services to their clients that 
+facilitate oil and gas exploration and production, also expend 
+resources on R&D. Other oil and gas companies, both large and small, 
+referred to as "independents," typically concentrate only on 
+exploration and production activities. 
+
+Competition provides an incentive for these companies to invest in R&D 
+for new oil and gas technologies that can improve profitability. 
+However, companies may not undertake research in instances where they 
+incur all of the R&D costs but cannot capture most of the benefits. For 
+example, a successful innovator of a new technology may capture some 
+rewards, but because patent protection is inherently imperfect, those 
+rewards typically would be a fraction of the overall benefits to 
+society as other companies begin to use the same technology. As such, 
+some industry experts argue that the federal government is needed to 
+fill the gaps where industry may under invest in R&D. 
+
+Since its inception in 1977, the Department of Energy (DOE) has had 
+primary leadership responsibility for the federal government's energy 
+R&D. From 1997 through 2006, DOE spent over $8 billion on energy R&D. 
+DOE directs the National Energy Technology Laboratory (NETL) to 
+facilitate the development of new oil and gas technologies that can 
+help industry increase domestic supply, improve its efficiency, and 
+protect the environment as resources are explored for and developed. 
+NETL has received funding for these activities through annual oil and 
+gas R&D appropriations. More recently, NETL has received additional 
+funding through the Energy Policy Act of 2005 (EPAct 2005), section 
+999. To carry out its mission, NETL collaborates with industry, 
+universities, other national laboratories, foreign governments, and 
+other domestic government agencies. In doing so, NETL attempts to 
+leverage government R&D resources and complement industry efforts. 
+
+Over the years, we have completed a number of reviews related to 
+government energy R&D activities.[Footnote 2] Our most recent report 
+highlighted the importance of DOE considering certain criteria in 
+evaluating its R&D efforts, including the likelihood that industry 
+would perform the research without federal funding.[Footnote 3] In 
+recent years, similar questions have been raised by the Office of 
+Management and Budget (OMB), the executive office that assists the 
+President in evaluating the effectiveness of agency programs and 
+assessing competing agency funding demands, among other things. 
+
+In this context, you asked us to review industry and DOE R&D activities 
+for oil and gas, specifically: (1) how much U.S. industry has invested 
+in oil and natural gas R&D over the last 10 years, and the current 
+focus of these activities; (2) how DOE's oil and natural gas R&D 
+funding and activities compare with industry's; and (3) to what extent 
+DOE ensures that its oil and natural gas R&D would not occur without 
+federal funding. You also asked us to provide descriptive information 
+about the oil and gas R&D activities that other nations' governments 
+are conducting. We provide information on selected countries in 
+appendix II. 
+
+Our report is based on our analysis of prior GAO work, DOE budget data, 
+and discussions with industry and DOE officials.[Footnote 4] To gather 
+information about the U.S. oil and gas industry's funding, we used DOE 
+data from its sample of the largest U.S.-based oil and gas companies 
+for 1997 through 2006, the most recent year for which data were 
+available.[Footnote 5] Because these data do not capture R&D spending 
+by all U.S. companies, nor international companies that have a presence 
+in the U.S. but are based abroad, the resulting data may underestimate 
+U.S. industry R&D funding.[Footnote 6] To gather information about 
+service companies' R&D spending, we obtained data from the Security and 
+Exchange Commission (SEC) for five of the largest service companies. 
+[Footnote 7] The DOE data, as well as the data reported by the SEC, 
+reflect R&D as reported by industry. To gather information about U.S. 
+oil and gas industry R&D activities, including those of service 
+companies, we spoke with officials from oil and gas companies of 
+varying types and sizes, including majors, service companies, and large 
+and small independents. To compare DOE funding and activities to 
+industry's, we collected data about DOE's spending and activities for 
+1997 through 2006 and met with DOE officials. To determine the extent 
+to which DOE ensures that its oil and gas R&D would not occur without 
+federal funding, we reviewed DOE documents and discussed industry 
+interaction and the project selection process with DOE officials. For 
+purposes of this report, near-term R&D generally refers to funding and 
+activities that occur within about the next 2 years; longer-term R&D 
+refers to funding and activities that would generally occur beyond 2 
+years. We conducted this performance audit from January 2008 through 
+December 2008 in accordance with generally accepted government auditing 
+standards. Those standards require that we plan and perform the audit 
+to obtain sufficient, appropriate evidence to provide a reasonable 
+basis for our findings and conclusions based on our audit objectives. 
+We believe that the evidence obtained provides a reasonable basis for 
+our findings and conclusions based on our audit objectives. 
+
+Results in Brief: 
+
+From 1997 through 2006, the U.S. oil and gas industry spent at least 
+$20 billion on R&D, and currently focuses mostly on near-term 
+production challenges. According to DOE data, oil and gas companies 
+spent at least $9.6 billion on R&D during this period. In addition, 
+service companies spent at least $10.7 billion during this same period, 
+according to reports filed with the SEC by five of the largest service 
+companies. Industry officials told us that concern for immediate 
+business needs drives industry R&D to primarily address near-term oil 
+and gas production problems or challenges. Such challenges include, for 
+example, development of technologies to extract oil and gas from 
+difficult environments such as the Arctic and very deep waters. The 
+nature of R&D varies by type of company. For example, major oil 
+companies tend to have in-house R&D facilities, and though most of 
+their projects are designed to meet near-term needs, they also conduct 
+some longer-term, high-risk research, such as research into resources 
+that have yet to be developed. Similarly, service companies' R&D 
+primarily focuses on their clients' immediate needs, but they also 
+conduct some longer-term research. In contrast, larger independent 
+companies generally do not conduct in-house R&D; instead, they may buy 
+new oil and gas technologies from other companies and adapt them to 
+meet their immediate needs, and also may participate in research 
+partnerships. Smaller independent companies do not generally conduct 
+their own R&D, but some obtain or become aware of new technologies from 
+other companies, trade publications, or professional and state 
+associations. 
+
+From 1997 through 2006, DOE's total funding for oil and gas R&D totaled 
+significantly less than industry's--about $1 billion versus at least 
+$20 billion--and, in contrast to industry's primary focus on near-term 
+challenges, DOE's R&D focuses on both near-and longer-term challenges. 
+During this period, DOE's oil and gas R&D appropriations declined by 
+more than 60 percent--from about $162 million in 1997 to about $63 
+million in 2006. More recently, through its 2007 and 2008 oil and gas 
+R&D appropriations, DOE received an additional $161 million. Overall, 
+this funding has supported hundreds of R&D projects since 1997. While 
+industry's R&D activities are driven primarily by the need to address 
+near-term problems, DOE's activities include near-term projects as well 
+as research that is longer term and high risk in nature. Some examples 
+of DOE's projects that have had a near-term focus include projects 
+associated with developing more advanced drilling and imaging tools and 
+enhancing oil recovery. An example of a DOE project that has had a 
+longer-term, high-risk focus is evaluating the potential use of methane 
+hydrates, which are molecules of methane trapped inside a lattice of 
+ice, as a future energy source--an area of interest that industry 
+officials said was generally beyond their time horizon for R&D. 
+
+DOE keeps abreast of industry R&D activities and uses a project 
+selection process to ensure that its efforts address industry R&D 
+needs; however, DOE does not formally assess whether industry would 
+undertake this R&D without federal funding. According to DOE officials, 
+DOE participates in numerous consortia, conferences, technical 
+associations, and workshops with the oil and gas industry. Based on its 
+awareness of industry needs gathered from participation at these 
+events, DOE develops research priorities that drive its project 
+solicitations. Applications for individual oil and gas R&D projects are 
+then screened to ensure that the applicant (1) explains the 
+significance of the problem the proposal addresses; (2) demonstrates 
+understanding of the current technology and information gaps; and (3) 
+considers the likelihood that the project will advance the current 
+state of technology. In its review of DOE's oil and gas R&D budget, OMB 
+has challenged DOE to better justify the need for government research. 
+While DOE's efforts help to ensure that its efforts address industry 
+R&D needs, we found that DOE neither formally assesses the likelihood 
+that industry would have conducted the R&D without federal funding, nor 
+does it explicitly include such an evaluation in its screening 
+criteria. For instance, we found that several of DOE's projects 
+addressing challenges in advanced drilling and improved recovery of oil 
+and gas were similar to activities conducted by industry. We are 
+recommending that DOE include in its project selection process a formal 
+assessment of the likelihood that the R&D would not have occurred 
+without federal funding. DOE had no comment on our recommendation, and 
+provided only technical comments which we incorporated as appropriate. 
+
+From 1997 through 2006, the U.S. Oil and Gas Industry Invested at Least 
+$20 Billion in R&D and Currently Focuses Primarily on Near-term Needs: 
+
+From 1997 through 2006, U.S. industry oil and gas R&D totaled at least 
+$20.3 billion, and currently focuses mostly on near-term production 
+challenges. Data collected by DOE's Energy Information Administration 
+(EIA)--the statistical agency within DOE that provides independent 
+data, forecasts, and analyses--show that U.S. oil and gas company R&D 
+spending totaled at least $9.6 billion from 1997 through 2006. Our 
+analysis of service company R&D from SEC 10-K reports, which is not 
+included in EIA's data, indicates that five of the largest service 
+companies spent a comparable amount during this same period--about 
+$10.7 billion.[Footnote 8] This combined R&D spending fluctuated over 
+this period, but generally increased during the last 3 of these years. 
+Specifically, in 1997, industry R&D budgets were about $1.8 billion; 
+they fell to a low of about $1.7 billion in 1999, but have since 
+generally increased to about $2.6 billion in 2006. In 2006, industry 
+R&D spending peaked for this 10-year period, as depicted in figure 1. 
+
+Figure 1: Oil and Gas Industry R&D Spending in Nominal and Real Terms, 
+Fiscal Years 1997-2006: 
+
+[Refer to PDF for image] 
+
+This figure is a multiple line graph depicting the following data: 
+
+Fiscal year: 1997; 
+Nominal or current dollars: $1.838 billion; 
+Inflation-adjusted 2006 dollars: $2.24 billion. 
+
+Fiscal year: 1998; 
+Nominal or current dollars: $2.112 billion; 
+Inflation-adjusted 2006 dollars: $2.544 billion. 
+
+Fiscal year: 1999; 
+Nominal or current dollars: $1.699 billion; 
+Inflation-adjusted 2006 dollars: $2.02 billion. 
+
+Fiscal year: 2000; 
+Nominal or current dollars: $1.741 billion; 
+Inflation-adjusted 2006 dollars: $2.029 billion. 
+
+Fiscal year: 2001; 
+Nominal or current dollars: $2.132 billion; 
+Inflation-adjusted 2006 dollars: $2.427 billion. 
+
+Fiscal year: 2002; 
+Nominal or current dollars: $2.299 billion; 
+Inflation-adjusted 2006 dollars: $2.568 billion. 
+
+Fiscal year: 2003; 
+Nominal or current dollars: $1.868 billion; 
+Inflation-adjusted 2006 dollars: $2.045 billion. 
+
+Fiscal year: 2004; 
+Nominal or current dollars: $1.841 billion; 
+Inflation-adjusted 2006 dollars: $1.964 billion. 
+
+Fiscal year: 2005; 
+Nominal or current dollars: $2.119 billion; 
+Inflation-adjusted 2006 dollars: $2.191 billion. 
+
+Fiscal year: 2006; 
+Nominal or current dollars: $2.635 billion; 
+Inflation-adjusted 2006 dollars: $2.635 billion. 
+
+Source: GAO analysis of data provided by the EIA and the SEC. 
+
+Note: Nominal dollars reflect actual dollars according to EIA and SEC 
+data. Inflation-adjusted 2006 dollars reflect the same amounts adjusted 
+for inflation according to the fiscal year chain-weighted gross 
+domestic product price index. 
+
+[End of figure] 
+
+Industry officials told us that because of concern for meeting the 
+individual companies' immediate needs, their R&D primarily addresses 
+near-term production problems and challenges, although some also invest 
+in longer-term, high-risk research. The majors, which generally have in-
+house R&D facilities, typically prioritize near-term research that 
+facilitates their operations and is likely to result in commercially 
+viable products or processes; for example, advanced drilling techniques 
+that will enable them to explore and drill in difficult environments, 
+such as Arctic and very deep waters, and improved oil and gas recovery. 
+[Footnote 9] However, the majors we spoke with also told us they 
+devoted some resources toward longer-term, more high-risk research, 
+such as applying nanotechnology, which could allow industry to build 
+and use microscopic devices, to improve oil and gas recovery and 
+developing oil shale resources--sedimentary rock that can contain oil 
+which may be recovered by heating these rocks--as a commercially viable 
+resource. Majors also participate in research partnerships or 
+consortia, but are more likely to do so when the research is very long 
+term or focused on issues such as compliance with environmental 
+regulations, where companies are less concerned about keeping the 
+resulting technology proprietary. 
+
+Service companies, like the majors, dedicate the majority of their 
+research to the immediate needs of their individual clients, although 
+the service companies we contacted also conducted some longer-term R&D 
+in anticipation of clients' future needs. For example, one service 
+company noted that it had begun to research carbon capture and 
+sequestration and gasification of petroleum coke as potential areas 
+that may be important to industry in the future.[Footnote 10] Service 
+companies may also participate in partnerships or consortia. While most 
+have in-house R&D facilities, they also may outsource some R&D to 
+national laboratories or universities. 
+
+The large independents we contacted did not conduct in-house R&D; 
+rather, they typically purchase new technologies and adapt these 
+technologies to meet their unique needs. Additionally, several larger 
+independents develop technology through partnerships with other 
+companies, universities, or DOE. Larger independents' R&D includes 
+efforts to enhance oil recovery, which involves increasing output from 
+maturing wells where the recovery rate of oil is declining, as well as 
+efforts to increase production of unconventional gas and oil. 
+
+The small independent producers we interviewed generally do not conduct 
+their own R&D. Small producers reported that they obtain or become 
+aware of new technology through interactions with other companies and 
+"word of mouth," industry-relevant publications and journals, and 
+professional and state associations like the Society of Petroleum 
+Engineers, the Kansas Independent Oil and Gas Association, and the 
+Petroleum Technology Transfer Council. While they do not conduct their 
+own, in-house R&D, several small producers told us they could benefit 
+from increased R&D in areas such as enhanced oil recovery. 
+
+DOE Invested Significantly Less in Oil and Gas R&D Funding Than U.S. 
+Industry and Currently Focuses on Near-and Longer-term Challenges: 
+
+From 1997 through 2006, DOE invested significantly less in R&D for oil 
+and gas than U.S. industry, and while U.S. industry primarily conducts 
+near-term oil and gas R&D to achieve immediate payoffs, DOE responds to 
+both near-and longer-term challenges. During this period, DOE's oil and 
+gas R&D investment was about $1.1 billion compared to at least $20.3 
+billion invested by U.S. industry. Furthermore, DOE's oil and gas R&D 
+appropriations declined by about 61 percent--falling from $162.4 
+million in 1997 to $62.6 million in fiscal year 2006--while industry's 
+R&D investment has generally increased, as shown in figure 2. More 
+specifically, annual appropriations for oil R&D decreased from $45.2 
+million in fiscal year 1997 to $30.8 million in fiscal year 2006, while 
+appropriations for gas R&D decreased from $117.3 million in 1997 to 
+$31.8 million in fiscal year 2006.[Footnote 11] 
+
+Figure 2: DOE and U.S. Industry Oil and Gas R&D Investments, Fiscal 
+Years 1997-2006: 
+
+[Refer to PDF for image] 
+
+This figure is a multiple line graph depicting the following data: 
+
+Fiscal year: 1997; 
+U.S. Industry in nominal or current dollars: $1.838 billion; 
+DOE R&D in nominal or current dollars: $0.16 billion. 
+
+Fiscal year: 1998; 	
+U.S. Industry in nominal or current dollars: $2.112 billion; 
+DOE R&D in nominal or current dollars: $0.16 billion. 
+
+Fiscal year: 1999; 
+U.S. Industry in nominal or current dollars: $1.699 billion; 
+DOE R&D in nominal or current dollars: $0.12 billion. 
+
+Fiscal year: 2000; 
+U.S. Industry in nominal or current dollars: $1.741 billion; 
+DOE R&D in nominal or current dollars: $0.13 billion. 
+
+Fiscal year: 2001; 
+U.S. Industry in nominal or current dollars: $2.132 billion; 
+DOE R&D in nominal or current dollars: $0.11 billion. 
+
+Fiscal year: 2002; 
+U.S. Industry in nominal or current dollars: $2.299 billion; 
+DOE R&D in nominal or current dollars: $0.1 billion. 
+
+Fiscal year: 2003; 
+U.S. Industry in nominal or current dollars: $1.868 billion; 
+DOE R&D in nominal or current dollars: $0.09 billion. 
+
+Fiscal year: 2004; 
+U.S. Industry in nominal or current dollars: $1.841 billion; 
+DOE R&D in nominal or current dollars: $0.08 billion. 
+
+Fiscal year: 2005; 
+U.S. Industry in nominal or current dollars: $2.119 billion; 
+DOE R&D in nominal or current dollars: $0.08 billion. 
+
+Fiscal year: 2006; 
+U.S. Industry in nominal or current dollars: $2.635 billion; 
+DOE R&D in nominal or current dollars: $0.06 billion. 
+
+Source: GAO analysis of oil and gas investments made by U.S. industry 
+and DOE. 
+
+[End of figure] 
+
+When adjusted for inflation, these declines are even greater. For 
+example, as shown in table 1, DOE's total oil and gas appropriations 
+declined from about $198 million in 1997 to about $62.6 million in 
+2006--a 68 percent decline in real terms. 
+
+Table 1: DOE Oil and Gas Investments, Fiscal Year 1997-2006 Dollars in 
+millions (2006 dollars): 
+
+Fiscal year: 1997; 
+Oil: $55.08; 
+Gas: $142.93; 
+Total: $198.01. 
+
+Fiscal year: 1998; 
+Oil: $57.46; 
+Gas: $130.62; 
+Total: $188.08. 
+
+Fiscal year: 1999; 
+Oil: $56.28; 
+Gas: $82.44; 
+Total: $138.72. 
+
+Fiscal year: 2000; 
+Oil: $64.96; 
+Gas: $86.10; 
+Total: $151.06. 
+
+Fiscal year: 2001; 
+Oil: $74.10; 
+Gas: $50.00; 
+Total: $124.10. 
+
+Fiscal year: 2002; 
+Oil: $62.82; 
+Gas: $49.22; 
+Total: $112.05. 
+
+Fiscal year: 2003; 
+Oil: $44.87; 
+Gas: $50.21; 
+Total: $95.08. 
+
+Fiscal year: 2004; 
+Oil: $36.39; 
+Gas: $44.64; 
+Total: $81.03. 
+
+Fiscal year: 2005; 
+Oil: $34.10; 
+Gas: $45.11; 
+Total: $79.21. 
+
+Fiscal year: 2006; 
+Oil: $30.81; 
+Gas: $31.80; 
+Total: $62.61. 
+
+Fiscal year: Total; 
+Oil: $516.86; 
+Gas: $713.08; 
+Total: $1,229.94. 
+
+Source: GAO analysis of DOE oil and gas appropriations. 
+
+Note: Amounts may not always add due to rounding. 
+
+[End of table] 
+
+More recently, in fiscal years 2007 and 2008, DOE's oil and gas R&D 
+investments have generally increased from 2006 levels, primarily as a 
+result of funding from EPAct 2005, section 999. During these years, DOE 
+was appropriated a total of about $161 million for oil and gas R&D 
+activities, which includes $100 million provided by EPAct 2005, section 
+999.[Footnote 12] EPAct 2005, section 999 makes available $50 million 
+per year for 10 years for oil and gas R&D, to be split between DOE (25 
+percent) and a nonprofit corporation (75 percent) formed by a 
+consortium. The consortium, known as the Research Partnership to Secure 
+Energy for America (RPSEA), includes U.S. energy research universities, 
+industry, and independent research organizations.[Footnote 13] Among 
+other things, DOE is charged with maximizing the value of U.S. gas and 
+other petroleum resources by increasing supply, reducing the cost of 
+exploration and production of such resources, and minimizing 
+environmental impact. 
+
+Overall, since 1997, DOE's funds have supported hundreds of near-term 
+projects, as well as research that is longer term and high risk, 
+whereas industry R&D focuses primarily on near-term challenges. DOE 
+uses its non-EPAct 2005 funds for both near-and longer-term R&D 
+projects, including helping industry develop advanced drilling tools, 
+resource imaging devices, enhanced oil recovery technologies, and 
+environmental protection practices that reduce the impacts of oil and 
+gas. Near-term R&D projects include: 
+
+* Advanced drilling tools. These technologies provide industry with 
+ways to reduce costs, such as developing drill bits that increase the 
+efficiency of drilling operations. For example, DOE's work in microhole 
+drilling helps develop equipment that is smaller and more 
+transportable, reducing environmental impact. 
+
+* Resource imaging devices. These technologies assist industry in 
+identifying, locating, and economically recovering oil and gas by 
+providing imaging capabilities that are able to detect and estimate 
+available resources. 
+
+* Enhanced oil recovery. This technology involves injecting additives, 
+such as gases, chemicals, heat, or microbes, into maturing oil and gas 
+reservoirs to increase production as initial output begins to decrease. 
+Enhanced oil recovery technologies are important because about 400 
+billion barrels of oil discovered in the United States are 
+unrecoverable by conventional means. 
+
+* Environmental protection. Among DOE projects that reduce the 
+environmental impacts of oil and gas exploration and production are 
+those aimed at finding beneficial uses for produced water--large 
+volumes of water that may contain salt, chemical compounds, or other 
+contaminants that are trapped in underground formations and are brought 
+to the surface along with oil or gas. 
+
+DOE also conducts longer-term, high-risk research. For example, DOE is 
+conducting R&D projects focused on commercially producing gas from 
+methane hydrates.[Footnote 14] According to DOE, methane hydrates hold 
+more energy than all fossil fuels combined, and the United States has 
+an estimated 25 percent of all worldwide methane hydrate deposits. DOE 
+officials believe that NETL's projects hold tremendous potential to 
+improve the understanding of methane hydrates and increase the ability 
+to develop them. According to DOE officials, this R&D will help U.S. 
+industry overcome two major constraints with the development of methane 
+hydrates: (1) the need to detect and quantify methane hydrate deposits 
+and (2) the demonstration that methane from hydrates can be produced at 
+commercial volumes. Moreover, in our interviews with U.S. industry 
+officials, most reported that they did not conduct R&D on methane 
+hydrates; in fact, most said that R&D for methane hydrates was 
+generally beyond their research time horizon. 
+
+In addition, DOE manages the EPAct 2005, section 999 program and uses 
+25 percent of the appropriations to conduct R&D projects in four 
+principal areas: drilling under extreme conditions, environmental 
+impacts of oil and gas development, enhanced and unconventional oil 
+recovery, and resource assessment.[Footnote 15] RPSEA's share of these 
+appropriations is used to conduct projects related to ultra-deepwater 
+technology, unconventional gas exploration and production technology, 
+and the technology challenges of small producers. Because funding has 
+been distributed only in recent years, DOE and RPSEA projects are in 
+their initial stages. 
+
+DOE Works to Ensure That Its R&D Supports Industry, but Does Not 
+Formally Assess the Likelihood That Industry Would Conduct Research 
+Without Federal Funding: 
+
+DOE relies on its knowledge of industry's R&D and its project selection 
+process to ensure that its R&D supports industry; however, DOE does not 
+formally assess the likelihood that industry would independently 
+conduct this R&D without federal funding. DOE officials obtain 
+information about industry R&D by reviewing technical literature and 
+trade publications; supporting and participating in consortia where 
+industry members share information regarding cost-shared R&D projects; 
+and participating in or conducting conferences, technical association 
+meetings, and workshops. In the last 5 years, DOE has sponsored or 
+cosponsored 43 conferences, and participated in an additional 19. One 
+of the agency's primary means for obtaining first-hand information from 
+industry officials are the workshops DOE conducts with invited 
+stakeholders, including representatives from across the oil and gas 
+industry, as well as representatives from academia and other national 
+labs. These workshops give DOE officials opportunity to gain insight 
+and expertise from industry stakeholders regarding R&D needs, and serve 
+to identify key areas of concern that could potentially benefit from 
+federal R&D support. 
+
+In addition to staying abreast of industry's R&D, DOE uses a project 
+selection process that includes an assessment of several factors that 
+help ensure its R&D addresses industry R&D needs. Specifically, DOE 
+uses information it gathers in its workshops to prioritize research 
+areas and guide its Funding Opportunity Announcements (FOA)--requests 
+for proposals in specific research areas such as improving electronic 
+drilling equipment.[Footnote 16] According to DOE officials, the 
+department conducts more rigorous planning for its section 999 program 
+and its methane hydrates program. Specifically, they noted that for 
+these programs, DOE is required to develop annual or multiyear plans. 
+In addition, these programs also obtain input from panels of industry 
+professionals. 
+
+As part of its typical selection process, DOE examines the applications 
+submitted in response to its FOAs based on three weighted criteria: 
+scientific and technical merit, technical approach, and technical and 
+management capabilities.[Footnote 17] Scientific and technical merit, 
+which is weighted most heavily, requires applicants to discuss the 
+significance of the problem the proposal addresses, demonstrate an 
+understanding of the current technology and information gaps that 
+exist, and consider the likelihood that the proposed project will 
+advance the current state of technology, knowledge, or capabilities. 
+The technical approach criterion evaluates the planning and 
+administrative aspects of the proposed plan to ensure that the 
+applicant's planned approach will achieve the project's expected 
+benefits. The technical and management capability criterion evaluates 
+the credentials, capabilities, and experience of the applicant, 
+including whether the applicant can perform the proposed project tasks. 
+
+Once applications are received in response to an FOA, they are reviewed 
+by a Merit Review Panel. This panel, which is appointed by DOE, is 
+generally composed of at least three reviewers that are knowledgeable 
+in the subject area. The Merit Review Panel reads, scores, and ranks 
+the proposals based on the criteria stated above, and records their 
+judgments in a Board Report. This report contains the final consensus 
+scores, strengths, and weaknesses determined by the panel for each 
+proposal submitted. This report is then reviewed by a selected senior 
+DOE official who, to maximize the effectiveness of available government 
+funding, also may consider additional factors when selecting among 
+proposals, such as diversity of technological approaches and methods or 
+geographic region. As noted above, DOE officials told us that projects 
+selected under section 999 and the methane hydrates program are subject 
+to additional requirements, including regular peer review. 
+
+Over the last several years, OMB has evaluated DOE's R&D programs as 
+part of its goal to identify strengths and weaknesses and make federal 
+programs more effective. OMB has challenged DOE to better justify the 
+need for government research. It has found that DOE's oil R&D program 
+and part of its gas R&D program fund projects comparable to those 
+funded by private industry, and generally for the direct benefit of 
+private industry. However, OMB specifically acknowledged that the 
+methane hydrates program is an exception that can provide a unique 
+contribution, addressing longer-term research that industry will not 
+likely conduct. DOE officials told us they believe that the process 
+followed prior to OMB's analysis was successful in minimizing DOE 
+duplication of industry oil and gas research, and they have continued 
+to follow these same procedures despite subsequent funding reductions. 
+
+Based on our review, DOE's project selection process helps ensure that 
+DOE is informed about industry activities, but the process does not 
+formally assess the likelihood that industry would perform the research 
+without federal funding. Such an assessment is not made because DOE's 
+screening criteria do not explicitly require this type of evaluation. 
+Despite the lack of an assessment, DOE officials continue to believe 
+that DOE's oil and gas R&D activities only minimally duplicate 
+industry's R&D activities because of their extensive interaction with 
+industry. Nonetheless, in our examination of DOE's current projects, we 
+found instances where some--particularly near-term R&D on advanced 
+drilling and improved recovery of oil and gas--are similar to 
+industry's R&D activities. As a result, some of DOE's oil and gas R&D 
+might include activities that industry would conduct without federal 
+funding. On the other hand, we also found examples in which DOE 
+conducts near-term R&D that industry may lack incentive to perform 
+without federal funds. For example, we previously reported that the 
+Bureau of Land Management expressed the need for federal funding to 
+monitor the impact of oil and gas activities on wildlife, groundwater, 
+and surface water in the Powder River Basin in Wyoming and Montana, a 
+major gas producing area.[Footnote 18] In this regard, we found that 
+DOE partnered with the Bureau of Land Management on several projects 
+related to wildlife and water in the Powder River Basin, primarily 
+because industry has little incentive to conduct research necessary to 
+understand general impacts to wildlife from oil and gas activity. 
+
+Conclusions: 
+
+DOE plays an important role in conducting oil and gas R&D that U.S. 
+industry may have limited incentive to conduct, such as longer-term, 
+high-risk research. However, in some cases, DOE's near-term R&D may 
+address challenges that industry has an incentive to undertake on its 
+own, without federal funding. While DOE's project selection process 
+includes criteria that help it consider ongoing industry R&D, a more 
+formal and rigorous assessment of its efforts and those of industry 
+would help DOE ensure that it selects projects that industry is 
+unlikely to pursue. Moreover, this formal assessment could help it 
+better justify future funding for its oil and gas R&D. 
+
+Recommendation for Executive Action: 
+
+To better ensure that DOE selects oil and gas R&D projects that 
+industry is unlikely to pursue, we recommend that the Secretary of 
+Energy direct the Assistant Secretary for Fossil Energy to include in 
+DOE's project selection process a formal assessment of the likelihood 
+that the R&D would not have occurred without federal funding. 
+
+Agency Comments: 
+
+We provided a copy of our draft report to DOE for its review and 
+comment. DOE had no comment on our recommendation, and provided only 
+technical comments which we incorporated as appropriate. 
+
+As agreed with your office, unless you publicly announce the contents 
+of this report earlier, we plan no further distribution until 30 days 
+from the report date. At that time, we will send copies to interested 
+congressional committees and the Secretary of Energy. The report also 
+will be available at no charge on the GAO Web site at [hyperlink, 
+http://www.gao.gov]. 
+
+If you or your staff have any questions about this report, please 
+contact me at (202) 512-3841, or gaffiganm@gao.gov. Contact points for 
+our Offices of Congressional Relations and Public Affairs may be found 
+on the last page of this report. GAO staff who made major contributions 
+to this report are listed in appendix III. 
+
+Sincerely yours, 
+
+Signed by: 
+
+Mark E. Gaffigan: 
+Director, Natural Resources and Environment: 
+
+[End of section] 
+
+Appendix I: Objectives, Scope, and Methodology: 
+
+The objectives of this report were to examine (1) how much U.S. 
+industry has invested in oil and gas research and development (R&D) 
+over the last 10 years and the current focus of these activities; (2) 
+how the Department of Energy's (DOE) oil and gas R&D funding and 
+activities compare with industry's, and (3) to what extent DOE ensures 
+that its oil and gas R&D would not occur without federal funding. 
+
+To determine how much the U.S. industry has invested in oil and gas R&D 
+over the last 10 years, we used DOE data from the Energy Information 
+Administration (EIA) for 1997 through 2006, the most recent year for 
+which data were available. These data are self-reported by individual 
+companies through a survey administered by DOE, and compiled using 
+DOE's Financial Reporting System (FRS). DOE collects these data from 
+U.S.-based publicly owned companies or U.S.-based subsidiaries that 
+have at least 1 percent of either production or reserves of oil or gas 
+in the United States, or 1 percent of either refining capacity or 
+petroleum product sales in the United States. The sample for 2006 
+included 27 companies; however, the number of companies included in the 
+survey may vary from year to year. Because these data do not capture 
+spending by service companies or all U.S. or international oil and gas 
+companies that have a presence in the United States but are based 
+abroad, the resulting data underestimate U.S. industry R&D funding. To 
+assess the reliability of these data, we reviewed EIA documentation and 
+interviewed EIA officials to discuss the data contained in the FRS. We 
+found no comprehensive sources of data for oil and gas R&D funding. To 
+gather information about service companies' R&D spending, we obtained 
+data from Security and Exchange Commission (SEC) 10-K Reports for five 
+of the largest service companies (Schlumberger, Halliburton, Baker 
+Hughes, Smith International, and Weatherford International) as 
+identified by various industry sources. These data therefore do not 
+reflect total service company R&D spending. We found the EIA and SEC 
+data to be sufficiently reliable for the purposes of this report. 
+
+To determine the current focus of U.S. industry R&D activities, we 
+spoke with officials from oil and gas companies of varying types and 
+sizes, including majors, service companies, and larger and smaller 
+independents. We spoke with 4 majors, 3 service companies, 4 larger 
+independents, and 25 smaller independents. In selecting these 
+companies, we considered a variety of information sources, including: 
+EIA's 2006 FRS, SEC 10-K Reports, and the Oil and Gas Journal's list of 
+top 200 companies in terms of total assets. To select the smaller 
+independents and obtain their contact information, we obtained a 
+database of U.S. oil and gas producers published by Midwest Publishing. 
+Using this database, we selected a geographically stratified, 
+judgmental sample of 25 oil and gas producers that produce less than 
+900,000 barrels of oil per year and/or 9.9 billion cubic feet of gas 
+per year. We contacted officials from these companies by phone and 
+conducted a semistructured interview to obtain consistent information 
+from each. Although the results may not be generalized to the industry 
+as a whole, we considered geographic factors that may be associated 
+with differences in R&D efforts in selecting this sample. 
+
+To determine how DOE's oil and gas R&D funding compares with U.S. 
+industry, we evaluated DOE's appropriations from 1997 to 2006 and 
+compared them to U.S. industry spending gathered via the EIA's FRS. We 
+obtained data about DOE's appropriations for oil and gas activities and 
+congressionally directed projects from available budget documents. We 
+also obtained information about additional funding included in the 
+Energy Policy Act of 2005 (EPAct 2005) by reviewing the legislation and 
+through discussions with DOE officials. In addition, we consulted 
+budget information to provide data for DOE's most recent oil and gas 
+appropriations for fiscal years 2007 and 2008. To assess the 
+reliability of DOE's data, we interviewed several key officials from 
+the EIA and from DOE's Office of Fossil Energy, including the National 
+Energy Technology Laboratory. We found the data sufficiently reliable 
+for the purposes of this report. 
+
+To determine how DOE's oil and gas R&D activities compare with U.S. 
+industry, we reviewed DOE's detailed project information and related 
+documents and interviewed key officials from EIA and from DOE's Office 
+of Fossil Energy, and the National Energy Technology Laboratory. We 
+compared these responses with those gathered from a judgmental sample 
+of U.S. industry representatives from majors, service companies, and 
+larger and smaller independent oil and gas companies. We also gathered 
+perspectives from organizations such as the Independent Petroleum 
+Association of America, the Research Partnership to Secure Energy for 
+America, the Society of Petroleum Engineers, the American Petroleum 
+Institute, the Petroleum Technology Transfer Council, and the American 
+Association of Petroleum Geologists. 
+
+To determine the extent to which DOE ensures that its oil and gas R&D 
+would not occur without federal funding, we discussed industry 
+interaction and the project selection process with DOE officials. We 
+also obtained examples of funding opportunity announcements and 
+workshop summary documents, and reviewed the project selection process 
+with DOE officials. 
+
+We also were asked to provide descriptive information about the oil and 
+gas R&D spending and activities other nations' governments are 
+conducting, which is contained in appendix II. To gather information on 
+other nations' government's oil and gas R&D expenditures, we used data 
+from the International Energy Agency (IEA) for 1997 through 2006, the 
+most recent year for which data are available. These data are reported 
+by the individual nations to IEA and compiled annually.[Footnote 19] 
+Data reported by IEA include total energy R&D expenditures, and oil and 
+gas R&D expenditures broken down into the following subcategories: 
+
+* Enhanced production, which includes secondary and tertiary recovery 
+of oil and gas; 
+
+* Refining, transportation, and storage, which includes strategic 
+storage of oil and gas, safety aspects of liquefied natural gas 
+transportation and storage, and pipeline evaluation; 
+
+* Nonconventional production, which includes advanced drilling 
+technologies for nonconventional oil and gas, heavy oil, deep-water 
+extraction, oil shale, and oil sands; 
+
+* Oil and gas combustion, which includes turbo engines, several types 
+of turbines, and certain types of flue gas cleanup research; 
+
+* Oil and gas conversion, which is gas-to-liquid technologies; and: 
+
+* Other oil and gas, which includes development of advanced exploration 
+methods, deep-drilling equipment and techniques, and alleviation of 
+environmental impacts of off-shore oil and gas. 
+
+To select the countries highlighted in appendix II, we used 2004 
+through 2006 oil and gas R&D expenditure data, and ranked the countries 
+with the highest average oil and gas R&D expenditures during those 3 
+years, with the exception of the United States. According to IEA, the 
+nations with the highest average oil and gas R&D expenditures for 2004 
+through 2006 were Japan, France, Canada, Norway, Italy, and 
+Switzerland. We attempted to contact officials from these six nations 
+to discuss their oil and gas R&D expenditures, but we did not receive a 
+response from Italy. Therefore, we include data for the remaining five 
+nations in appendix II. We found no comprehensive source of information 
+illustrating the R&D expenditures for all nations, and chose to use IEA 
+data, which we found to be sufficiently reliable for the purposes of 
+this report. 
+
+We conducted this performance audit from January 2008 to December 2008 
+in accordance with generally accepted government auditing standards. 
+Those standards require that we plan and perform the audit to obtain 
+sufficient, appropriate evidence to provide a reasonable basis for our 
+findings and conclusions based on our audit objectives. 
+
+[End of section] 
+
+Appendix II: Oil and Gas R&D Spending and Activities Conducted by 
+Selected Nations' Governments: 
+
+Canada: 
+
+Background and Energy R&D: 
+
+Canada is rich in energy resources, endowed with large reserves of 
+conventional and nonconventional oil and gas, coal, and uranium, and 
+potential for hydroelectric power. It is among the world's largest 
+producers of oil and is a significant energy exporter. According to 
+Canadian officials, the focus of Canada's R&D portfolio is directed in 
+large part by the diversity and abundance of the country's natural 
+energy resources; because these resources are so diverse, the 
+government does not focus its energy R&D efforts heavily in any one 
+area. 
+
+Canadian officials stated that one role of government is to fund long- 
+term, high-risk projects that industry is not economically motivated to 
+conduct. Officials also stated that, while the government avoids 
+pursuing research that benefits a specific company, or is duplicative 
+of what the private sector is already doing, government-supported R&D 
+should focus on technology that is relevant and beneficial to industry 
+as a whole. A key component of this objective is the government's 
+increased emphasis on helping move a newly developed product into 
+commercialization in order to accelerate innovation. 
+
+From 1997 through 2006, Canada's energy R&D spending totaled 
+approximately $3 billion, and has generally increased.[Footnote 20] 
+Spending for the 10-year period reached a low point of about $241 
+million in 1999, but increased in subsequent years with the exception 
+of a significant drop in funding in 2004. Energy R&D spending reached 
+its peak for the 10-year period in 2006, totaling nearly $433 million 
+(see table 2). The research area that received the greatest funding in 
+2006 was nuclear fission and fusion, followed by spending on fossil 
+fuels. 
+
+Table 2: Canada's Total Energy R&D Spending (U.S. dollars in millions): 
+
+Total Energy R&D: 
+Fiscal Year 1997: $261.0 million; 
+Fiscal Year 1998: $245.9 million; 
+Fiscal Year 1999: $240.9 million; 
+Fiscal Year 2000: $247.9 million; 
+Fiscal Year 2001: $269.6 million; 
+Fiscal Year 2002: $292.4 million; 
+Fiscal Year 2003: $320.7 million; 
+Fiscal Year 2004: $268.1 million; 
+Fiscal Year 2005: $413.1 million; 
+Fiscal Year 2006: $432.8 million; 
+Total: $2,992.3. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[End of table] 
+
+Oil and Gas R&D Spending and Activities: 
+
+From 1997 through 2006, Canada's national oil and gas R&D spending 
+totaled nearly $565 million. Over the 10-year period, spending levels 
+fell as low as about $49 million in 2000, and peaked at about $71 
+million in 2005. In 2006, oil and gas R&D totaled over $62 million and 
+represented more than 14 percent of Canada's total energy R&D spending. 
+The majority of funding goes toward "other oil and gas" and 
+"nonconventional production" (see table 3). 
+
+Table 3: Breakdown of Canada's Oil and Gas R&D Spending by Research 
+Area (U.S. dollars in millions): 
+
+Research Area: Enhanced production; 
+Fiscal Year 1997: $1.9 million; 
+Fiscal Year 1998: $2.1 million; 
+Fiscal Year 1999: $12.0 million; 
+Fiscal Year 2000: $7.7 million; 
+Fiscal Year 2001: $10.3 million; 
+Fiscal Year 2002: $9.3 million; 
+Fiscal Year 2003: $3.5 million; 
+Fiscal Year 2004: $6.4 million; 
+Fiscal Year 2005: $10.6 million; 
+Fiscal Year 2006: $10.4 million; 
+Total: $74.1 million. 
+
+Research Area: Refining transportation and storage; 
+Fiscal Year 1997: $9.6 million; 
+Fiscal Year 1998: $7.2 million; 
+Fiscal Year 1999: $10.0 million; 
+Fiscal Year 2000: $5.9 million; 
+Fiscal Year 2001: $6.6 million; 
+Fiscal Year 2002: $8.0 million; 
+Fiscal Year 2003: $9.5 million; 
+Fiscal Year 2004: $4.8 million; 
+Fiscal Year 2005: $6.9 million; 
+Fiscal Year 2006: $4.6 million; 
+Total: $73.0 million. 
+
+Research Area: Nonconventional production; 
+Fiscal Year 1997: $31.3 million; 
+Fiscal Year 1998: $33.9 million; 
+Fiscal Year 1999: $15.7 million; 
+Fiscal Year 2000: $17.6 million; 
+Fiscal Year 2001: $21.4 million; 
+Fiscal Year 2002: $19.1 million; 
+Fiscal Year 2003: $23.5 million; 
+Fiscal Year 2004: $17.8 million; 
+Fiscal Year 2005: $25.2 million; 
+Fiscal Year 2006: $23.4 million; 
+Total: $228.8 million. 
+
+Research Area: Combustion; 
+Fiscal Year 1997: [A] 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.8 million; 
+Fiscal Year 2005: $0.6 million; 
+Fiscal Year 2006: $0.6 million; 
+Total: $1.9 million. 
+
+Research Area: Conversion; 
+Fiscal Year 1997: [A]; 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $2.7 million; 
+Fiscal Year 2005: $0.3 million; 
+Fiscal Year 2006: $0.2 million; 
+Total: $3.1 million. 
+
+Research Area: Other oil and gas; 
+Fiscal Year 1997: $8.7 million; 
+Fiscal Year 1998: $9.4 million; 
+Fiscal Year 1999: $15.4 million; 
+Fiscal Year 2000: $17.5 million; 
+Fiscal Year 2001: $21.2 million; 
+Fiscal Year 2002: $17.5 million; 
+Fiscal Year 2003: $23.7 million; 
+Fiscal Year 2004: $19.8 million; 
+Fiscal Year 2005: $27.3 million; 
+Fiscal Year 2006: $23.4 million; 
+Total: $184.0 million. 
+
+Research Area: Total oil and gas; 
+Fiscal Year 1997: $51.4 million; 
+Fiscal Year 1998: $52.7 million; 
+Fiscal Year 1999: $53.1 million; 
+Fiscal Year 2000: $48.7 million; 
+Fiscal Year 2001: $59.4 million; 
+Fiscal Year 2002: $53.9 million; 
+Fiscal Year 2003: $60.1 million; 
+Fiscal Year 2004: $52.3 million; 
+Fiscal Year 2005: $70.8 million; 
+Fiscal Year 2006: $62.5 million; 
+Total: $565.0 million. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[A] Data were not available for this year. 
+
+[End of table] 
+
+France: 
+
+Background and Energy R&D: 
+
+France has few domestic oil and gas resources, but is a large consumer 
+of energy. According to French officials, the French government has 
+encouraged the use of nuclear power as an alternative energy source 
+where possible, and the proportion of France's total energy consumption 
+derived from oil has decreased from 71 percent in 1973 to 36 percent in 
+2004. 
+
+French officials told us that the main objectives of its energy 
+strategy are to contribute to national energy independence and 
+guarantee security of supply; ensure competitive energy prices; protect 
+human health and the environment, in particular by fighting against 
+climate change; and guarantee access to energy for all. The French 
+government also has worked to redefine what is classified under 
+"research and development." A major study published in 2007 concluded 
+that more activities should be categorized as R&D for reporting 
+purposes, and that the country's previously reported R&D spending data 
+may be artificially low. 
+
+From 1997 through 2005, energy R&D spending totaled about $7.1 billion 
+and has fluctuated: it dipped as low as $543 million in 2001, and 
+peaked at about $965 million in 2002. In 2005, the most recent year for 
+which data are available, the French government devoted over $907 
+million to energy R&D (see table 4). The research area that received 
+the greatest funding in 2005 was nuclear fission and fusion, followed 
+by spending on fossil fuels. 
+
+Table 4: France's Total Energy R&D Spending (U.S. dollars in millions): 
+
+Total Energy R&D: 
+Fiscal Year 1997: $629.8 million; 
+Fiscal Year 1998: $671.7 million; 
+Fiscal Year 1999: $786.5 million; 
+Fiscal Year 2000: $736.5 million; 
+Fiscal Year 2001: $543.5 million; 
+Fiscal Year 2002: $965.1 million; 
+Fiscal Year 2003: $938.9 million; 
+Fiscal Year 2004: $876.9 million; 
+Fiscal Year 2005: $907.4 million; 
+Total: $7,056.3. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[End of table] 
+
+Oil and Gas R&D Spending and Activities: 
+
+From 1997 through 2005, France spent about $917 million on oil and gas 
+R&D. France's oil and gas R&D spending increased suddenly and 
+dramatically in 2002 from about $42 million in the previous year to 
+about $210 million, but spending has declined since 2002. In 2005, oil 
+and gas R&D totaled over $151 million and represented more than 16 
+percent of France's total energy R&D spending (see table 5). 
+
+According to the oil and gas R&D spending data supplied by IEA for 
+2005, nearly all of current funding goes toward "enhanced production" 
+and "other oil and gas," which encompasses such research areas as 
+development of advanced exploration methods, deep-drilling equipment 
+and techniques, and alleviation of environmental impact of off-shore 
+oil and gas. French officials with whom we spoke corroborated this, and 
+also highlighted activities related to improvements in refining, 
+combustion, and diversification of energy sources. Their work is done 
+primarily for the benefit of the large French oil and gas industry. The 
+country aims to both improve basic understanding of resources, as well 
+as develop commercially viable products. 
+
+Table 5: Breakdown of France's Oil and Gas R&D Spending by Research 
+Area (U.S. dollars in millions): 
+
+Research Area: Enhanced production; 
+Fiscal Year 1997: $13.0 million; 
+Fiscal Year 1998: $12.8 million; 
+Fiscal Year 1999: $12.8 million; 
+Fiscal Year 2000: $5.8 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $147.7 million; 
+Fiscal Year 2003: $148.0 million; 
+Fiscal Year 2004: $119.2 million; 
+Fiscal Year 2005: $102.2 million; 
+Total: $561.4 million. 
+
+Research Area: Refining transportation and storage; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $3.8 million; 
+Fiscal Year 2001: $5.8 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.5 million; 
+Fiscal Year 2005: $0.5 million; 
+Total: $10.5 million. 
+
+Research Area: Nonconventional production; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.5 million; 
+Fiscal Year 2002: 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: [A]; 
+Fiscal Year 2005: [A]; 
+Total: $1.0 million. 
+
+Research Area: Combustion; 
+Fiscal Year 1997: [A] 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: $0.4 million; 
+Fiscal Year 2004: $0.4 million; 
+Fiscal Year 2005: $0.7 million; 
+Total: $1.5 million. 
+
+Research Area: Conversion; 
+Fiscal Year 1997: [A]; 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: $0.5 million; 
+Fiscal Year 2004: $0.4 million; 
+Fiscal Year 2005: $0.4 million; 
+Total: $1.3 million. 
+
+Research Area: Other oil and gas; 
+Fiscal Year 1997: $24.2 million; 
+Fiscal Year 1998: $23.9 million; 
+Fiscal Year 1999: $23.9 million; 
+Fiscal Year 2000: $28.7 million; 
+Fiscal Year 2001: $35.3 million; 
+Fiscal Year 2002: $61.9 million; 
+Fiscal Year 2003: $50.6 million; 
+Fiscal Year 2004: $44.7 million; 
+Fiscal Year 2005: $47.6 million; 
+Total: $340.8 million. 
+
+Research Area: Total oil and gas; 
+Fiscal Year 1997: $37.2 million; 
+Fiscal Year 1998: $36.7 million; 
+Fiscal Year 1999: $36.7 million; 
+Fiscal Year 2000: $38.3 million; 
+Fiscal Year 2001: $41.6 million; 
+Fiscal Year 2002: $210.0 million; 
+Fiscal Year 2003: $199.5 million; 
+Fiscal Year 2004: $165.2 million; 
+Fiscal Year 2005: $151.4 million; 
+Total: $916.6 million. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[A] Data were not available for this year. 
+
+[End of table] 
+
+Japan: 
+
+Background and Energy R&D: 
+
+Japan is the third-largest oil consumer in the world, but has virtually 
+no domestic oil or gas reserves and relies heavily on imports to meet 
+its consumption needs. Japan is the second-largest net importer of 
+crude oil and largest net importer of liquefied natural gas in the 
+world. Japan places a high priority on energy research, and has a 
+strong, government-supported, energy R&D program. The Japanese 
+government actively pursues energy resources development as well as 
+efficiency measures in an attempt to improve energy efficiency, reduce 
+dependence on oil, and maintain nuclear power generation. 
+
+From 1997 through 2006, energy R&D spending in Japan totaled about 
+$33.6 billion, and has followed a generally increasing trend. Total 
+energy R&D spending peaked in 2002, reaching a high point of about $3.9 
+billion for the 10-year period. A 2-year decline in spending followed 
+this peak in 2002, but spending resumed its upward trend in 2005. In 
+2006, Japan allocated nearly $3.4 billion toward energy R&D (see table 
+6). Nuclear fission and fusion research represented the bulk of R&D 
+spending in 2006, at about $2.1 billion dollars. 
+
+Table 6: Japan's Total Energy R&D Spending (U.S. dollars in millions): 
+
+Total Energy R&D: 
+Fiscal Year 1997: $3,147.3 million; 
+Fiscal Year 1998: $3,177.1 million; 
+Fiscal Year 1999: $3,157.7 million; 
+Fiscal Year 2000: $3,234.8 million; 
+Fiscal Year 2001: $3,256.3 million; 
+Fiscal Year 2002: $3,941.0 million; 
+Fiscal Year 2003: $3,600.6 million; 
+Fiscal Year 2004: $3,357.4 million; 
+Fiscal Year 2005: $3,372.9 million; 
+Fiscal Year 2006: $3,384.9 million; 
+Total: $33,629.9. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[End of table] 
+
+Oil and Gas R&D Spending and Activities: 
+
+Despite representing less than 7 percent of the nation's total energy 
+R&D spending, Japan has spent more on oil and gas R&D than any other 
+IEA nation in recent years. From 1997 through 2006, total oil and gas 
+R&D spending totaled over $1.3 billion dollars. In 2002, spending 
+increased dramatically to almost $250 million, more than eight times 
+the amount spent in 2001. In 2006, oil and gas R&D totaled over $214 
+million (see table 7). 
+
+In 2006, Japan spread its oil and gas R&D among many activities. One 
+example is methane hydrate research. The nation has a large 
+accumulation of methane hydrates located just off its southeastern 
+coast. Despite methane hydrate research being a relatively new field, 
+Japan has undertaken a significant, multiyear program devoted to 
+researching this potential new energy source. Japan also cooperates and 
+partners with DOE for some of its methane hydrate research. 
+
+Table 7: Breakdown of Japan's Oil and Gas R&D Spending by Research Area 
+(U.S. dollars in millions): 
+
+Research Area: Enhanced production; 
+Fiscal Year 1997: $3.8 million; 
+Fiscal Year 1998: $22.6 million; 
+Fiscal Year 1999: $21.0 million; 
+Fiscal Year 2000: $15.2 million; 
+Fiscal Year 2001: $22.7 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0. million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $29.4 million; 
+Total: $114.4 million. 
+
+Research Area: Refining transportation and storage; 
+Fiscal Year 1997: $105.8 million; 
+Fiscal Year 1998: $58.0 million; 
+Fiscal Year 1999: $2.5 million; 
+Fiscal Year 2000: $2.6 million; 
+Fiscal Year 2001: $2.0 million; 
+Fiscal Year 2002: $75.5 million; 
+Fiscal Year 2003: $50.2 million; 
+Fiscal Year 2004: $138.7 million; 
+Fiscal Year 2005: $155.2 million; 
+Fiscal Year 2006: $70.2 million; 
+Total: $660.5 million. 
+
+Research Area: Nonconventional production; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $32.0 million; 
+Total: $32.0 million. 
+
+Research Area: Combustion; 
+Fiscal Year 1997: [A] 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $0.0 million. 
+
+Research Area: Conversion; 
+Fiscal Year 1997: [A]; 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $23.6 million; 
+Total: $23.6 million. 
+
+Research Area: Other oil and gas; 
+Fiscal Year 1997: $4.9 million; 
+Fiscal Year 1998: $5.4 million; 
+Fiscal Year 1999: $5.7 million; 
+Fiscal Year 2000: $5.3 million; 
+Fiscal Year 2001: $5.0 million; 
+Fiscal Year 2002: $173.5 million; 
+Fiscal Year 2003: $157.3 million; 
+Fiscal Year 2004: $52.5 million; 
+Fiscal Year 2005: $31.7 million; 
+Fiscal Year 2006: $58.9 million; 
+Total: $500.0 million. 
+
+Research Area: Total oil and gas; 
+Fiscal Year 1997: $114.3 million; 
+Fiscal Year 1998: $86.0 million; 
+Fiscal Year 1999: $29.1 million; 
+Fiscal Year 2000: $23.1 million; 
+Fiscal Year 2001: $29.7 million; 
+Fiscal Year 2002: $248.9 million; 
+Fiscal Year 2003: $207.4 million; 
+Fiscal Year 2004: $191.2 million; 
+Fiscal Year 2005: $186.9 million; 
+Fiscal Year 2006: $214.0 million; 
+Total: $1,330.5 million. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[A] Data were not available for this year. 
+
+[End of table] 
+
+Norway: 
+
+Background and Energy R&D: 
+
+Norway has vast proven offshore petroleum reserves, and is the fourth- 
+largest net oil exporting country according to EIA data. Norway's 
+economy is highly dependent on its offshore oil and gas sector, which 
+provides the government with its largest single source of revenue and 
+the largest contribution to gross domestic product. The country also 
+has extensively developed its hydroelectric power industry, and it 
+relies heavily on hydroelectric power as Norway's primary means of 
+domestic electricity generation. 
+
+From 1997 through 2006, Norway's energy R&D spending totaled about 
+$595.6 million, and followed a general upward trend, increasing 
+steadily since 2003. In 2006, the nation spent over $79 million on 
+energy R&D (see table 8). Within Norway's energy R&D portfolio, the 
+vast majority of spending is dedicated to fossil fuel R&D: the fossil 
+fuel line item represented over 60 percent of total R&D spending in 
+2006. 
+
+Table 8: Norway's Total Energy R&D Spending (U.S. dollars in millions): 
+
+Total Energy R&D: 
+Fiscal Year 1997: $50.2 million; 
+Fiscal Year 1998: $49.8 million; 
+Fiscal Year 1999: $62.5 million; 
+Fiscal Year 2000: $53.8 million; 
+Fiscal Year 2001: $55.2 million; 
+Fiscal Year 2002: $57.4 million; 
+Fiscal Year 2003: $54.7 million; 
+Fiscal Year 2004: $63.9 million; 
+Fiscal Year 2005: $68.7 million; 
+Fiscal Year 2006: $79.4 million; 
+Total: $595.6. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[End of table] 
+
+Oil and Gas R&D Spending and Activities: 
+
+From 1997 through 2006, Norway spent a total of nearly $300 million on 
+oil and gas R&D, and in this time period, spending in Norway fluctuated 
+widely. Oil and gas R&D spending in 1997 was about $24 million, it 
+reached a low of about $22 million in 2002, and in 2006, the most 
+recent year included in our sample, Norway spent nearly $38 million on 
+oil and gas R&D. According to IEA data, "other oil and gas" makes up 
+the largest portion of oil and gas R&D spending, followed by spending 
+toward enhanced production (see table 9). 
+
+Norwegian government officials informed us that the government gives a 
+high priority to oil and gas research, and they spend accordingly. In 
+addition to the high cost of oil and the growing domestic demand, 
+focusing resources in this area serves to bolster the Norwegian 
+government's efforts to develop an international leadership role in oil 
+and gas R&D. Norway's national oil and gas R&D strategy focuses on 
+sustained profitability in the Norwegian petroleum industry; 
+optimization of domestic resources, primarily those occurring on the 
+Norwegian Continental Shelf; and increased technology and knowledge 
+exports that will bolster international competitive advantages to help 
+Norway achieve a leadership role in oil and gas R&D. These goals are 
+carried out through work in eight technology target areas established 
+by the OG21--the body that helps shape the nation's oil and gas 
+strategy. In addition to the OG21, Norway's attention to oil and gas 
+research is bolstered by another group, DEMO2000, a consortium of 
+public, private, and academic stakeholders conducting oil and gas R&D, 
+which is organized similarly to RPSEA in the United States. 
+
+Table 9: Breakdown of Norway's Oil and Gas R&D Spending by Research 
+Area (U.S. dollars in millions): 
+
+Research Area: Enhanced production; 
+Fiscal Year 1997: $10.3 million; 
+Fiscal Year 1998: $7.8 million; 
+Fiscal Year 1999: $9.6 million; 
+Fiscal Year 2000: $6.3 million; 
+Fiscal Year 2001: $5.4 million; 
+Fiscal Year 2002: $4.3 million; 
+Fiscal Year 2003: $5.5 million; 
+Fiscal Year 2004: $7.1 million; 
+Fiscal Year 2005: $5.4 million; 
+Fiscal Year 2006: $10.3 million; 
+Total: $71.9 million. 
+
+Research Area: Refining transportation and storage; 
+Fiscal Year 1997: $1.8 million; 
+Fiscal Year 1998: $1.8 million; 
+Fiscal Year 1999: $3.0 million; 
+Fiscal Year 2000: $2.5 million; 
+Fiscal Year 2001: $2.2 million; 
+Fiscal Year 2002: $1.8 million; 
+Fiscal Year 2003: $2.2 million; 
+Fiscal Year 2004: $2.7 million; 
+Fiscal Year 2005: $3.3 million; 
+Fiscal Year 2006: $4.3 million; 
+Total: $25.5 million. 
+
+Research Area: Nonconventional production; 
+Fiscal Year 1997: $1.7 million; 
+Fiscal Year 1998: $1.2 million; 
+Fiscal Year 1999: $0.5 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $3.5 million. 
+
+Research Area: Combustion; 
+Fiscal Year 1997: [A] 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $0.0 million. 
+
+Research Area: Conversion; 
+Fiscal Year 1997: [A]; 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $2.0 million; 
+Total: $2.7 million. 
+
+Research Area: Other oil and gas; 
+Fiscal Year 1997: $10.4 million; 
+Fiscal Year 1998: $12.4 million; 
+Fiscal Year 1999: $24.4 million; 
+Fiscal Year 2000: $20.3 million; 
+Fiscal Year 2001: $19.5 million; 
+Fiscal Year 2002: $5.7 million; 
+Fiscal Year 2003: $18.5 million; 
+Fiscal Year 2004: $22.2 million; 
+Fiscal Year 2005: $23.7 million; 
+Fiscal Year 2006: $21.3 million; 
+Total: $188.4 million. 
+
+Research Area: Total oil and gas; 
+Fiscal Year 1997: $24.2 million; 
+Fiscal Year 1998: $23.2 million; 
+Fiscal Year 1999: $37.5 million; 
+Fiscal Year 2000: $29.1 million; 
+Fiscal Year 2001: $7.1 million; 
+Fiscal Year 2002: $21.7 million; 
+Fiscal Year 2003: $26.1 million; 
+Fiscal Year 2004: $32.0 million; 
+Fiscal Year 2005: $33.1 million; 
+Fiscal Year 2006: $37.9 million; 
+Total: $292.0 million. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[A] Data were not available for this year. 
+
+[End of table] 
+
+Switzerland: 
+
+Background and Energy R&D: 
+
+Switzerland imports all of its fossil resources, especially oil, and 
+produces renewable forms of energy domestically. Switzerland's energy 
+policy is guided by its federal constitution, which calls for 
+sufficient, reliable, diversified, cost-effective, and environmentally 
+sound energy supply. It also emphasizes the importance of energy 
+efficiency. To move toward these goals, Switzerland has made efforts to 
+reduce fossil fuel use and related carbon dioxide emissions. 
+
+From 1997 through 2006, energy R&D spending totaled nearly $1.1 
+billion, and has followed a generally declining trend with some 
+spending fluctuations. In 2006, the Swiss government devoted over $98 
+million to energy R&D (see table 10). The research area that received 
+the greatest funding in 2006 was nuclear fission and fusion, followed 
+by spending on renewable energy. 
+
+Table 10: Switzerland's Total Energy R&D Spending (U.S. dollars in 
+millions): 
+
+Total Energy R&D: 
+Fiscal Year 1997: $124.7 million; 
+Fiscal Year 1998: $1158 million; 
+Fiscal Year 1999: $113.4 million; 
+Fiscal Year 2000: $104.3 million; 
+Fiscal Year 2001: $107.4 million; 
+Fiscal Year 2002: $109.8 million; 
+Fiscal Year 2003: $111.2 million; 
+Fiscal Year 2004: $96.9 million; 
+Fiscal Year 2005: $93.8 million; 
+Fiscal Year 2006: $98.4 million; 
+Total: $1,075.8. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[End of table] 
+
+Oil and Gas R&D Spending and Activities: 
+
+From 1997 through 2006, Switzerland spent over $76 million on oil and 
+gas R&D. Over the 10-year period, Switzerland's oil and gas R&D 
+spending generally followed a pattern of decline, with the exception of 
+a significant rise in funding in 2002 when funding reached a peak of 
+about $9 million. Despite a relatively steady decline since 2002, 
+spending rose slightly in 2006, the most recent year for which data are 
+available, to total nearly $7 million (see table 11). 
+
+Swiss officials told us that national oil and gas R&D spending is 
+currently focused on research to improve the efficiency and mitigate 
+the environmental impacts of combustion engines that run on fossil 
+fuels. EIA data on Switzerland confirms this: in 2006, over 95 percent 
+of oil and gas R&D funds were dedicated to the combustion line item. 
+
+Table 11: Breakdown of Switzerland's Oil and Gas R&D Spending by 
+Research Area (U.S. dollars in millions): 
+
+Research Area: Enhanced production; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $7.6 million; 
+Fiscal Year 1999: $7.3 million; 
+Fiscal Year 2000: $6.7 million; 
+Fiscal Year 2001: $6.9 million; 
+Fiscal Year 2002: $9.3 million; 
+Fiscal Year 2003: $8.8 million; 
+Fiscal Year 2004: $0.3 million; 
+Fiscal Year 2005: $0.2 million; 
+Fiscal Year 2006: $0.3 million; 
+Total: $47.5 million. 
+
+Research Area: Refining transportation and storage; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $0.0 million. 
+
+Research Area: Nonconventional production; 
+Fiscal Year 1997: $0.0 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $0.0 million. 
+
+Research Area: Combustion; 
+Fiscal Year 1997: [A] 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $7.2 million; 
+Fiscal Year 2005: $6.4 million; 
+Fiscal Year 2006: $6.6 million; 
+Total: $20.2 million. 
+
+Research Area: Conversion; 
+Fiscal Year 1997: [A]; 
+Fiscal Year 1998: [A]; 
+Fiscal Year 1999: [A]; 
+Fiscal Year 2000: [A]; 
+Fiscal Year 2001: [A]; 
+Fiscal Year 2002: [A]; 
+Fiscal Year 2003: [A]; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $0.0 million. 
+
+Research Area: Other oil and gas; 
+Fiscal Year 1997: $8.8 million; 
+Fiscal Year 1998: $0.0 million; 
+Fiscal Year 1999: $0.0 million; 
+Fiscal Year 2000: $0.0 million; 
+Fiscal Year 2001: $0.0 million; 
+Fiscal Year 2002: $0.0 million; 
+Fiscal Year 2003: $0.0 million; 
+Fiscal Year 2004: $0.0 million; 
+Fiscal Year 2005: $0.0 million; 
+Fiscal Year 2006: $0.0 million; 
+Total: $8.8 million. 
+
+Research Area: Total oil and gas; 
+Fiscal Year 1997: $8.8 million; 
+Fiscal Year 1998: $7.6 million; 
+Fiscal Year 1999: $7.3 million; 
+Fiscal Year 2000: $6.7 million; 
+Fiscal Year 2001: $6.9 million; 
+Fiscal Year 2002: $9.3 million; 
+Fiscal Year 2003: $8.8 million; 
+Fiscal Year 2004: $7.5 million; 
+Fiscal Year 2005: $6.7 million; 
+Fiscal Year 2006: $6.9 million; 
+Total: $76.5 million. 
+
+Source: International Energy Agency. 
+
+Note: Totals may not sum due to rounding. 
+
+[A] Data were not available for this year. 
+
+[End of table] 
+
+[End of section] 
+
+Appendix III: GAO Contact and Staff Acknowledgments: 
+
+GAO Contact: 
+
+Mark Gaffigan, (202) 512-3841 or gaffiganm@gao.gov: 
+
+Staff Acknowledgments: 
+
+In addition to the individual named above, Daniel Haas (Assistant 
+Director), Chuck Bausell, Ron Belak, Virginia Chanley, Emily Norman, 
+Alison O'Neill, Stuart Ryba, Barbara Timmerman, and Ignacio Yanes made 
+important contributions to this report. 
+
+[End of section] 
+
+Footnotes: 
+
+[1] For purposes of this report, we will refer to natural gas as "gas." 
+
+[2] GAO, Department of Energy: Oil and Natural Gas Research and 
+Development Activities, [hyperlink, 
+http://www.gao.gov/products/GAO-08-190R] (Washington, D.C.: Nov. 6, 
+2007); Advanced Energy Technologies: Budget Trends and Challenges for 
+DOE's Energy R&D Program, [hyperlink, http://www.gao.gov/products/GAO-
+08-556T] (Washington, D.C.: Mar. 5, 2008); Cooperative Research: 
+Results of U.S.-Industry Partnership to Develop a New Generation of 
+Vehicles, [hyperlink, http://www.gao.gov/products/GAO/RCED-00-81] 
+(Washington, D.C.: Mar. 30, 2000); Renewable Energy: DOE's Funding and 
+Markets for Wind Energy and Solar Cell Technologies, [hyperlink, 
+http://www.gao.gov/products/GAO/RCED-99-130] (Washington, D.C.: May 14, 
+1999); and Department of Energy: Fossil Energy Programs, [hyperlink, 
+http://www.gao.gov/products/GAO/RCED-98-63] (Washington, D.C.: Jan. 30, 
+1998). 
+
+[3] [hyperlink, http://www.gao.gov/products/GAO-08-190R] also described 
+other key criteria, namely, whether the benefits exceed the costs, and 
+whether cost-sharing opportunities with companies exist. Determining 
+whether DOE's current projects meet these criteria was beyond the scope 
+of this report. 
+
+[4] Throughout our report, unless otherwise specified, dollar sums 
+indicate nominal sums that are not adjusted for inflation. When 
+adjusted for inflation, these dollar sums are larger than those we 
+report. 
+
+[5] Throughout our report we refer to U.S industry's funding based on 
+DOE's Financial Reporting System survey, which collects financial data 
+from the largest U.S.-based publicly owned companies or U.S.-based 
+subsidiaries that have at least 1 percent of either production or 
+reserves of oil or gas in the United States, or 1 percent of either 
+refining capacity or petroleum product sales in the United States. The 
+sample for 2006 included 27 companies; however, the number of companies 
+included in the survey may vary from year to year. We found no 
+comprehensive sources of data for oil and gas R&D funding. 
+
+[6] In commenting on our report, DOE officials noted that individual 
+industry R&D spending estimates may overstate reported industry 
+spending because individual companies may include activities which DOE 
+would not consider to be R&D. We could not independently corroborate 
+this view. 
+
+[7] These companies represent five of the largest service companies-- 
+Schlumberger, Halliburton, Baker Hughes, Smith International, and 
+Weatherford International--in terms of total revenue as reported by 
+various industry sources. The data do not reflect total service company 
+R&D. 
+
+[8] Publicly traded companies are required to file 10-K reports 
+annually with the SEC to provide a comprehensive overview of their 
+business and financial condition. 
+
+[9] Improved oil and gas recovery refers to extraction of oil or gas by 
+any method other than those that rely primarily on natural reservoir 
+pressure, gas lift, or a system of pumps. 
+
+[10] Carbon capture and sequestration is a multistage approach for 
+managing produced carbon dioxide by capturing it from stationary point 
+sources such as fossil-fuel-fired power plants, and storing it 
+indefinitely--generally underground in geologic formations or in the 
+ocean. Petroleum coke is a residue with a high carbon content formed 
+during a process that breaks down complex hydrocarbon molecules into 
+simpler forms. 
+
+[11] Part of the decline for gas R&D was due to a transfer of the fuel 
+cell and advanced gas turbines projects out of the gas R&D budget. 
+
+[12] Under EPAct 2005, for fiscal years 2007 through 2017, $50 million 
+from federal royalty, rent, and bonus money from oil and gas leases is 
+to be deposited into a revolving fund available without fiscal year 
+limitation to DOE for activities involving ultra deepwater, 
+unconventional natural gas, technology challenges of small producers, 
+and complementary research performed by NETL. 
+
+[13] EPAct 2005, section 999 also authorized an additional $100 million 
+for fiscal years 2007 through 2016, but Congress has not appropriated 
+any of these additional funds. 
+
+[14] Methane hydrates are cage-like lattices of ice, inside of which 
+molecules of methane are trapped. Methane is the chief constituent of 
+natural gas. 
+
+[15] DOE's complementary activities also include program analysis and 
+planning. 
+
+[16] DOE also refers to these as "solicitations." 
+
+[17] According to DOE officials, weights of criteria depend on 
+objectives of a specific solicitation and specific needs of a program 
+such that development of optimal technical concepts is balanced with 
+diversity of participation and soundly planned R&D. 
+
+[18] GAO, Oil and Gas Development: Increased Permitting Activity Has 
+Lessened BLM's Ability to Meet Its Environmental Protection 
+Responsibilities, [hyperlink, http://www.gao.gov/products/GAO-05-418] 
+(Washington, D.C.: June 17, 2005). 
+
+[19] IEA is an organization of 28 industrialized member nations that 
+was established in the wake of the 1973-1974 Arab oil embargo. IEA acts 
+as an energy policy adviser to the member countries in their effort to 
+ensure reliable, affordable, and clean energy for their citizens. 
+Member countries include Australia, Austria, Belgium, Canada, Czech 
+Republic, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, 
+Italy, Japan, Republic of Korea, Luxembourg, the Netherlands, New 
+Zealand, Norway, Poland, Portugal, Slovak Republic, Spain, Sweden, 
+Switzerland, Turkey, United Kingdom, and the United States. 
+
+[20] The data in this appendix are adjusted to 2006 U.S. dollars using 
+Purchasing Power Parity, which is a method that reflects foreign data 
+in national currencies converted into U.S. dollars, based on a 
+comparable level of purchasing power these data would have in the 
+United States. 
+
+[End of section] 
+
+GAO's Mission: 
+
+The Government Accountability Office, the audit, evaluation and 
+investigative arm of Congress, exists to support Congress in meeting 
+its constitutional responsibilities and to help improve the performance 
+and accountability of the federal government for the American people. 
+GAO examines the use of public funds; evaluates federal programs and 
+policies; and provides analyses, recommendations, and other assistance 
+to help Congress make informed oversight, policy, and funding 
+decisions. GAO's commitment to good government is reflected in its core 
+values of accountability, integrity, and reliability. 
+
+Obtaining Copies of GAO Reports and Testimony: 
+
+The fastest and easiest way to obtain copies of GAO documents at no 
+cost is through GAO's Web site [hyperlink, http://www.gao.gov]. Each 
+weekday, GAO posts newly released reports, testimony, and 
+correspondence on its Web site. To have GAO e-mail you a list of newly 
+posted products every afternoon, go to [hyperlink, http://www.gao.gov] 
+and select "E-mail Updates." 
+
+Order by Phone: 
+
+The price of each GAO publication reflects GAO’s actual cost of
+production and distribution and depends on the number of pages in the
+publication and whether the publication is printed in color or black and
+white. Pricing and ordering information is posted on GAO’s Web site, 
+[hyperlink, http://www.gao.gov/ordering.htm]. 
+
+Place orders by calling (202) 512-6000, toll free (866) 801-7077, or
+TDD (202) 512-2537. 
+
+Orders may be paid for using American Express, Discover Card,
+MasterCard, Visa, check, or money order. Call for additional 
+information. 
+
+To Report Fraud, Waste, and Abuse in Federal Programs: 
+
+Contact: 
+
+Web site: [hyperlink, http://www.gao.gov/fraudnet/fraudnet.htm]: 
+E-mail: fraudnet@gao.gov: 
+Automated answering system: (800) 424-5454 or (202) 512-7470: 
+
+Congressional Relations: 
+
+Ralph Dawn, Managing Director, dawnr@gao.gov: 
+(202) 512-4400: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7125: 
+Washington, D.C. 20548: 
+
+Public Affairs: 
+
+Chuck Young, Managing Director, youngc1@gao.gov: 
+(202) 512-4800: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7149: 
+Washington, D.C. 20548: 		
+		

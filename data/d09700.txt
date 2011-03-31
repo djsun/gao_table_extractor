@@ -1,0 +1,2555 @@
+
+This is the accessible text file for GAO report number GAO-09-700 
+entitled 'Energy Markets: Refinery Outages Can Have Varying Gasoline 
+Price Impacts, but Gaps in Federal Data Limit Understanding of Impacts' 
+which was released on July 30, 2009. 
+
+This text file was formatted by the U.S. Government Accountability 
+Office (GAO) to be accessible to users with visual impairments, as part 
+of a longer term project to improve GAO products' accessibility. Every 
+attempt has been made to maintain the structural and data integrity of 
+the original printed product. Accessibility features, such as text 
+descriptions of tables, consecutively numbered footnotes placed at the 
+end of the file, and the text of agency comment letters, are provided 
+but may not exactly duplicate the presentation or format of the printed 
+version. The portable document format (PDF) file is an exact electronic 
+replica of the printed version. We welcome your feedback. Please E-mail 
+your comments regarding the contents or accessibility features of this 
+document to Webmaster@gao.gov. 
+
+This is a work of the U.S. government and is not subject to copyright 
+protection in the United States. It may be reproduced and distributed 
+in its entirety without further permission from GAO. Because this work 
+may contain copyrighted images or other material, permission from the 
+copyright holder may be necessary if you wish to reproduce this 
+material separately. 
+
+Report to Congressional Requesters: 
+
+United States Government Accountability Office: 
+GAO: 
+
+July 2009: 
+
+Energy Markets: 
+
+Refinery Outages Can Have Varying Gasoline Price Impacts, but Gaps in 
+Federal Data Limit Understanding of Impacts: 
+
+GAO-09-700: 
+
+GAO Highlights: 
+
+Highlights of GAO-09-700, a report to congressional requesters. 
+
+Why GAO Did This Study: 
+
+In 2008, GAO reported that, with the exception of the period following 
+Hurricanes Katrina and Rita, refinery outages in the United States did 
+not show discernible trends in reduced production capacity, frequency, 
+and location from 2002 through 2007. Some outages are planned to 
+perform routine maintenance or upgrades, while unplanned outages occur 
+as a result of equipment failure or other unforeseen problems. GAO was 
+asked to (1) evaluate the effect of refinery outages on wholesale 
+gasoline prices and (2) identify gaps in federal data needed for this 
+and similar analyses. 
+
+GAO selected refinery outages from 2002 through September 2008 that 
+were at least among the largest 60 percent in terms of lost production 
+capacity in their market region and lasted at least 3 days. GAO 
+developed an econometric model and tested a variety of assumptions 
+using public and private data. 
+
+What GAO Found: 
+
+While some unplanned refinery outages, such as those caused by 
+accidents or weather, have had large price effects, GAO found that in 
+general, refinery outages were associated with small increases in 
+gasoline prices. Large price increases occurred when there were large 
+outages; for example, in the aftermath of hurricanes Katrina and Rita. 
+However, we found that such large price increases were rare, and on 
+average, outages were associated with small price increases. For 
+example, GAO found that planned outages generally did not influence 
+prices significantly—likely reflecting refiners’ build-up in 
+inventories to meet demand needs prior to shutting down—while for 
+unplanned outages, average price effects ranged from less than one cent 
+to several cents-per-gallon. Key factors influenced the size of price 
+increases associated with unplanned outages. One such factor was 
+whether the gasoline was branded—gasoline sold at retail under a 
+specific refiner’s trademark—or unbranded—gasoline sold at retail by 
+independent sellers. Our analysis showed that during an unplanned 
+outage, branded wholesale gasoline prices had smaller price increases 
+than unbranded, suggesting that refiners give preference to their own 
+branded customers during outages, while unbranded dealers must seek out 
+supplies in a more constrained market. Another factor that affected the 
+size of price increases associated with outages was the type of 
+gasoline being sold. Some special blends of gasoline developed to 
+reduce emissions of air pollutants exhibited larger average price 
+increases than more widely used and available conventional gasoline, 
+suggesting that these special gasoline blends may have more constrained 
+supply options in the event of an outage. 
+
+Existing federal data contain gaps that have limited GAO’s and 
+Department of Transportation’s (DOT) analyses of petroleum markets and 
+related issues. For example: 
+
+* Data linking refiners to the markets they serve were inadequate for 
+GAO to fully evaluate the price effects of unplanned outages on 
+individual cities, limiting the analysis to broader average effects. 
+
+* Pipeline flow and petroleum product storage data were inadequate for 
+DOT to fully address a January 2009 Congressionally mandated study to 
+identify potential pipeline infrastructure constraints, and limited GAO’
+s ability to identify re-supply options for cities experiencing outage 
+disruptions. 
+
+Federal agencies generally have continued to update their data 
+collection surveys to meet their respective needs and emerging changes 
+in the energy sector. However, in some cases the individual agency 
+efforts have resulted in the collection of information that does not 
+necessarily meet the data needs of other agencies or analysts who 
+monitor petroleum product markets. 
+
+What GAO Recommends: 
+
+We recommend that the Administrator of the Energy Information 
+Administration (EIA) convene a panel of agency officials, industry 
+representatives, and experts to determine if existing data meet the 
+current and future needs of the Congress and analysts who use such 
+data. We provided a draft of this report to EIA, the Environmental 
+Protection Agency (EPA), and the Department of Transportation (DOT). 
+EIA agreed with our recommendations, and EPA and DOT made technical 
+comments only. 
+
+View [hyperlink, http://www.gao.gov/products/GAO-09-700] or key 
+components. For more information, contact Frank Rusco at (202) 512-3814 
+or ruscof@gao.gov. 
+
+[End of section] 
+
+Contents: 
+
+Letter: 
+
+Background: 
+
+While Refinery Outages Can Have Large Price Effects on Rare Occasions, 
+in Most Instances and on Average, Price Effects of Outages Are 
+Relatively Small: 
+
+Gaps in Federal Data Constrain Analyses of Outage Effects and Other 
+Related Issues: 
+
+Conclusions: 
+
+Recommendations for Executive Action: 
+
+Agency Comments and Our Evaluation: 
+
+Appendix I: Scope and Methodology: 
+
+Appendix II: GAO's Quantitative Methodology for Determining Impacts of 
+Refinery Outages on Wholesale Prices: 
+
+Appendix III: GAO Contact and Staff Acknowledgments: 
+
+Tables: 
+
+Table 1: Special Fuel Blends that Experienced Price Increases Greater 
+than Conventional Gasoline Due to Unplanned Refinery Outages: 
+
+Table 2: Special Fuel Blends that Experienced Price Increases About the 
+Same as Conventional Clear Gasoline in the Event of Unplanned Refinery 
+Outages: 
+
+Table 3: Data Used In Our Econometric Model: 
+
+Table 4: Regression Results for Effect of Unplanned Outages on 
+Unbranded Gasoline Prices--Dependent Variable is the Logarithm of 
+Unbranded Gasoline Price: 
+
+Table 5: Regression Results for Effect of Unplanned Outages on Branded 
+Gasoline Prices--Dependent Variable is the Logarithm of Branded 
+Gasoline Price: 
+
+Abbreviations: 
+
+CARB: California Air Resources Board: 
+
+CBG: Cleaner burning gasoline: 
+
+DOE: Department of Energy: 
+
+DOT: Department of Transportation: 
+
+EIA: Energy Information Administration: 
+
+EPA: Environmental Protection Agency: 
+
+FERC: Federal Energy Regulatory Commission: 
+
+HHI: Hirschman Herfindahl Index: 
+
+IIR: Industrial Information Resources, Inc. 
+
+MTBE: Methyl Tertiary Butyl Ether: 
+
+OPIS: Oil Price Information Services: 
+
+PADD: Petroleum Administration for Defense Districts: 
+
+PSRS: Petroleum Supply Reporting System: 
+
+RFG: Reformulated Gasoline: 
+
+RFS: Renewable Fuel Standard: 
+
+RVP: Reid Vapor Pressure: 
+
+[End of section] 
+
+United States Government Accountability Office: 
+Washington, DC 20548: 
+
+July 30, 2009: 
+
+Congressional Requesters: 
+
+The 150 refineries in the United States play an important role in the 
+nation's economy and energy security by supplying consumers and 
+industry with needed petroleum products. Unplanned refinery outages-- 
+such as those caused by hurricanes, fires, or refinery equipment 
+failures--have raised questions about the stability and cost of U.S. 
+gasoline and other petroleum product supplies. In addition to unplanned 
+outages, refineries must periodically undergo planned outages, during 
+which they shut down major pieces of equipment to perform maintenance, 
+overhaul, and repair operations. In October 2008,[Footnote 1] we 
+reported that, with the exception of impacts in 2005 related to 
+Hurricanes Katrina and Rita, refinery outages across the United States 
+generally did not show discernible trends in reduced production 
+capacity or in the frequency and location of outages from 2002 through 
+2007. In addition, in March 2007, the Department of Energy's (DOE) 
+Energy Information Administration (EIA) reported that unplanned 
+refinery outages can result in local supply disruptions that result in 
+temporary price increases; however, refinery outages do not always 
+affect prices.[Footnote 2] Moreover, analyses by EIA and the California 
+Energy Commission have described how an unplanned refinery outage under 
+certain conditions--for example, a tight market supply and demand 
+balance for refined products coupled with low inventories or other 
+sources of re-supply to meet demand in the event of an unplanned 
+outage--can trigger price increases. Still, the impacts on gasoline 
+prices due to refinery outages and other disruptions are not fully 
+understood. In particular, while it is well understood that extreme 
+events that disrupt crude oil or petroleum product supplies can have 
+significant effects on the prices of these commodities, the price 
+effects of less dramatic disruptions, such as routine refinery outages, 
+are not well understood. 
+
+Further compounding the potential impact of refinery outages, in recent 
+years prior to the current economic recession, global demand for crude 
+oil and petroleum products such as gasoline, diesel fuel, and jet fuel 
+had grown more quickly than available capacity to produce them. 
+Furthermore, some refiners had been running near capacity, particularly 
+during the peak-demand summer months. During tight market conditions, 
+unexpected refinery outages could stress the petroleum product supply 
+system, affecting operations at refineries, pipelines, and storage 
+terminals. In addition, the proliferation of special fuel blends-- 
+gasoline that has special characteristics designed to meet federal, 
+state, and local air quality requirements--as well as the increasing 
+use of biofuels such as ethanol as a component of gasoline, have 
+complicated the manufacturing and distribution processes for petroleum 
+products. Once produced, the various blends of petroleum products must 
+be kept separate throughout shipping and delivery. Other disruptions, 
+such as a pipeline break, can hamper the ability of the supply 
+infrastructure to deliver the steady supply of gasoline and other 
+petroleum products that U.S. consumers and businesses depend on. In the 
+past, local supply disruptions could be addressed more quickly because 
+additional fuel of the same formulation could be purchased from 
+numerous sources, but with the proliferation of special fuel blends, 
+replacement supplies of a special blend might not be as readily 
+available, and refineries with the capability to produce them could be 
+hundreds of miles away. 
+
+A number of federal agencies--including EIA, the Environmental 
+Protection Agency (EPA), the Department of Transportation (DOT), and 
+the Federal Energy Regulatory Commission (FERC)--have a role in 
+monitoring the effects of outages and ensuring the safe, efficient, and 
+adequate supply of petroleum products during and after those outages. 
+In this context, you asked us to study and evaluate (1) how refinery 
+outages have affected U.S. wholesale gasoline prices since 2002 and (2) 
+to what extent available federal data allow for the evaluation of the 
+impacts of refinery outages on petroleum product prices and reflect 
+emerging trends in petroleum product markets that may be important to 
+future analytical needs. 
+
+To evaluate how refinery outages have affected U.S. wholesale gasoline 
+prices since 2002, we purchased data that included detailed information 
+on refinery outages from Industrial Information Resources, Inc. (IIR); 
+data estimating the quantity flows of gasoline and other petroleum 
+products produced at most U.S. refineries and then transported to those 
+U.S. cities that make up the main markets for those products from Baker 
+& O'Brien; and weekly wholesale price data for 75 U.S. cities from the 
+Oil Price Information Service (OPIS). We also obtained and analyzed 
+data from EIA's monthly refinery production survey, form EIA-810, and 
+other EIA data collection surveys. We determined that these data were 
+sufficiently reliable for the purposes of this report. Specifically, we 
+determined these data were sufficient to complete our analyses of the 
+immediate average wholesale price impacts associated with refinery 
+outages on various gasoline types, but they were neither sufficient to 
+determine the effects experienced by individual cities nor the longer 
+term or dynamic effects of outages on prices.[Footnote 3] We developed, 
+and extensively tested, an econometric model that examined the 
+statistical relationship between refinery outages and gasoline prices. 
+We analyzed commercial data for 20 gasoline types and distinguished 
+between branded and unbranded gasoline to determine if those factors 
+influenced the price effect of an outage. We limited our analysis to 
+outages that were determined to be 1) at least among the largest 60 
+percent of outages in terms of lost production capacity within their 
+market region and 2) that lasted at least 3 days.[Footnote 4] In our 
+model, we limited the effect of an outage on prices to one week, after 
+which time we assumed that petroleum products were supplied from an 
+alternate source. As a result, our analysis evaluated the short-term 
+effects of outages but did not evaluate the length of time those 
+effects occurred.[Footnote 5] Limitations on available public data on 
+the production and supply of petroleum products restricted our analysis 
+to those cities for which Baker & O'Brien had collected and maintained 
+data; these cities generally represented the United States 
+geographically, but might not have been representative of all cities. 
+To control for the effects on gasoline prices, our model incorporated 
+data on numerous factors--such as gasoline inventory levels, refinery 
+capacity utilization, and gasoline specifications. Our modeling results 
+reflect a particular city's reliance on the refinery experiencing the 
+outage.[Footnote 6] 
+
+To assess the extent to which available federal data allowed for the 
+evaluation of refinery outage impacts, we reviewed federal government 
+data collection surveys from federal agencies including EIA, EPA, and 
+FERC, as well as private companies. We reviewed the surveys for 
+comprehensiveness, utility, potential gaps or limitations, and to 
+understand the extent to which the surveys collect useful data to 
+analyze the impacts of disruptions. We reviewed past GAO reports and 
+other federal agency or intergovernmental agency studies on petroleum 
+product markets to identify data gaps, limitations, or inconsistencies. 
+Furthermore, we interviewed key industry and expert institution 
+representatives regarding data utility and limitations in their own 
+work. Our work was not a comprehensive evaluation of all federal energy 
+data, but rather an assessment of key data GAO used in this and past 
+reports, and other select data that we determined during the course of 
+our review to have posed limitations for GAO's or other agencies' 
+evaluations of important policy questions related to petroleum markets. 
+See appendix I for a more detailed description of our objectives, 
+scope, and methodology. 
+
+We conducted our work from October 2008 through July 2009 in accordance 
+with generally accepted government auditing standards. Those standards 
+require that we plan and perform the audit to obtain sufficient, 
+appropriate evidence to provide a reasonable basis for our findings and 
+conclusions based on our audit objectives. We believe that the evidence 
+obtained provides a reasonable basis for our findings and conclusions 
+based on our audit objectives. 
+
+Background: 
+
+Refineries process crude oil into petroleum products through a 
+combination of distillation and other processes. A single barrel of 
+crude oil produces a varying amount of gasoline, diesel, jet fuel, and 
+other petroleum products depending on the configuration--or complexity--
+of the refinery and the type of crude oil being refined. 
+
+This report focuses on the production of finished gasoline.[Footnote 7] 
+Finished gasoline is primarily defined by three characteristics: 
+blendstock, vapor pressure, and oxygenate content. Blendstock is the 
+designation for the base gasoline produced so that other materials can 
+be blended in to meet various air quality or other local 
+specifications. Vapor pressure, also known as Reid Vapor Pressure 
+(RVP), measures the gasoline's evaporation characteristics or 
+volatility. Oxygenates are fuel additives, particularly alcohols and 
+ethers, which increase gasoline octane levels and reduce carbon 
+monoxide pollution associated with automobile emissions. The most 
+widely used oxygenate in the United States is ethanol, which may be 
+added to gasoline in varying percentages. Federal regulations specify 
+that no more than 10 percent ethanol can be blended into gasoline. 
+Ethanol is generally blended with gasoline at the terminal or wholesale 
+"rack"--the distribution center between refineries and retail fueling 
+stations. For the purposes of this report, conventional gasoline does 
+not contain special federal, state, or local blendstock, RVP, or 
+oxygenate requirements unless otherwise noted, while "special fuel 
+blends" refer to blends of gasoline that are designed to be cleaner 
+burning and generally contain either a certain blendstock, RVP, or 
+oxygenate requirement to meet federal, state, or local fuel 
+specifications. An example of a gasoline used to meet a state fuel 
+specification is California Air Resources Board (CARB) gasoline, which 
+is designed to reduce harmful exhaust emissions that cause smog and is 
+used exclusively in California. 
+
+Petroleum product markets are evolving in part as a result of the 
+increasing use of biofuels--fuels derived from plant or animal 
+products--throughout the country. The Energy Policy Act of 2005 
+generally required that at least 7.5 billion gallons of biofuels be 
+blended into motor vehicle fuels in the United States by 2012. These 
+targets were later amended under the Energy Independence and Security 
+Act of 2007, which increased the volume of biofuels to be blended with 
+gasoline from 9 billion gallons in 2008 to 36 billion gallons in 2022. 
+EPA was charged with implementing the Renewable Fuel Standard (RFS) 
+program and issuing regulations to ensure that the annual volumes of 
+biofuels specified by the legislation are being blended into motor 
+vehicle fuels. In addition, some states require the use of biofuels. 
+For example, in Minnesota all fuel must contain 10 percent ethanol, 
+while a number of other states offer consumers incentives--such as tax 
+credits and rebates--for purchasing ethanol or other biofuels. The 
+steadily increasing use of biofuels in the United States has 
+complicated the production and distribution of gasoline. Biofuels such 
+as ethanol are produced at dedicated biofuel production facilities--not 
+at refineries--and currently cannot be transported by most petroleum 
+product pipelines.[Footnote 8] Therefore in order for ethanol to be 
+blended with gasoline, it must be shipped to the terminal by truck or 
+rail, where it is then mechanically mixed with gasoline as it is 
+delivered into trucks for shipping to retail. 
+
+Gasoline with or without biofuels is typically sold as either branded 
+or unbranded. Branded gasoline is that supplied from major refiners and 
+sold at retail stations under these refiner's trademarks, and often 
+contains special additives. Contracts for branded gasoline tend to be 
+less flexible than contracts for unbranded gasoline but guarantee a 
+more secure supply. Conversely, unbranded gasoline may be supplied by 
+major or independent refiners, but is not sold under a refining 
+company's trademark. Buyers of unbranded gasoline may or may not have a 
+binding contractual arrangement with a refiner. 
+
+The supply infrastructure--which includes pipelines and terminals that 
+hold supply inventories--is a critical component of the nation's 
+petroleum product market in that it facilitates the flow of crude oil 
+and petroleum products from one geographic region to another. Crude oil 
+pipelines connect several large refining centers to crude oil sources, 
+and petroleum product pipelines connect these refineries to population 
+centers all over the country. Thus, a disruption in one geographic 
+region can affect the supply and prices in another geographic region. 
+To help mitigate the effects of potential supply disruptions caused by 
+refinery outages or sudden increases in demand and to facilitate smooth 
+supply operations, refiners, distributors, and marketers of petroleum 
+products maintain inventories of crude oil and petroleum products. 
+Inventories represent the most accessible and readily available source 
+of supply in the event of a production shortfall, such as one caused by 
+a refinery outage, or increase in demand. 
+
+In October 2008,[Footnote 9] we reported that unplanned and planned 
+refinery outages across the United States did not show discernible 
+trends in the frequency or location of outages from 2002 through 2007, 
+with the exception of impacts beginning in 2005 related to Hurricanes 
+Katrina and Rita. During that study, however, we found that EIA does 
+not collect information on refinery outages directly and thus the 
+information it collects on its monthly refinery survey and uses to 
+indirectly estimate outages has a number of limitations. Specifically, 
+EIA's method of using EIA-810 data to estimate outages cannot 
+distinguish between planned and unplanned outages, which could have 
+different impacts on petroleum product prices for consumers.[Footnote 
+10] Also, as we reported, because the monthly refinery survey data are 
+monthly aggregate data, major outages that straddle the end of one 
+month and the beginning of the next may be difficult to identify and 
+the observable effects of those outages could be diluted. We further 
+reported that the exact date and length of an outage may be difficult 
+to determine from EIA's monthly refinery survey data, making it 
+difficult to use the data to determine whether a specific outage had a 
+significant effect on the production capacity for some petroleum 
+products as well as market prices.[Footnote 11] 
+
+Several U.S. agencies have jurisdiction over and monitor the U.S. 
+refining and supply infrastructure industries and petroleum product 
+markets. 
+
+* Within the Department of Energy (DOE), the Energy Information 
+Administration (EIA) collects and analyzes data, including supply, 
+consumption, and prices of crude oil and petroleum products; inventory 
+levels; refining capacity and utilization rates; and some petroleum 
+product movements into and within the United States. Much of the data 
+that the agency collects is obtained by surveys under EIA's Petroleum 
+Supply Reporting System (PSRS). The PSRS is comprised of 16 data 
+collection surveys and includes, among others, weekly and monthly 
+surveys of refiners, terminals, and pipelines.[Footnote 12] The purpose 
+of the PSRS is to collect and disseminate basic and detailed data to 
+meet EIA's responsibilities and energy data users' needs for credible, 
+reliable, and timely information on U.S. petroleum product supply. EIA 
+generally updates its PSRS surveys every 3 years and has issued such 
+updates in 2003, 2006, and 2009. EIA also conducts analyses in support 
+of DOE's mission and in response to Congressional inquiries. For 
+example, EIA recently conducted its semiannual forecast of planned 
+refinery outage effects. EIA evaluates a wide range of trends and 
+issues that could have implications for U.S. petroleum product trends 
+and markets, and each year issues a publication known as the Annual 
+Energy Outlook. 
+
+* The Environmental Protection Agency (EPA), among other things, 
+develops and enforces regulations that implement environmental laws 
+that aim to control the discharge of pollutants into the environment by 
+refiners and other industries. The EPA, with the concurrence of DOE, 
+can grant waivers on fuel requirements that allow petroleum product 
+markets to be more easily re-supplied should an "extreme and unusual" 
+situation--such as a problem with distribution of supply to a 
+particular region, a natural disaster, or refinery equipment failure-- 
+occur.[Footnote 13] In addition, EPA oversees the Reformulated Gasoline 
+(RFG) program. This program was developed in response to a requirement 
+in the Clean Air Act that cities with the most severe smog pollution 
+use reformulated gasoline--gasoline blended to burn cleaner and reduce 
+smog-forming and toxic pollutants in the air--to reduce 
+emissions.[Footnote 14] EPA is also responsible for implementing and 
+issuing regulations to ensure that gasoline sold in the United States 
+contains a minimum volume of biofuels, such as ethanol or biodiesel, 
+and its reports, according to EPA officials, are geared toward 
+collecting data on fuel quality which is enforced at the refinery. 
+Under EPA's Renewable Fuel Standard (RFS) program, refiners, importers, 
+and blenders are required to use a minimum volume of biofuels each 
+year, determined as a percentage of the total volume of fuel the 
+company produces, blends, or imports. Entities that are unwilling or 
+unable to meet this percentage standard may purchase biofuel credits 
+from other obligated parties in order to satisfy the requirement. EPA 
+monitors RFS program compliance and has the authority to waive the 
+standard if it determines that specified biofuel volumes would cause 
+severe harm to the economy or the environment in a particular region, 
+state, or the country or that there is an inadequate domestic supply. 
+
+* The Department of Transportation's (DOT) Pipeline and Hazardous 
+Materials Safety Administration focuses on pipeline safety and 
+establishes standards for transmission and distribution systems for 
+crude oil and petroleum product pipeline. Among other things, it 
+oversees pipelines' design, maintenance, and operating procedures to 
+maintain the safe, efficient, and reliable delivery of petroleum 
+products. 
+
+* The Federal Energy Regulatory Commission (FERC) monitors energy 
+markets and regulates rates and practices of oil pipeline companies 
+engaged in interstate transportation of natural gas, oil and 
+electricity. It establishes and enforces the rates, known as "tariffs," 
+for transporting petroleum and petroleum products by pipeline. 
+
+While Refinery Outages Can Have Large Price Effects on Rare Occasions, 
+in Most Instances and on Average, Price Effects of Outages Are 
+Relatively Small: 
+
+While it can be expected that some refinery outages have quite large 
+price effects, the results of our analysis found that on average 
+refinery outages were associated with small increases in gasoline 
+prices. Based on our analysis of wholesale prices across 75 U.S. cities 
+from 2002 through September 2008, planned outages generally did not 
+influence prices, while unplanned refinery outages had generally small 
+wholesale gasoline price effects in the cities they serve. Price 
+increases varied depending on whether the gasoline was branded or 
+unbranded and according to the gasoline type affected by the outage. 
+
+Extreme Outage Events Can Lead to Large Temporary Price Increases: 
+
+On rare occasions, refinery outages can have large temporary effects on 
+gasoline prices. For example, as we recently testified, petroleum 
+product prices increased dramatically following Hurricanes Katrina and 
+Rita.[Footnote 15] This occurred in part because many refineries are 
+located in the Gulf Coast region and power outages shut down pipelines 
+that refineries depend on for crude oil supplies and to transport 
+refined petroleum products, including gasoline to wholesale markets. 
+DOE reported that 21 refineries in affected states were either shut 
+down or operating at reduced capacity in the aftermath of the 
+hurricanes. In total, nearly 30 percent of the refining capacity in the 
+United States was shut down, disrupting supplies of gasoline and other 
+products. Two pipelines that send petroleum products from the Gulf 
+Coast to the East Coast and the Midwest were also shut down as a result 
+of Hurricane Katrina. For example, Colonial Pipeline, which transports 
+petroleum products to the Southeast and much of the East Coast, was not 
+fully operational for a week after Hurricane Katrina due to large-scale 
+power outages and flooding. Consequently, according to the Federal 
+Trade Commission, average gasoline prices for the nation increased 45 
+cents-per-gallon between August 29 and September 5, 2005; short-term 
+gasoline shortages occurred in some places; and the media reported 
+gasoline prices greater than $5 per gallon in Georgia. The hurricane 
+came on the heels of a period of high crude oil prices and a tight 
+balance worldwide between petroleum demand and supply, and illustrated 
+the volatility of gasoline prices given the vulnerability of the 
+gasoline infrastructure to natural or other disruptions. 
+
+While extreme outages can cause large temporary price increases, such 
+events were relatively uncommon during the period of our analysis. For 
+example, for unbranded prices, of the approximately 1100 unplanned 
+outages we evaluated, 99 percent of the time they were associated with 
+wholesale price increases of no more than about 32 cents-per-gallon, 
+and 75 percent of the time they were associated with price increases of 
+less than 6 cents-per-gallon in the cities affected. 
+
+On Average, Price Effects Associated with Outages Are Relatively Small, 
+and Depend on Key Factors: 
+
+Overall, our analysis indicated that planned outages--where refineries 
+temporarily shut down to perform routine maintenance or equipment 
+upgrades--generally did not have a significant effect on wholesale 
+gasoline prices. As we reported in October 2008,[Footnote 16] planned 
+outages are typically scheduled during periods of less demand and 
+interspersed among refiners and refineries. In addition, the equipment 
+and labor are generally booked months--or even years--in advance, and 
+can be arranged with those customers with whom the refiners have long- 
+term contracts at a cost less than would be required in an emergency or 
+unplanned situation. Industry representatives told us that because a 
+refinery must draw on a limited number of equipment makers and skilled 
+laborers, the refinery's plans for maintenance eventually become public 
+knowledge. In this case, the market "expects" the outage to occur, 
+therefore planned outages do not generally trigger significant price 
+responses, unless something unexpected occurs or the market is 
+disrupted elsewhere. Furthermore, refineries stockpile petroleum 
+products in preparation for planned outages and therefore do not 
+experience the same shortage of production materials experienced during 
+unplanned outages. 
+
+Unplanned outages, on the other hand, were associated with gasoline 
+price increases but these increases were generally small and depended 
+on key factors, including whether or not the gasoline was branded or 
+unbranded and the type of gasoline being sold. With respect to the 
+distinction between branded and unbranded gasoline, our analysis showed 
+that in the event of an unplanned refinery outage, unbranded gasoline 
+was generally associated with greater wholesale price increases than 
+branded gasoline. Specifically, we found that for conventional 
+gasoline--the most common and widely available gasoline blend-- 
+unbranded gasoline had an average 0.5-cents-per-gallon increase in 
+price associated with unplanned refinery outages, while branded 
+gasoline had a smaller--about 0.2-cents-per-gallon--increase. The price 
+effects observed in these cases reflect an average increase in prices 
+at the wholesale terminals in the 75 cities over the study period. 
+These results suggest that--as some traders and other market 
+participants have told us--during disruptions, refiners generally 
+choose to give priority in supplying those customers with whom they 
+have long-term supply contracts, which typically are for branded 
+gasoline. Therefore, in such conditions independent marketers--which 
+typically sell unbranded gasoline--may be forced to pay higher prices 
+to obtain product to sell. On the other hand, industry experts told us 
+that unbranded sellers may be able to buy wholesale gasoline at lower 
+prices than branded sellers during normal market conditions.[Footnote 
+17] 
+
+With regard to the type of gasoline fuel blend being sold, our analysis 
+shows that the price increases associated with an unplanned refinery 
+outage were significantly greater for 8 of the 19 "non-base-case" 
+gasoline types we identified than our "base case" conventional clear 
+gasoline, while the price increases for other gasoline types were 
+generally about the same as those of conventional gasoline. In our 
+analysis, we selected conventional gasoline as our base case and used 
+our model to determine whether there were significant differences 
+between this base case and other fuel types with respect to the 
+relationship between unplanned refinery outages and price changes. We 
+looked at 19 other non-base case fuel types that were in use in the 75 
+cities we reviewed. We compared the results of these 19 other fuel 
+types to our conventional gasoline base case and measured the price 
+differences. The price increases associated with unplanned refinery 
+outages for various branded and unbranded gasoline types that were 
+higher than our conventional gasoline base case are shown in table 1. 
+
+Table 1: Special Fuel Blends that Experienced Price Increases Greater 
+than Conventional Gasoline Due to Unplanned Refinery Outages[A]: 
+
+Gasoline type: Conventional[B] base case; 
+Cents-per-gallon increases for unbranded gasoline types: 0.5; 
+Cents-per-gallon increases for branded gasoline types: 0.2; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Throughout the time period. 
+
+Gasoline type: California Air Resources Board (CARB) gasoline with 2% 
+Methyl Tertiary Butyl Ether (MTBE) as oxygenate[C]; 
+Cents-per-gallon increases for unbranded gasoline types: 3.2; 
+Cents-per-gallon increases for branded gasoline types: [Empty];
+Locations that require this gasoline type: California; 
+Time period sold: Beginning of study period (January 2002) to November 
+2003. 
+
+Gasoline type: CARB with no oxygenate; 
+Cents-per-gallon increases for unbranded gasoline types: 10.1; 
+Cents-per-gallon increases for branded gasoline types: [Empty];
+Locations that require this gasoline type: None, although 
+found in California[C]; 
+Time period sold: Beginning of study period to May 2006. 
+
+Gasoline type: Conventional with 5.7% ethanol as oxygenate; 
+Cents-per-gallon increases for unbranded gasoline types: 4.1; 
+Cents-per-gallon increases for branded gasoline types: 1.3; 
+Locations that require this gasoline type: Pima County, (Tucson) AZ; 
+Time period sold: Winters, from beginning of study period to present. 
+
+Gasoline type: CARB with 5.7% ethanol as oxygenate; 
+Cents-per-gallon increases for unbranded gasoline types: [Empty]; 
+Cents-per-gallon increases for branded gasoline types: 1.4; 
+Locations that require this gasoline type: California; 
+Time period sold: Beginning of study period to present. 
+
+Gasoline type: Conventional with 10% ethanol as oxygenate, 7.0 RVP; 
+Cents-per-gallon increases for unbranded gasoline types: 8.0; 
+Cents-per-gallon increases for branded gasoline types: [Empty]; 
+Locations that require this gasoline type: Clay, Jackson, and Platte 
+counties, MO; 
+Time period sold: Summers, from June 2004 to present. 
+
+Gasoline type: Conventional with 10% ethanol as oxygenate, 9.0 RVP; 
+Cents-per-gallon increases for unbranded gasoline types: [Empty]; 
+Cents-per-gallon increases for branded gasoline types: 1.5; 
+Locations that require this gasoline type: Iowa, Minnesota, many parts 
+of Oregon; 
+Time period sold: Sold year round in Iowa, and in the summer in all 
+other locations; used since the beginning of study period to present. 
+
+Gasoline type: Low sulfur; 
+Cents-per-gallon increases for unbranded gasoline types: 3.9; 
+Cents-per-gallon increases for branded gasoline types: [Empty]; 
+Locations that require this gasoline type: Georgia; 
+Time period sold: April 2003 to present. 
+
+Gasoline type: Reformulated gasoline (RFG); 
+Cents-per-gallon increases for unbranded gasoline types: 1.3; 
+Cents-per-gallon increases for branded gasoline types: 0.9; 
+Locations that require this gasoline type: Numerous cities, counties, 
+states; 
+Time period sold: Beginning of study period to present. 
+
+Source: GAO analysis of data from various sources, as described in 
+appendixes I and II. 
+
+Note: All reported figures are statistically significant at the 10 
+percent level or less. 
+
+[A] Price increases for special blends include the base case increases 
+of 0.5 and .02 for unbranded and branded fuel types respectively. We 
+calculated price effects using our model estimates of the impact of 
+outages on wholesale gasoline prices. 
+
+[B] Conventional gasoline used as the base case is gasoline that does 
+not have a special RVP or oxygenate content specified to meet local air 
+quality needs or preferences. 
+
+[C] Although Methyl Tertiary Butyl Ether (MTBE) was not specifically 
+required to be the oxygenate used in California, an oxygenate was 
+required under federal RFG provisions. The use of MTBE was banned in 
+California on December 31, 2003. Following the phase out of MTBE and 
+the transition to ethanol, according to California Energy Commission 
+(CEC), California refiners and gasoline marketers began using ethanol 
+at a minimum concentration of 5.7 percent by volume. Although nearly 20 
+percent of the gasoline sold could have been non-oxygenated, according 
+to the CEC, due to segregation limitations in the distribution 
+infrastructure system and concerns about maintaining fungible gasoline 
+production for purposes of exchange agreements and periodic unplanned 
+refinery outages, the gasoline market gravitated towards a near- 
+unanimous mix of ethanol at roughly 6 percent volume by January 2004. 
+
+[End of table] 
+
+The results suggest that some special fuel blends that include such 
+characteristics as unusual oxygenate requirements, lower RVP 
+requirements, or unusual oxygenate/RVP combinations may be more 
+sensitive to unplanned outages than other special fuel blends. For 
+example, for unbranded gasoline, the prices of some special fuel 
+blends--such as CARB, conventional gasoline with oxygenate formulations 
+such as 5.7 percent ethanol, or uncommon oxygenate/RVP formulations 
+such as conventional gasoline with 10 percent ethanol and a 7.0 RVP-- 
+were more sensitive to unplanned refinery outages than conventional 
+gasoline without such specifications. Specifically, the largest price 
+differences between our conventional gasoline base case and special 
+gasoline blends, were for CARB without oxygenate and conventional 
+gasoline blended with 10 percent ethanol and a 7.0 RVP. In these 
+instances, prices were about 10-cents and 8-cents-per-gallon higher 
+than our base case. The results show that the prices of unusual 
+oxygenate/RVP combinations that are not commonly produced at most 
+refineries may be more sensitive to unplanned outages than conventional 
+gasoline, which can be more readily re-supplied to a city experiencing 
+an outage. 
+
+Our analysis also shows that a number of other special fuel blends did 
+not experience significant price increases associated with unplanned 
+refinery outages above that of conventional gasoline, although the fuel 
+types affected depended partly on whether the gasoline was branded or 
+unbranded. These fuel types and the locations that require them are 
+shown in table 2. 
+
+Table 2: Special Fuel Blends that Experienced Price Increases About the 
+Same as Conventional Clear Gasoline in the Event of Unplanned Refinery 
+Outages: 
+
+Fuel type: Conventional; base case; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Throughout the time period. 
+
+Fuel type: Cleaner burning gasoline (CBG); 
+Locations that require this gasoline type: Maricopa County (Phoenix), 
+Arizona; 
+Time period sold: March 2005 to present. 
+
+Fuel type: CBG with 10% ethanol as oxygenate; 
+Locations that require this gasoline type: Maricopa County (Phoenix), 
+Arizona--winters; 
+Time period sold: February 2005 to present. 
+
+Fuel type: Conventional RVP 7.0; 
+Locations that require this gasoline type: Jefferson and Shelby 
+counties, Alabama; Johnson and Wyandotte Counties, Kansas; Livingston, 
+Macomb, Monroe, Oakland, St. Clair, Washtenaw, Wayne, and Lenawee 
+counties Michigan; El Paso, Texas; 
+Time period sold: Summers only, from the beginning of study period to 
+present. 
+
+Fuel type: Conventional RVP 7.8; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Beginning of study period to present. 
+
+Fuel type: Conventional RVP 9.0; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Beginning of study period to present. 
+
+Fuel type: Conventional 7.7% ethanol as oxygenate; 
+Locations that require this gasoline type: Although not required in any 
+location, this gasoline occurs frequently in Iowa and Minnesota; and 
+the cities of El Paso, Texas; Missoula, Montana; Fargo, North Dakota; 
+and Sparks/Reno, Nevada; 
+Time period sold: Beginning of study period to present. 
+
+Fuel type: Conventional 7.7% ethanol as oxygenate, RVP 9.0; 
+Locations that require this gasoline type: Although not required in any 
+location, this gasoline occurs frequently in numerous cities, counties, 
+and states; 
+Time period sold: Beginning of study period to present. 
+
+Fuel type: Conventional 10% ethanol as oxygenate; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Beginning of study period-present. 
+
+Fuel type: Conventional 10% ethanol as oxygenate, RVP 7.8; 
+Locations that require this gasoline type: Denver and Boulder, 
+Colorado; Clackamas, Marion, Multnomah, Polk, and Washington counties, 
+Oregon; 
+Time period sold: Summers, beginning May 2004 in CO; May 2005 in OR 
+counties. 
+
+Fuel type: Low Sulfur RVP 7.0; 
+Locations that require this gasoline type: Atlanta and 45 other 
+counties in Georgia; 
+Time period sold: Summer, since April 2003. 
+
+Fuel type: Reformulated Gasoline with Methyl Tertiary Butyl Ether 
+(MTBE) as oxygenate; 
+Locations that require this gasoline type: Numerous cities, counties, 
+and states; 
+Time period sold: Beginning of study period to May 2006. 
+
+Source: GAO analysis of data from various sources, as described in 
+appendixes I and II. 
+
+[End of table] 
+
+Finally, it should be noted that individual outages may have different 
+effects on prices depending on a variety of factors beyond those 
+discussed above. As discussed previously in this report, and in work by 
+EIA and the California Energy Commission, under certain conditions-- 
+such as low inventories, high seasonal demand, certain special fuel 
+requirements, and geographic conditions that may hinder easy re-supply 
+to the market--an unplanned refinery outage could be expected to result 
+in a price surge in some cases. However, in some cases, unobserved 
+factors can mitigate the effects of outages, or even cause prices to 
+fall, making it appear as if the outage caused prices to fall. For 
+example, a large shipment of a particular special fuel blend located 
+just offshore or beyond the Canadian border could be a significant 
+source of re-supply in the event of a disruption. In addition, while 
+our analysis examined the effect of about 1,100 unplanned outages and 
+1,000 planned outages, our model did not differentiate between the 
+types of refinery equipment that went out of service, which could have 
+varying effects on wholesale gasoline prices. For example, an unplanned 
+outage of a fluid catalytic cracker--a type of processing equipment 
+used to maximize the production of gasoline--could be expected to have 
+a more significant effect on wholesale gasoline prices than an 
+unplanned outage on a piece of equipment--such as a certain type of 
+hydrotreater--that is designed to maximize production of distillates 
+such as diesel fuel or heating oil. Because our model does not 
+distinguish between the type of unit experiencing an outage, our 
+results show average impacts across different types of refining units, 
+which means we tend to underestimate the effect of an outage at a unit 
+such as a fluid catalytic cracker, and overestimate that of a non- 
+gasoline producing unit.[Footnote 18] 
+
+Gaps in Federal Data Constrain Analyses of Outage Effects and Other 
+Related Issues: 
+
+Existing federal data contain gaps that limit analyses of refinery 
+outages on petroleum product prices and in some cases do not reflect 
+emerging trends--although agencies continue to take steps to improve 
+their data collection. These data gaps created challenges to our, and 
+another federal agency's, analyses and ability to respond to 
+Congressional inquiries. Specifically, we were limited in this report 
+in our ability to fully evaluate 1) the price effects of unplanned 
+outages at individual cities and 2) a city's gasoline re-supply options 
+in the event of an outage. 
+
+Our ability to fully evaluate the price effects of unplanned outages at 
+individual cities--for example, price effects in Atlanta, Georgia 
+associated with outages related to Hurricanes Ike and Gustav--was 
+limited because federal data do not link refiners to the cities they 
+serve. Although federal data exist regarding most refinery activities, 
+the refiner-to-market link contains key gaps.[Footnote 19] 
+
+* While EPA's annual reformulated gasoline area report requires each 
+refinery to identify the cities the refinery believes it supplies with 
+reformulated gasoline, this reporting is limited to reformulated 
+gasoline. As such, the reports do not capture the estimated refiner-to- 
+city link for a majority of gasoline types--including conventional 
+gasoline and special fuel blends--sold in the United States. Further, 
+the reports are not intended to identify the quantities of gasoline 
+distributed. 
+
+* EIA's monthly refinery survey, the EIA-810, collects data regarding 
+the volume of certain petroleum products being produced at refineries, 
+including gasoline and unfinished gasoline blending components, but 
+does not distinguish among all types of gasoline, such as premium 
+versus regular or summer versus winter RVP, or identify which cities 
+refineries serve. 
+
+* Our ability to identify a city's gasoline re-supply options in the 
+event of an outage was also limited because of gaps in federal pipeline 
+flow data.[Footnote 20] Although we identified flow data collected at 
+three agencies, the data were of limited use because they did not show 
+the volumetric entry, flow, and exit of specific petroleum products 
+through the pipeline. These specific data are important to 
+understanding which refiners can and cannot supply various cities in 
+the event of an outage and thus can be used to help determine potential 
+price impacts. 
+
+* FERC's quarterly reports by pipeline operators specify the number of 
+barrels of petroleum products pipeline companies transport, but these 
+data do not identify the entry and exit points of petroleum products 
+along the pipeline infrastructure system, or the specific type of fuels 
+transported. 
+
+* EIA's monthly pipeline survey collects data on pipeline shipments 
+between Petroleum Administration for Defense Districts (PADD)--a 
+geographic aggregation of the 50 states and the District of Columbia 
+split into five districts--as well as pipeline inventories by PADD. 
+However, data at the PADD level do not correspond to particular cities 
+and therefore the data cannot be used to identify the states and/or 
+cities in which petroleum product flows originate and terminate. 
+
+* DOT's annual report on hazardous liquids collects pipeline flow data, 
+but DOT officials told us, and we also found, that these data are 
+highly aggregated and the annual collection of information is too 
+infrequent to be informative in many cases. Further, these data are not 
+designed to show the discrete movement of petroleum products through 
+the pipeline infrastructure. 
+
+To help address these gaps in federal data, we purchased commercial 
+data for our analysis from the energy consulting company Baker & 
+O'Brien (see appendix I). These data estimate the quantity flows of 
+gasoline and other petroleum products produced at most U.S. refineries 
+and transported to those U.S. cities that make up the main markets for 
+these products. While we found the Baker & O'Brien data to be 
+sufficiently reliable for the purposes of our analysis, these data are 
+estimates only. Although we determined the commercial data that we 
+purchased to perform our analyses were sufficient to describe the 
+wholesale price impacts associated with refinery outages on various 
+gasoline types, the data were not sufficient to accurately estimate the 
+effects experienced by individual cities. Further, the 
+comprehensiveness of the data we purchased was limited in part because 
+private companies do not have the same ability as the federal 
+government to require refiners to provide comprehensive and accurate 
+information.[Footnote 21] 
+
+Similar gaps in federal data also limited a recent effort by another 
+federal agency to fully address Congressional concerns regarding 
+potential pipeline constraints and agency concerns regarding refinery 
+outages. 
+
+* In a January 2009 Congressionally mandated study to identify 
+potential pipeline infrastructure constraints, DOT was unable to fully 
+address the study's objectives due to the lack of appropriate federal 
+pipeline flow and petroleum product storage data.[Footnote 22] In its 
+report, DOT noted that "a need exists to develop more robust metrics 
+for such (pipeline flow) measurements." The report also stated that 
+"reliable data on storage facilities is sparse" and emphasized the need 
+for additional data on oil and petroleum product storage terminals, 
+including the location, size, and volumetric capacity of existing 
+facilities to assess whether stored petroleum products are sufficient 
+to mitigate supply disruptions.[Footnote 23] In addition, the study 
+noted that additional data regarding the changing location and 
+arrangement of petroleum product pipelines would be necessary to 
+evaluate volumes of petroleum products transported. DOT concluded that 
+an analysis sufficient to address Congress's directives in the 2006 law 
+would require further quantitative and analytical modeling. In 
+particular, DOT officials told us the federal interagency effort to 
+collect data would need to result in more comprehensive data--including 
+volumetric pipeline entry, flow, and exit information[Footnote 24]--as 
+well as more reliable storage terminal and inventory data in order to 
+more fully assess the current and future reliability of the nation's 
+pipeline infrastructure and ability to respond to market disruptions. 
+
+The absence of key data also limits the ability of federal agencies to 
+monitor the effect of emerging trends such as the use of biofuels-- for 
+example, ethanol--in petroleum product markets. Specifically, we found 
+that gaps in federal data do not allow agencies to track where gasoline 
+blended with ethanol ultimately winds up in the fuel stream. Not having 
+this information may be at odds with consumer's interests. Since, 
+according to EPA, a gallon of ethanol contains two-thirds the energy of 
+a gallon of gasoline, when gasoline blended with ethanol is sold in 
+areas with no ethanol or oxygenate requirement, consumers may be 
+purchasing fuel that provides fewer miles-per-gallon without being 
+aware of it.[Footnote 25] Our analysis of gasoline sales data shows 
+that from 2002 through 2008, conventional gasoline blended with ethanol 
+had been sold in areas with no ethanol or other oxygenate mandates in 
+at least 32 states.[Footnote 26] Agency and industry officials told us 
+that as the volume of biofuels to be blended with gasoline continues to 
+grow to 36 billion gallons in 2022, ethanol will increasingly be 
+distributed in locations that do not have requirements for oxygenate 
+content. 
+
+Despite these gaps in federal data, individual agencies have generally 
+continued to take steps to update their data collection surveys to meet 
+their respective agency objectives or needs, and have often coordinated 
+to more efficiently obtain petroleum product data needed for a variety 
+of purposes at multiple agencies. 
+
+* In 2009, EIA began collecting data regarding the production, stocks 
+at production facilities, sales for resale, and end-use sales of 
+biodiesel fuel.[Footnote 27] Also, three existing EIA forms were 
+expanded to collect biodiesel imports and biodiesel blending and stocks 
+at terminals and refineries. Our work indicates this new survey will 
+help analysts identify how and where biodiesel is being used, a key 
+emerging trend in the petroleum industry. In addition, these data will 
+be used by EPA to help monitor the volumes of biofuel use specified in 
+the RFS. 
+
+* Effective January 2009, EIA consolidated reporting of inventory 
+information at refineries, pipelines and terminals from two surveys to 
+one. This action will permit a more detailed and reliable analysis of 
+petroleum product terminal operations and provide a baseline for the 
+volume of petroleum products at various terminal locations that can 
+potentially re-supply a city in the event of a major disruption. While 
+this partially addresses our need to have federal data that shows the 
+re-supply options in the event of a disruption, it neither shows the 
+refiner-to-market link nor does it provide detailed batch information 
+on petroleum product flows that would facilitate future analyses. 
+Comprehensive inventory information may be particularly useful to DOT 
+should it be tasked with completing another study to identify potential 
+petroleum product infrastructure constraints. 
+
+* EPA officials told us they have worked with the Department of 
+Agriculture and DOE in recent years regarding the recently issued 2007 
+Renewable Fuels Standard program guidance. The aim of such guidance is 
+to monitor biofuel use--a key emerging market trend--and monitor 
+compliance with biofuels specified in the RFS. 
+
+Nonetheless, in some cases the individual agency efforts have resulted 
+in the collection of information that does not necessarily meet the 
+data needs of other agencies or analysts who monitor petroleum product 
+markets. For example, federal reporting efforts have evolved such that 
+EIA maintains primary responsibility for collecting information on 
+total gasoline supply, including gasoline blendstocks, while EPA 
+maintains primary responsibility for capturing another key 
+characteristic--RVP--of certain gasoline blendstocks. Specifically, 
+EIA's surveys are structured to collect data on total gasoline supply, 
+including blendstocks, on a monthly basis, whereas EPA collects RVP 
+information on each batch of reformulated gasoline on a quarterly 
+basis, and for all conventional gasoline supplied by a particular 
+refiner on an annual basis. This means that companies report key 
+information regarding gasoline components to two different federal 
+entities, and analysts who need information regarding the blendstock 
+and RVP of gasoline must go to two federal entities to obtain what is 
+available; in addition, the data are not comparable in terms of 
+periodicity. Finally, as described earlier, three different agencies 
+collect a limited amount of pipeline flow data to meet their specific 
+agency's objectives, but collectively these data do not allow analysts 
+to fully monitor the flow of petroleum product markets. This limited 
+not only our ability to identify a city's gasoline re-supply options in 
+the event of an outage in this analysis, but also DOT's efforts to 
+fully address a Congressional mandate. In sum, these separate pieces of 
+data do not come together to form a complete picture of current 
+petroleum product markets. 
+
+Conclusions: 
+
+To the extent reasonable, the collection of petroleum product data by 
+federal agencies should allow these and other agencies and analysts to 
+form a clear picture of U.S. petroleum product markets while minimizing 
+the government's costs of collecting and maintaining, as well as the 
+costs to industry of providing, these data. In our work we identified 
+gaps in public data, some of which we could address by purchasing 
+privately collected data, and some of which led to limitations to what 
+our analysis could address. Specifically, we were unable, with publicly 
+available data, to identify which refiners serve various cities across 
+the country, and by extension, which refineries produce special fuel 
+blends designed to meet federal, state, and local requirements. While 
+the available public data, along with the commercial data we purchased, 
+allowed us to analyze the broad impacts of refinery outages on various 
+gasoline types on average; during the initial week of the outage, the 
+data were not sufficient to determine the effects at individual cities. 
+We also found an absence of some data on emerging market trends in 
+biofuels that is troubling, given the rapid expansion of biofuel 
+production and use in recent years. Some data gaps we identified may 
+exist because data collection efforts generally reflect individual 
+agency needs and, thus, may not necessarily consider the broader needs 
+of other federal agencies and analysts. We recognize that agencies have 
+a primary responsibility to perform their individual missions and that 
+these agencies face their own specific budgetary constraints. However, 
+we note the importance of each agency acknowledging that the collection 
+of individual pieces of federal data contributes to a larger data 
+universe and taking reasonable steps to ensure that the totality of 
+these data allow for meaningful understanding and oversight of 
+petroleum markets. In addition, agencies must be conscious of 
+efficiency by considering the costs associated with gathering and 
+maintaining data. 
+
+Improving the usefulness and completeness of publicly held data--as 
+well as reducing the associated costs--will require that each agency be 
+aware of the part of the overall data picture it is responsible for, as 
+well as the usefulness of these data beyond the immediate agency 
+mission. Continued and improved coordination between such agencies, 
+including EIA, EPA, DOT, and FERC, could improve the collective 
+understanding and oversight of the refining industry and petroleum 
+product markets. 
+
+Recommendations for Executive Action: 
+
+To evaluate existing, publicly held petroleum products market data and 
+to determine if they are sufficient to meet the current and expected 
+future missions and needs of the Congress, federal agencies, and other 
+public and private stakeholders, we recommend that the Administrator of 
+the EIA convene a panel comprised of agency officials from EIA, EPA, 
+DOT, FERC, and other relevant agencies, industry representatives, 
+public stakeholders, and other analysts and data users, to collect 
+these data and develop a coordinated interagency data collection 
+strategy. The panel should: 
+
+* assess the costs and benefits of collecting: 
+
+- more systematic information about which refiners serve which cities 
+and: 
+
+- more discrete reporting of the volumetric entry, flow, and exit of 
+petroleum products through the pipeline infrastructure system; 
+
+* identify additional data that would be useful to track and evaluate 
+emerging market trends--such as the proliferation of biofuels and 
+special blends--and assess the costs and benefits of collecting such 
+data; 
+
+* identify opportunities to coordinate federal data collection efforts 
+so that agencies can respond fully to Congressional requests and meet 
+governmentwide data needs to monitor the impact of petroleum product 
+market disruptions; and: 
+
+* identify areas where data collection is fragmented--such as multiple 
+survey instruments collecting similar information--to determine if 
+those efforts can be consolidated and modified to enhance the overall 
+usefulness and improve the efficiency of collecting and reporting these 
+data. 
+
+Agency Comments and Our Evaluation: 
+
+We provided a draft of this report to the Department of Energy (DOE) 
+and its Energy Information Administration (EIA), the Environmental 
+Protection Agency (EPA), and the Department of Transportation (DOT) for 
+review and comment. DOE's EIA agreed with our recommendations and 
+provided additional comments regarding the recommendations and the 
+report's discussion of data gaps, which are summarized below. EIA also 
+provided technical and clarifying comments, which we incorporated as 
+appropriate into the report. EPA and DOT provided only technical 
+comments, which we also incorporated as appropriate. 
+
+Regarding our recommendations, EIA stated that it supports the 
+recommendations, including our specific suggestions to review data 
+adequacy, strengthen interagency coordination of data collection and 
+use, and fully engage government, industry and public stakeholders. EIA 
+stated that it believes it has a strong program to address all of these 
+suggested actions, and is working closely with other federal entities 
+through established joint programs, as well as informally to coordinate 
+data collection. For example, the agency noted it has been working with 
+an interagency group comprised of 40 federal agencies to facilitate the 
+development of a trade processing system for U.S. Customs and Border 
+Patrol. 
+
+In commenting on the report's discussion of data gaps, EIA stated it 
+agrees that a review of possible data gaps is necessary and noted that 
+it is currently--as of July 2009--reviewing the adequacy and quality of 
+currently collected and commercially available refinery outage 
+information. The agency believes, and we agree, that the adequacy of 
+refinery outage data for analysis is one that EIA has taken seriously. 
+To this end, EIA noted it published Federal Register notices on 
+December 9, 2008, and February 28, 2009, informing the public of the 
+agency's intended review of refinery outage data. EIA plans to complete 
+its review and provide its recommendation regarding additional 
+government data collection this fall in its mandated semiannual 
+refinery outage study. EIA stated it then plans to publish its 
+analysts' assessment and recommendations to solicit the broadest 
+possible comment. At that time EIA will consider the use of a panel of 
+government, industry, and public stakeholders--as we suggested--to 
+determine its future steps. We support EIA's efforts to address data 
+issues and believe that its current plans are a step in the right 
+direction toward ensuring that the best data are available to help 
+achieve its mission of producing independent and unbiased research to 
+help the Congress, public, and international community better 
+understand energy markets and promote sound policy-making. 
+
+We are sending copies of this report to interested Congressional 
+committees; the Administrator of the Energy Information Administration, 
+the Administrator of the Environmental Protection Agency; the Secretary 
+of the Department of Transportation; and other interested parties. This 
+report also will be available at no charge on the GAO Web site at 
+[hyperlink, http://www.gao.gov]. 
+
+If you or your staffs have any questions concerning this report, please 
+contact me at (202) 512-3841 or ruscof@gao.gov. Contact points for our 
+Offices of Congressional Relations and Public Affairs may be found on 
+the last page of this report. Major contributors to this report are 
+acknowledged in appendix III. 
+
+Signed by: 
+
+Frank Rusco: 
+Director, Natural Resources and Environment: 
+
+List of Requesters: 
+
+The Honorable Charles E. Schumer: 
+Vice Chairman: 
+Joint Economic Committee: 
+United States Senate: 
+
+The Honorable Christopher J. Dodd: 
+United States Senate: 
+
+The Honorable Byron L. Dorgan: 
+United States Senate: 
+
+The Honorable Joseph I. Lieberman: 
+United States Senate: 
+
+The Honorable Joseph Courtney: 
+House of Representatives: 
+
+The Honorable Rosa DeLauro: 
+House of Representatives: 
+
+The Honorable John B. Larson: 
+House of Representatives: 
+
+The Honorable Christopher S. Murphy: 
+House of Representatives: 
+
+[End of section] 
+
+Appendix I: Scope and Methodology: 
+
+We addressed the following questions during our review: (1) How have 
+refinery outages affected U.S. wholesale gasoline prices since 2002? 
+(2) To what extent do available federal data allow for the evaluation 
+of the impacts of refinery outages on petroleum product prices, and do 
+these data reflect emerging trends in petroleum product markets that 
+may be important to future analytical needs? For the purposes of this 
+report, we define the various types of outages as follows: 
+
+* Planned outages are periodic shutdowns of one or more refinery 
+processing units or possibly the entire refinery to perform 
+maintenance, inspection, and repair of equipment or to replace process 
+materials and equipment that have worn out or broken, in order to 
+ensure safe and efficient operations. 
+
+* Unplanned outages are events where an entire unit or refinery must be 
+brought down immediately and without advance notice and are caused by 
+unplanned circumstances such as a fire or a power outage. 
+
+To determine trends in refinery outages over the time period from 2002 
+through September 2008, we purchased data from Industrial Information 
+Resources, Inc. (IIR) that contained detailed information on refinery 
+outages, including the estimated dates of the outages, whether the 
+outages were planned or unplanned, and the amount of reduced production 
+capacity due to each outage. We evaluated the data and found they 
+provide reliable estimates of outages from 2002 onward. In our 
+analysis, we counted an outage event as the halting of production 
+capacity on any piece of equipment at the refinery; where multiple 
+units such as a crude distillation and one or more secondary processing 
+units were simultaneously down, we counted this as a single outage 
+event in our model.[Footnote 28] 
+
+To evaluate how refinery outages have affected U.S. wholesale gasoline 
+prices we obtained and analyzed data from Energy Information 
+Administration (EIA)'s monthly refinery production survey form, EIA- 
+810, from 2002 through 2006, and other EIA surveys. We also purchased 
+(1) data that included detailed information on refinery outages between 
+2002 and 2008 from Industrial Information Resources, Inc. (IIR), a 
+private company that provides research and forecasts for various large 
+industries; (2) data estimating the quantity flows of gasoline and 
+other petroleum products produced at most U.S. refineries' and 
+transported to those U.S. cities that make up the main markets for 
+these products from Baker & O'Brien, an energy consultancy company 
+whose software is licensed to 9 of the 10 top U.S. refining companies; 
+and (3) weekly wholesale price data for 75 U.S. cities gasoline markets 
+from Oil Price Information Service, a private company that provides 
+pricing and other data at the wholesale or "rack" level. We determined 
+that these data were sufficiently reliable for the purposes of this 
+report. We used the Baker & O'Brien quantity flow estimates to measure 
+the proportion of each city's product that is generally supplied by a 
+particular refinery. We developed, and extensively tested, an 
+econometric model that examined the statistical relationship between 
+refinery outages and gasoline prices. We limited our analysis to 
+outages that (1) were determined to be of the largest 60 percent within 
+their market region and that lasted at least 3 days, (2) had a 
+corresponding market city in the Baker & O'Brien data, and (3) for 
+which we had useful and complete gasoline price data at the wholesale 
+terminal level. In our model, we limited the effect of an outage on 
+prices to one week, after which time we assumed that petroleum products 
+were supplied from an alternate source. As a result, our analysis 
+evaluated the short-term effects of outages but did not evaluate the 
+length of time those effects occurred. In our model, we incorporated 
+data on numerous factors that could affect gasoline prices--such as 
+gasoline inventory levels and gasoline specifications--in order to rule 
+out, or "control" for their effects on prices. Because we were able to 
+control for these other factors, we believe we were able to isolate the 
+impacts of outages on prices given the inherent issues with the various 
+data sets. There were some factors that potentially affected gasoline 
+prices over time and city-specific information that we could not 
+include, although we were able to use econometric techniques to control 
+for some of these factors.[Footnote 29] After controlling for the 
+additional factors that affected gasoline prices, we were able to 
+estimate the average impact of outages on wholesale gasoline prices. 
+The statistical significance of our findings are noted throughout the 
+report. Although we focused our study on wholesale prices, we cannot be 
+certain that the price effects at the retail level would be the same, 
+although some research has shown that wholesale price changes are 
+generally passed on to the retail level.[Footnote 30] In developing our 
+model, we consulted with a number of economists and incorporated their 
+suggestions wherever possible. Finally, we performed an analysis to 
+test the robustness of our model, including changing various 
+assumptions regarding the model in order to ensure that our results 
+were not highly dependent on any single specification of the model. 
+
+To assess the extent to which available federal data allow for the 
+evaluation of the impacts of refinery outages and determine whether the 
+data reflect emerging trends in petroleum product markets, we reviewed 
+data collection instruments from federal agencies--including EIA, the 
+Environmental Protection Agency (EPA), the Federal Energy Regulatory 
+Commission (FERC), and the Department of Transportation (DOT)--and 
+reviewed them for comprehensiveness, utility, accessibility, and 
+potential gaps or limitations. In addition, we reviewed past GAO and 
+other federal agency or intergovernmental agency studies on refined 
+product markets to identify data gaps, limitations, or inconsistencies. 
+Finally, we interviewed key industry, expert institution, and academic 
+representatives regarding data limitations and utility in their own 
+work and what other data concerns or needs they might have for future 
+analyses. Our work was not a comprehensive evaluation of all federal 
+energy data, but rather, an assessment of key data GAO used in this and 
+past reports, and select other data that were determined during the 
+course of our review to have posed limitations for GAO's or other 
+agencies' evaluations of important policy questions. 
+
+We conducted this performance audit from October 2008 through July 2009 
+in accordance with generally accepted government auditing standards. 
+Those standards require that we plan and perform the audit to obtain 
+sufficient, appropriate evidence to provide a reasonable basis for our 
+findings and conclusions based on our audit objectives. We believe that 
+the evidence obtained provides a reasonable basis for our findings and 
+conclusions based on our audit objectives. 
+
+[End of section] 
+
+Appendix II: GAO's Quantitative Methodology for Determining Impacts of 
+Refinery Outages on Wholesale Prices: 
+
+Introduction: 
+
+We developed an econometric model to explain the impact of refinery 
+outages on gasoline prices. Our model controlled for as many 
+contributing factors as possible, however, there were not always 
+sufficient data available to control for all possible factors affecting 
+wholesale gasoline prices. Our model examined how wholesale gasoline 
+city rack prices were affected in the week during which a large 
+unplanned refinery outage occurred. 
+
+Econometric Model Specification and Methodology: 
+
+We examined weekly average data on wholesale city rack gasoline prices. 
+We used data from 75 wholesale city racks from January 2002 through 
+September 2008. We believe that the increased information from higher 
+frequency data--for example, by using daily data--would be outweighed 
+by the extra noise generated by such relatively high frequency data. 
+Further, using lower frequency data, such as monthly data, runs the 
+risk of obscuring some of the less extended but important effects of 
+unplanned outages on gasoline prices. Another limitation of our 
+analysis is that, in some cases, our data series for the control 
+variables, described below, are generally available only on a monthly 
+basis,[Footnote 31] in which case these values are assigned to the 
+corresponding weekly observations. We consulted with government and 
+academic experts to help develop our econometric model. 
+
+The Dependent Variable-Wholesale Gasoline Price: 
+
+Our variable of interest was the price of gasoline, specifically the 
+wholesale rack price of gasoline. 
+
+* Our dependent variable was the logarithm of the wholesale city rack 
+price of gasoline. Note that we include a time dummy variable for every 
+time period so we do not have to deflate the wholesale price by a price 
+index such as the producer price index or the price of crude.[Footnote 
+32] We used an Augmented-Dickey-Fuller test designed for panel data to 
+test for stationarity in levels of our dependent variables, in the case 
+of both unbranded and branded prices.[Footnote 33] Our tests showed 
+that our unbranded and branded dependent variable was stationary in 
+levels.[Footnote 34] 
+
+* We examined separate models for unbranded and branded products to 
+test for the consistency of our results. 
+
+* There may be multiple gasoline prices reported for a given city rack 
+on a given date. In general, we used the wholesale rack price of 
+gasoline that is required in that specific city because we were 
+interested in determining whether areas with non-standard gasoline 
+specifications[Footnote 35] experienced larger gasoline price increases 
+when a refinery that supplied their particular specification had an 
+outage. 
+
+* By including a complete set of time dummy variables-one for each 
+week's observation in the data-our model controlled for factors that 
+vary only over time (and are invariant across cities), such as the 
+national average price level, the price of crude oil, and seasonal 
+effects. 
+
+Explanatory Variables--Measuring the Impact of an Outage on Gasoline 
+Prices: 
+
+Our primary interest was to examine the impact of refinery outages on 
+gasoline prices. There are two key issues: 
+
+1. Identifying an outage. We acquired data on outage occurrences from 
+IIR. These data provide information about the outage, including whether 
+the outage was planned or unplanned, the date of the outage, the 
+duration of the outage, and the capacity of the unit that was offline 
+due to the outage. 
+
+2. Measuring the impact of a given outage on a particular city. For 
+each city, we estimated the proportion of its product that it generally 
+received from each refinery; a city may be served by one or more 
+refineries. 
+
+Our measure of an outage's impact was the proportion of a city's 
+product that was generally supplied by the refinery (or refineries) 
+experiencing an outage. If a city was generally estimated to receive no 
+product from the refinery experiencing the outage, then the effect was 
+zero, the explanatory variable was zero, and the refinery outage had no 
+impact on that city's gasoline price. Alternatively, if, for example, a 
+city received 20 percent of its product from said refinery, the 
+explanatory variable had a value of 0.20 for that time period. It is 
+also possible that a single city may have been impacted by more than 
+one refinery outage at the same time, so in that case we would sum 
+these effects. For instance, if in addition to the 20 percent impact 
+example above, there was an outage at a refinery supplying 10 percent 
+of the city's product, the explanatory variable would take a combined 
+value of 0.30.[Footnote 36] 
+
+Other Explanatory Variables: 
+
+In addition to the impact of outages, our model includes other 
+important variables that may influence the price of gasoline. 
+
+* Volume of inventory of gasoline relative to the volume of sales of 
+gasoline. This could affect the availability of gasoline at the 
+wholesale level and hence affect prices. Prices should decrease when 
+inventories are high relative to sales and should rise when inventories 
+are low relative to sales. However, inventories and sales may 
+themselves respond to changes in wholesale gasoline prices, so this 
+variable may be endogenous. 
+
+* Capacity utilization rate. This could affect the wholesale price of 
+gasoline through changes in the availability of gasoline product. One 
+possibility is that, when utilization rates are high, there would be 
+more gasoline available, which would tend to lower prices; conversely 
+if utilization rates are low, less gasoline would be available, which 
+would tend to raise prices. However, it is possible that as utilization 
+rates approach very high levels, there are significant increases in 
+cost of production, which could then result in higher prices. Further, 
+capacity utilization may react to changes in gasoline prices, so it is 
+possible that this variable is endogenous. 
+
+* Market concentration. Markets with fewer sellers of product or that 
+are more highly concentrated, may be associated with higher gasoline 
+prices. However, the direction of effect may run the other way too, 
+such that markets with higher prices may attract entrants, which may 
+reduce the level of market concentration. We treat market concentration 
+as an endogenous variable. 
+
+* Lagged dependent variable. Our model includes lagged values of the 
+left hand side variable; namely, the logarithm of the wholesale price 
+of gasoline. Gasoline price data may be serially correlated and it is 
+reasonable to include the effect of past gasoline prices on current 
+gasoline prices. 
+
+* Time fixed effects. We included a dummy variable for each time period 
+in the analysis. 
+
+* City fixed effects. We included a dummy variable for each city in the 
+analysis. These city fixed effects may assist in controlling for 
+unobserved heterogeneity. 
+
+* Product specification. We included a dummy variable for each of the 
+different types of gasoline used in our model. 
+
+* Interaction between the product specification dummy variables and the 
+outage impact variable. We included a set of interaction terms to test 
+whether cities that with special fuel requirements experience higher 
+price increases due to outages. 
+
+Econometric Model Specification: 
+
+Our fixed effects model can be written as follows: 
+
+yit = (xit, wit)B + ci + fi + uit, i = 1,2,...,N; t = 1,2,...,T (1), 
+
+where: 
+
+yit is the logarithm of wholesale rack gasoline price at city i in week 
+t. 
+
+xit is a vector of predetermined variables for city i in week t that 
+are assumed to be independent of our error term, uit, including a 
+lagged value of our dependent variable. 
+
+wit is a vector of possibly endogenous variables at city i in week t. 
+
+ci is the fixed effect or dummy variable for city i. 
+
+ft is the fixed effect of dummy variable for week t. 
+
+B is a vector of parameters to be estimated. 
+
+Our key outage effect variable measures the percent of a city's product 
+supply affected by an outage; that is: 
+
+[Refer to PDF for formula] 
+
+where Outageir't is equal to 1 when an outage occurs at time t in the 
+r'-th refinery that serves the i-th city, and the remaining term is the 
+proportion of product provided by that refinery to that city. When 
+there is no outage, Outageir't is equal to zero. Thus, this variable 
+measures a city's reduction in product due to an outage (or outages). 
+In the extreme case, there may be a single refinery that supplies 100 
+percent of a city's product, in which case the impact on product of an 
+outage at that refinery on that city would be large, with a concomitant 
+effect on that city's gasoline prices. 
+
+The outage impact may also have varied according to the type of fuel. 
+The variable, sirt measures the percentage of supply of product that 
+was interrupted; it may not account completely for the difficulty in 
+finding a replacement for that product. If a city used a fuel that is 
+commonly produced, such as conventional clear gasoline, it would likely 
+be more straightforward to find an alternative source of supply. 
+However, if the city uses a special fuel, it may be more difficult to 
+find an alternative refinery to supply that product. Therefore, in 
+addition to a set of dummy variables for each fuel specification, we 
+included a set of interaction terms of our outage supply affect 
+variable with each of the fuel specification dummy variables. 
+
+* We used xtiverg2 in STATA.[Footnote 37] The xtivreg2 estimation 
+procedure allowed us to estimate standard errors that are robust to 
+heteroskedasticity and autocorrelation. 
+
+* We estimated the model using the logarithm of price as the dependent 
+variable. Note that because we have time dummies, we do not need to 
+control for crude oil prices or price inflation because these variables 
+are invariant across cities for a given time period and so are 
+collinear with the time dummies. Our specification necessarily subsumes 
+the impact those variables that only vary over time and not vary across 
+cities. 
+
+* We used a C-statistic test to ascertain whether the inventory-sales 
+ratio and the capacity utilization rate should be treated as endogenous 
+or exogenous.[Footnote 38] In the case of both the unbranded gasoline 
+prices and the branded gasoline price models, our test could not reject 
+the null hypothesis that these variables were exogenous. 
+
+* Measures of market concentration, such as the Hirschman Herfindahl 
+Index (HHI), have been shown to be endogenous,[Footnote 39] so we 
+tested for whether it was exogenous and use two-stage least squares 
+when appropriate, using merger events as instruments. We used a C- 
+statistic to test for the exogeneity of the spot market HHI. In the 
+case of the unbranded gasoline price model, the test rejected the null 
+hypothesis of exogeneity. In the case of the branded price model, the 
+test could not reject the null hypothesis of exogeneity. We estimated 
+both models treating the spot market HHI as endogenous, which we 
+recognize might be a less efficient estimator but is nevertheless a 
+consistent estimator. 
+
+* We used Hansen's J-statistic to test for over-identification of our 
+instruments; namely, that they should be correlated with the 
+regressors, but uncorrelated with the regression errors.[Footnote 40] 
+In every case, the J-statistic accepted the null hypothesis that our 
+instruments were valid. 
+
+* We estimated separate models for unplanned and planned outages. While 
+unplanned outages can be reasonably viewed as exogenous--random-- 
+events, planned outages need to be scheduled more than a year in 
+advance and may be scheduled to coincide with time periods of typically 
+lower seasonal demand. Therefore, we believe it was appropriate to 
+model these two types of outages separately. 
+
+* We estimated separate models for unbranded prices and branded prices. 
+
+* We estimated the model (1) except that we dropped those observations 
+where waivers were in effect. 
+
+Table 3: Data Used In Our Econometric Model: 
+
+Data Sources: 
+
+Variable: Prices; 
+Description: Wholesale gasoline price in cents-per-gallon. Branded and 
+unbranded. Weekly averages; 
+Source: OPIS. 
+
+Variable: Spot market HHI; 
+Description: Market concentration, measured by refinery capacity of 
+corporations in each spot market. Monthly data; 
+Source: EIA, GAO analysis. 
+
+Variable: Merger dummy variables; 
+Description: Dummy variable equal to 1 from the effective date of the 
+merger. Equal to 0 before the effective date of the merger. Similarly 
+for announced dates of each of the mergers; 
+Source: OPIS, IHS Herold. 
+
+Variable: Inventory-sales ratio; 
+Description: Ratio of total motor gasoline inventories to finished 
+gasoline product supplied. Monthly data at the PADD level; 
+Source: EIA. 
+
+Variable: Capacity utilization rate; 
+Description: Capacity utilization rate. Monthly data at the PADD level; 
+Source: EIA. 
+
+Variable: Fuel type dummy variables; 
+Description: Set of dummy variables for the gasoline fuel type. Details 
+the main fuel type, presence of additives and RVP. Weekly data; 
+Source: OPIS. 
+
+Variable: Employment growth; 
+Description: Percentage growth in employment at the state level. 
+Monthly data; 
+Source: Department of Labor. 
+
+Variable: Unemployment rate; 
+Description: Percentage unemployment rate at the state level. Monthly 
+data; 
+Source: Department of Labor. 
+
+Variable: Real personal income growth; 
+Description: Percentage growth in personal income at the state level 
+deflated by the consumer price index. Quarterly data; 
+Source: BEA. 
+
+Variable: Consumer price index; 
+Description: Consumer price index. Monthly data; 
+Source: Department of Labor. 
+
+Variable: Percent of general product supply affected by the outage; 
+Description: Proportion of the usual amount of supply affected by an 
+outage or outages. Quarterly data; 
+Source: IIR for outage events. Baker & O'Brien for determining the 
+amount of product generally supplied by each refinery to each city. 
+
+Source: Baker & O'Brien, BEA, EIA, IHS Herold, IIR, Department of 
+Labor, OPIS and GAO analysis. 
+
+[End of table] 
+
+Table 4: Regression Results for Effect of Unplanned Outages on 
+Unbranded Gasoline Prices--Dependent Variable is the Logarithm of 
+Unbranded Gasoline Price: 
+
+Spot market HHI; 
+Coefficient: 0.26751; 
+Standard error: 0.08108[A]. 
+
+Inventory-to-sales ratio; 
+Coefficient: -0.00177; 
+Standard error: 0.00168. 
+
+Utilization as a % of operating capacity; 
+Coefficient: -0.00033; 
+Standard error: 0.00006[A]. 
+
+Log of unbranded gasoline price lagged 1 period; Coefficient: : 
+0.85919; Standard error: : 0.00573[A]. 
+
+Fuel types: % supply reliance (% reliance on refinery experiencing 
+outage); 
+Coefficient: 0.00014; 
+Standard error: 0.00004[A]. 
+
+Fuel types: 
+
+CBG; 
+Coefficient: 0.00632; 
+Standard error: 0.00391. 
+
+CBG with 10% ethanol; 
+Coefficient: 0.00956; 
+Standard error: 0.00277[A]. 
+
+CARB with 5.7% ethanol; 
+Coefficient: 0.00871; 
+Standard error: 0.00322[A]. 
+
+CARB with 2% MTBE; 
+Coefficient: 0.00681; 
+Standard error: 0.00342[B]. 
+
+Conventional RVP 7.0; 
+Coefficient: 0.01048; 
+Standard error: 0.00195[A]. 
+
+Conventional RVP 7.8; 
+Coefficient: 0.00314; 
+Standard error: 0.00106[A]. 
+
+Conventional RVP 9.0; 
+Coefficient: 0.00343; 
+Standard error: 0.00094[A]. 
+
+Conventional 5.7% ethanol; 
+Coefficient: 0.00903; 
+Standard error: 0.00410[B]. 
+
+Conventional 7.7% ethanol; 
+Coefficient: 0.00465; 
+Standard error: 0.00189[B]. 
+
+Conventional 7.7% ethanol RVP 9.0; 
+Coefficient: 0.01727; 
+Standard error: 0.00205[A]. 
+
+Conventional 10% ethanol; 
+Coefficient: 0.00532; 
+Standard error: 0.00116[A]. 
+
+Conventional 10% ethanol RVP 7.0; 
+Coefficient: 0.00894; 
+Standard error: 0.00263[A]. 
+
+Conventional 10% ethanol RVP 7.8; 
+Coefficient: 0.00818; 
+Standard error: 0.00176[A]. 
+
+Conventional 10% ethanol RVP 9.0; 
+Coefficient: 0.00680; 
+Standard error: 0.00154[A]. 
+
+Low sulfur; 
+Coefficient: 0.00374; 
+Standard error: 0.00191[B]. 
+
+Low sulfur RVP 7.0; 
+Coefficient: 0.00822; 
+Standard error: 0.00239[A]. 
+
+RFG 10% ethanol; 
+Coefficient: 0.01572; 
+Standard error: 0.00416[A]. 
+
+RFG MTBE; 
+Coefficient: 0.01433; 
+Standard error: 0.00400[A]. 
+
+Fuel types interacted with % supply reliance: 
+
+CBG interaction with % supply reliance; 
+Coefficient: 0.00007; 
+Standard error: 0.00025. 
+
+CBG with 10% ethanol interaction with % supply reliance; 
+Coefficient: -0.00010; 
+Standard error: 0.00007. 
+
+CARB with 5.7% ethanol interaction with % supply reliance; 
+Coefficient: 0.00009; 
+Standard error: 0.00013. 
+
+CARB with 2% MTBE interaction with % supply reliance; 
+Coefficient: 0.00123; 
+Standard error: 0.00049[B]. 
+
+CARB without oxygenate interaction with % supply reliance; 
+Coefficient: 0.00430; 
+Standard error: 0.00033[A]. 
+
+Conventional RVP 7.0 interaction with % supply reliance; 
+Coefficient: -0.00026; 
+Standard error: 0.00017. 
+
+Conventional RVP 7.8 interaction with % supply reliance; 
+Coefficient: 0.00000; 
+Standard error: 0.00007. 
+
+Conventional RVP 9.0 interaction with % supply reliance; 
+Coefficient: 0.00001; 
+Standard error: 0.00006. 
+
+Conventional 5.7% ethanol interaction with % supply reliance; 
+Coefficient: 0.00135; 
+Standard error: 0.00033[A]. 
+
+Conventional 7.7% ethanol interaction with % supply reliance; 
+Coefficient: 0.00009; 
+Standard error: 0.00013. 
+
+Conventional 7.7% ethanol RVP 9.0 interaction with % supply reliance; 
+Coefficient: -0.00033; 
+Standard error: 0.00006[A]. 
+
+Conventional 10% ethanol interaction with % supply reliance; 
+Coefficient: -0.00001; 
+Standard error: 0.00013. 
+
+Conventional 10% ethanol RVP 7.0 interaction with % supply reliance; 
+Coefficient: 0.00108; 
+Standard error: 0.00041[A]. 
+
+Conventional 10% ethanol RVP 7.8 interaction with % supply reliance; 
+Coefficient: -0.00009; 
+Standard error: 0.00012. 
+
+Conventional 10% ethanol RVP 9.0 interaction with % supply reliance; 
+Coefficient: 0.00004; 
+Standard error: 0.00011. 
+
+Low sulfur interaction with % supply reliance; 
+Coefficient: 0.00084; 
+Standard error: 0.00046[C]. 
+
+Low sulfur RVP 7.0 interaction with % supply reliance; 
+Coefficient: 0.00012; 
+Standard error: 0.00024. 
+
+RFG 10% ethanol interaction with % supply reliance; 
+Coefficient: 0.00015; 
+Standard error: 0.00007[B]. 
+
+RFG MTBE interaction with % supply reliance; 
+Coefficient: -0.00003; 
+Standard error: 0.00012. 
+
+R-squared; 0.996. 
+
+J-test for over-identification (signif. level); 18.8%. 
+
+Observations; 26325. 
+
+Number of cities; 75. 
+
+Source: GAO analysis of various data sources. 
+
+Notes: The standard error estimates are robust to heteroskedasticity 
+and autocorrelation. The regression model included fixed effects for 
+cities and time dummies for each week of data. The model is estimated 
+using two-stage least squares, treating the spot market HHI as 
+endogenous. The fuel dummy variable for CARB without any MTBE or 
+ethanol was not estimated due to collinearities. 
+
+See table 3 for a list of data sources used in this table. 
+
+[A] significant at the 1 percent level. 
+
+[B] significant at the 5 percent level. 
+
+[C] significant at the 10 percent level. 
+
+[End of table] 
+
+Table 5: Regression Results for Effect of Unplanned Outages on Branded 
+Gasoline Prices--Dependent Variable is the Logarithm of Branded 
+Gasoline Price: 
+
+Spot market HHI; 
+coefficient: 0.17803; 
+standard error: 0.05804[A]. 
+
+Inventory-to-sales ratio; 
+coefficient: -0.00057; 
+standard error: 0.00452. 
+
+Utilization as a % of operating capacity; 
+coefficient: -0.00020; 
+standard error: 0.00004[A]. 
+
+Log of branded gasoline price lagged 1 period; 
+coefficient: 0.90106; 
+standard error: 0.00452[A]. 
+
+% supply reliance (% reliance on refinery experiencing outage); 
+coefficient: 0.00006; 
+standard error:0.00002[A]. 
+
+Fuel types: 
+
+CBG; 
+coefficient: 0.00784; 
+standard error: 0.00784. 
+
+CBG with 10% ethanol; 
+coefficient: 0.00429; 
+standard error: 0.00460. 
+
+CARB with 5.7% ethanol; 
+coefficient: -0.00681; 
+standard error: 0.00224[A]. 
+
+CARB with 2% MTBE; 
+coefficient: 0.00556; 
+standard error: 0.00137[A]. 
+
+Conventional RVP 7.8; 
+coefficient: 0.00142; 
+standard error: 0.00073[B]. 
+
+Conventional RVP 9.0; 
+coefficient: 0.00256; 
+standard error: 0.00066[A]. 
+
+Conventional 5.7% ethanol; 
+coefficient: 0.01362; 
+standard error: 0.00333[A]. 
+
+Conventional 7.7% ethanol; 
+coefficient: 0.00219; 
+standard error: 0.00139. 
+
+Conventional 7.7% ethanol RVP 9.0; 
+coefficient: 0.00945; 
+standard error: 0.00260[A]. 
+
+Conventional 10% ethanol; 
+coefficient: 0.00349; 
+standard error: 0.00071[A]. 
+
+Conventional 10% ethanol RVP 7.0; 
+coefficient: 0.00798; 
+standard error: 0.00208[A]. 
+
+Conventional 10% ethanol RVP 7.8; 
+coefficient: 0.00350; 
+standard error: 0.00094[A]. 
+
+Conventional 10% ethanol RVP 9.0; 
+coefficient: 0.00602; 
+standard error: 0.00094[A]. 
+
+Low sulfur; 
+coefficient: 0.00389; 
+standard error: 0.00181[B]. 
+
+Low sulfur RVP 7.0; 
+coefficient: 0.00582; 
+standard error: 0.00199[A]. 
+
+Low sulfur RVP 9.0; 
+coefficient: 0.00083; 
+standard error: 0.00724. 
+
+RFG 10% ethanol; 
+coefficient: 0.02147; 
+standard error: 0.00916[B]. 
+
+RFG MTBE; 
+coefficient: 0.02142; 
+standard error: 0.00910[B]. 
+
+Fuel types interacted with % supply reliance: 
+
+CBG interaction with % supply reliance; 
+coefficient: -0.00024; 
+standard error: 0.00014[C]. 
+
+CBG with 10% ethanol interaction with % supply reliance; 
+coefficient: -0.00044; 
+standard error: 0.00016[A]. 
+
+CARB with 5.7% ethanol interaction with % supply reliance; 
+coefficient: 0.00022; 
+standard error: 0.00013[A]. 
+
+CARB with 2% MTBE interaction with % supply reliance; 
+coefficient: -0.00007; 
+standard error: 0.00037. 
+
+Conventional RVP 7.0 interaction with % supply reliance; 
+coefficient: -0.00008; 
+standard error: 0.00010. 
+
+Conventional RVP 7.8 interaction with % supply reliance; 
+coefficient: -0.00010; 
+standard error: 0.00004[A]. 
+
+Conventional RVP 9.0 interaction with % supply reliance; 
+coefficient: -0.00004; 
+standard error: 0.00005. 
+
+Conventional 5.7% ethanol interaction with % supply reliance; 
+coefficient: 0.00143; 
+standard error: 0.00506. 
+
+Conventional 7.7% ethanol interaction with % supply reliance; 
+coefficient: -0.00002; 
+standard error: 0.00021. 
+
+Conventional 7.7% ethanol RVP 9.0 interaction with % supply reliance; 
+coefficient: -0.00004; 
+standard error: 0.00028. 
+
+Conventional 10% ethanol interaction with % supply reliance; 
+coefficient: 0.00006; 
+standard error: 0.00010. 
+
+Conventional 10% ethanol RVP 7.0 interaction with % supply reliance; 
+coefficient: 0.00045; 
+standard error: 0.00048. 
+
+Conventional 10% ethanol RVP 7.8 interaction with % supply reliance; 
+coefficient: -0.00001; 
+standard error: 0.00005. 
+
+Conventional 10% ethanol RVP 9.0 interaction with % supply reliance; 
+coefficient: 0.00014; 
+standard error: 0.00007[A]. 
+
+Low sulfur interaction with % supply reliance; 
+coefficient: 0.00040; 
+standard error: 0.00031. 
+
+Low sulfur RVP 7.0 interaction with % supply reliance; 
+coefficient: 0.00004; 
+standard error: 0.00009. 
+
+RFG 10% ethanol interaction with % supply reliance; 
+coefficient: 0.00015; 
+standard error: 0.00005[A]. 
+
+RFG MTBE interaction with % supply reliance; 
+coefficient: -0.00013; 
+standard error: 0.00005[A]. 
+
+R-squared: 0.997. 
+
+J-test for over-identification (signif. level): 19.2%. 
+
+Observations: 26325. 
+
+Number of cities: 75. 
+
+Source: GAO analysis of various data sources. 
+
+Notes: The standard error estimates are robust to heteroskedasticity 
+and autocorrelation. The regression model included fixed effects for 
+cities and time dummies for each week of data. The model is estimated 
+using two-stage least squares, treating the spot market HHI as 
+endogenous. The fuel dummy variable for CARB with MTBE, and the 
+interaction variable between the fuel dummy for low-sulfur with 9.0 RVP 
+and outage variable was not estimated, due to collinearities. 
+
+See table 3 for a list of data sources used in this table. 
+
+[A] significant at the 1 percent level. 
+
+[B] significant at the 5 percent level. 
+
+[C] significant at the 10 percent level. 
+
+[End of table] 
+
+* We found unplanned outages were significantly associated with an 
+increase in unbranded gasoline prices. We found this impact is 
+generally positive with respect to the price of all fuels. We further 
+found this impact is significantly greater than the comparative or base 
+effect (measured relative to the effect on conventional clear) for 
+several special fuels. 
+
+* In addition, we found unplanned outages were significantly associated 
+with an increase in branded gasoline prices but the effect was smaller 
+than for unbranded prices. This impact is generally positive with 
+respect to the price of all fuels. There is also evidence that the 
+impact is greater for some special fuels although in fewer cases 
+compared to the unbranded price results. 
+
+* Our results using planned outages to explain prices found no general 
+statistically significant impact on gasoline product prices, either 
+branded or unbranded. 
+
+* We found no substantive difference in our results for outage effects 
+when we estimated the model (1) without those observations where 
+waivers were in effect. 
+
+Limitations of Our Econometric Model and Data: 
+
+Cities included in model. Our selection of cities was based on data 
+availability from the Baker & O'Brien data. There are in excess of 350 
+city wholesale racks in the U.S. however: 
+
+* The Baker & O'Brien data contain data on only 89 cities, and only 75 
+of those had complete series data that we could use for our model. 
+
+* The Baker & O'Brien cities comprise the most important city racks. 
+
+* Treating each of the 350 city racks as independent rack markets may 
+not be appropriate. Rather, we can obtain a national picture by 
+selecting the most important cities as per the list of cities in the 
+Baker & O'Brien data. 
+
+Time period of analysis. We selected January 2002 through September 
+2008 because we deemed the IIR data to provide reliable information 
+from 2002 onward. 
+
+Gasoline type. The gasoline data from OPIS were selected so as to 
+generally reflect the type of gasoline that would be sold in a city, 
+given its local fuel regulations. In most cases, we were able to assign 
+prices accordingly but in some cases other types of fuel were used in 
+the data. However, in the regression model, we control for whatever 
+fuel type we did use. 
+
+Outages data. We believe the outages data from IIR are fairly 
+comprehensive but there are no federal requirements for refineries to 
+report outages or an effort by the federal government to collect these 
+data on a national basis. Consequently, some outages may not appear in 
+the data, though it is unlikely that any major outages were missed 
+during our study period. Further, we limited inclusion of outages to 
+those that were at least 3 days in duration and ranked in the top 60 
+percent in terms of recorded capacity offline for a refinery's market 
+region (as defined by IIR). Thus, we do not include every single outage 
+but we have a broad geographic range of the largest outages in the US. 
+
+Linkage data between refineries and cities they serve. The Baker & 
+O'Brien data has the following limitations: 
+
+* They are quarterly estimates of product flows and costs. These data 
+are intended to be reasonably reflective of actual product dispersion 
+across the United States. However, in the course of our analysis we had 
+to interpolate some missing data and to extrapolate our data beyond the 
+end-points of the available data. 
+
+* The Baker & O'Brien data did not always contain complete data for the 
+particular fuel that regulations required be used in that city. In some 
+cases, seasonal variations in fuel requirements, such as RVP or 
+oxygenate blending specifications, meant a precise match was not 
+possible. However, in general, we were able to match the Baker & 
+O'Brien fuel with these regulations. 
+
+Frequency of data. Except for our weekly wholesale gasoline price data, 
+our other data were either monthly or quarterly, so we had to parse out 
+the lower frequency observations accordingly. 
+
+Geographic level of analysis. Our analysis was performed at the city 
+level, but some of the data we used were at a more aggregated 
+geographic level. We used capacity utilization and inventory-sales 
+ratio data at the PADD level. We did not have a measure of city-level 
+sales data to determine the size of inventories relative to a local 
+market, nor is there a relevant measure of capacity utilization at city-
+level, therefore, PADD-level data were used.[Footnote 41],[Footnote 42] 
+
+Economic indicators. Employment growth, personal income growth rate, 
+and the unemployment rate were available at the state-level only. 
+
+Market concentration. Our measure of market concentration was an HHI 
+measured using corporate refinery capacity at the spot market level. It 
+is possible in some cases these measures were too highly aggregated and 
+the control variables were less precise than would be ideal. 
+
+Number of outages. We did not take account of multiple outages at the 
+same refinery on the same day-we simply established whether an outage 
+occurred in a particular week, at a particular refinery. Although the 
+size of the outage determined whether it was included in our analysis, 
+the impact is treated the same regardless of how large an impact on the 
+refinery the outage had. 
+
+Effects of an outage over time. We did not attempt to include dynamic 
+effects of outages on prices in our model. We assigned an effect of 
+outage in the same time period (week), after which time our model 
+implicitly assumed that the product was supplied from an alternate 
+source. 
+
+Planned outages. We did not model planned outages in any detail. These 
+planned events by definition, did not generally give rise to surprise 
+reductions in product supply. Hence, vendors had the opportunity to 
+plan ahead and make arrangements to receive alternative sources of 
+product. However, we did estimate an analogous model to equation (1) 
+and found no significant impact on prices. 
+
+Inventories. Inventories included those domestic and customs-cleared 
+foreign stocks held at, or in transit to, refineries and bulk 
+terminals, and stocks in pipelines. 
+
+Gasoline sold outside the city rack: Our analysis does not account for 
+gasoline that is not sold at the city rack. It is possible that 
+significant transactions occur elsewhere that may affect the general 
+wholesale market for a particular city. 
+
+Examining wholesale prices, not retail prices. Our analysis is at the 
+wholesale price level and the ramifications for retail prices are 
+unclear. The effect on retail prices would depend upon the extent to 
+which wholesale price changes are passed onto the retail sector. 
+
+Seasonal effects. Our model included of a set of time dummy variables, 
+which account for variation in prices due to seasonal effects. A more 
+complete model might have contained specific seasonal effects such as a 
+set of monthly dummy variables, interacted with the outage effect, and 
+also with each special fuel type. This would have allowed us to 
+determine whether outages had a differential impact on prices, 
+according to the time of year and the fuel type. However, data 
+limitations precluded a comprehensive evaluation of such effects; 
+specifically, this would have required us to include more than 200 
+additional explanatory variables (number of seasonal dummies times the 
+number of special fuel types). 
+
+[End of section] 
+
+Appendix III: GAO Contact and Staff Acknowledgments: 
+
+GAO Contact: 
+
+Frank Rusco, (202) 512-3841 or ruscof@gao.gov: 
+
+Staff Acknowledgments: 
+
+In addition to the individual named above, Shea Bader, Divya Bali, 
+Benjamin Bolitzer, Dan Haas, Michael Kendix, Rob Marek, Michelle Munn, 
+Alison O'Neill, Rebecca Sandulli, Benjamin Shouse, and Barbara 
+Timmerman made key contributions to this report. 
+
+[End of section] 
+
+Footnotes: 
+
+[1] GAO, Energy Markets: Refinery Outages Can Impact Petroleum Product 
+Prices, but No Federal Requirements to Report Outages Exist, 
+[hyperlink, http://www.gao.gov/products/GAO-09-87], (Washington, D.C.: 
+Oct. 7, 2008). 
+
+[2] Department of Energy, Energy Information Administration, Refinery 
+Outages: Description and Potential Impact on Petroleum Product Prices 
+(Washington, D.C., March 2007). 
+
+[3] Although these commercial data are estimates, we have a large 
+number of observations across a large number of cities, and therefore 
+believe our results are a reasonable estimation of the averaged effects 
+across our study period. 
+
+[4] We analyzed about 1,100 observations of unplanned outages and about 
+1,200 observations of planned outages. 
+
+[5] We recognize that in many cases, the price effect may extend beyond 
+the one-week period analyzed in our study. The amount of time the price 
+effect, if any, can be expected to endure depends upon a number of 
+factors, including the length of time it takes to re-supply the market 
+from an alternative source. 
+
+[6] The results we report in the body of this report are all 
+statistically significant at the 10 percent level or better. 
+
+[7] According to EIA, finished gasoline includes conventional gasoline, 
+all types of oxygenated gasoline, including gasohol and reformulated 
+gasoline, and gasoline comprised of a blendstock with an oxygenate such 
+as ethanol, which has been blended to satisfy emissions and other 
+federal standards. 
+
+[8] Ethanol corrodes pipelines and may attract water, which renders 
+pipelines unable to transport petroleum products without investing in 
+costly upgrades. 
+
+[9] [hyperlink, http://www.gao.gov/products/GAO-09-87]. 
+
+[10] In some situations, a planned outage may last longer than 
+expected, which EIA sources stated might cause the planned outage to, 
+in essence, become an unplanned outage. A planned outage that extends 
+beyond the announced or expected window is different from an unplanned 
+outage. For example, experienced market operatives will know that such 
+announcements are in general, the best estimates of the duration of an 
+outage, and will take the uncertainty of timing into account. This is 
+distinct from a situation where an apparently random unplanned event 
+occurred, for example, caused by a sudden explosion. Therefore, it may 
+be inappropriate to treat these as the same types of events. Further, 
+without more information, we do not know to what degree the extended 
+planned outage came as a surprise. Therefore, we do not consider these 
+outages unplanned. 
+
+[11] It may be noted that in some circumstances, a production facility 
+may have been operating below capacity prior to the start date of an 
+unplanned outage or have a gradual comeback after the outage end date. 
+EIA officials suggested a more ideal way to define the length and 
+extent of an outage is to use EIA-810 data on monthly capacity 
+utilization and production combined with the IIR data, which identifies 
+when a refining unit goes completely down. However, the fact that the 
+EIA-810 data do not identify which day or even week the outage or the 
+gradual slow-down of a refining unit begins, makes this approach 
+incompatible with the structure of the model we used. 
+
+[12] EIA-800 "Weekly Refinery and Fractionator Report"; EIA-801 "Weekly 
+Bulk Terminal Report"; EIA-802 "Weekly Product Pipeline Report"; EIA- 
+803 "Weekly Crude Oil Stocks Report"; EIA-804 "Weekly Imports Report"; 
+EIA-805 "Weekly Terminal Blenders Report"; EIA-810 "Monthly Refinery 
+Report"; EIA-811 "Monthly Bulk Terminal Report"; EIA-812 "Monthly 
+Product Pipeline Report"; EIA-813 "Monthly Crude Oil Report"; EIA-814 
+"Monthly Imports Report"; EIA-815 "Monthly Terminal Blenders Report"; 
+EIA-816 "Monthly Natural Gas Liquids Report"; EIA-817 "Monthly Tanker 
+and Barge Movement Report; EIA-819 "Monthly Oxygenate Report"; EIA-820 
+"Annual Refinery Report." 
+
+[13] EPA officials told us that the ability of EPA to grant waivers for 
+certain fuel requirements may be limited because some fuel 
+specifications may damage vehicle emissions control equipment. For 
+example, gasoline vehicle catalysts can be compromised by using 
+gasoline with too high a sulfur content. 
+
+[14] The Clean Air Act allows other states and counties to opt-in to 
+the Reformulated Gasoline (RFG) program as part of their State 
+Implementation Plans for air quality. Once states opt-in to the 
+program, they are required to use reformulated gasoline unless they 
+receive a waiver from EPA. 
+
+[15] GAO, Strategic Petroleum Reserve: Issues Regarding the Inclusion 
+of Refined Petroleum Products as Part of the Strategic Petroleum 
+Reserve, [hyperlink, http://www.gao.gov/products/GAO-09-695T] 
+(Washington, D.C.: May 12, 2009). 
+
+[16] [hyperlink, http://www.gao.gov/products/GAO-09-87]. 
+
+[17] In the absence of such arrangements and under normal market 
+conditions, unbranded wholesale prices tend to be lower than branded 
+wholesale prices, in part because unbranded distributors are able to 
+shop around for the lowest wholesale price. 
+
+[18] We believe the under-and over-estimation of results to be small 
+because the bulk of the outages we evaluated were related to refining 
+units that primarily would have an impact on gasoline production. One 
+could use a case study approach and examine the dynamics of price 
+effects experienced based on the type of equipment experiencing the 
+outage--and such a case study may even look at multiple products. 
+However, this was not possible given the model we chose, which was 
+developed based on the data available and our intent to cover the 
+geographic United States and determine the immediate and average 
+effects of outages. EIA's analysis of the impacts of outages on 
+production, depending on the type of equipment experiencing the outage, 
+was published in its March 2007 report Refinery Outages: Description 
+and Potential Impact on Petroleum Product Prices. We believe that 
+building a body of work and analyses will contribute to our collective 
+knowledge of the effects of outages on gasoline prices. 
+
+[19] The refinery-to-market link would be useful in understanding 
+relationships between refineries and the markets they serve, including 
+which refineries produce special fuel blends designed to meet federal, 
+state, or local requirements. Refiners have an interest in producing 
+products that meet a market need, and therefore can be expected to know 
+which markets they intend to serve. In addition, jobbers and retailers 
+have an interest in knowing where their supply typically originates, so 
+they may monitor market developments and price their gasoline 
+accordingly. However, the refinery-to-market link may be necessarily 
+imprecise, and in some cases the linkage cannot be tracked because the 
+pipeline distribution system is designed to enhance fungibility of 
+product shipped. For example, the Colonial pipeline system ships 
+product in batches that are not segregated by shipper--a single batch 
+of gasoline may be comprised of the intermingled production of several 
+refineries. While it may not be possible to track the "molecules" of 
+production that enter and exit the system, the market participants in 
+the system have a strong incentive to know the flows that affect their 
+operations. 
+
+[20] In addition to our current work, we reported in December 2007 that 
+it was difficult to assess the extent of supply infrastructure 
+constraints, or the impacts of these constraints on product prices, as 
+there is no central source of data which tracks the entry, flow, and 
+exit of petroleum products or the capacity at which pipelines operate 
+or the location of system bottlenecks. See GAO, Energy Markets: 
+Increasing Globalization of Petroleum Products Markets, Tightening 
+Refining Demand and Supply Balance, and Other Trends Have Implications 
+for U.S. Energy Supply, Prices and Price Volatility, GAO-08-14 
+(Washington, D.C.: Dec. 20, 2007). 
+
+[21] Federal agencies, as required under the Pub. L. No. 106-554 § 515 
+(2000), known as the Information Quality Act and related guidelines, 
+are generally required to meet high standards in collecting data from 
+industry and disseminating information to the public, including having 
+sufficient internal controls in place to assure its accuracy and 
+reliability. 
+
+[22] "America's Energy Pipeline Network: Assessing Current Strengths 
+and Identifying Future Challenges" was issued in January of 2009. The 
+study was conducted in response to Section 8 of the Pipeline 
+Inspection, Protection, Enforcement and Safety Act, Pub. L. No. 109-468 
+(2006). The study was to identify where shortages of pipeline capacity, 
+pipeline reliability concerns, or unplanned losses of pipeline 
+facilities might contribute to price disruptions or petroleum product 
+shortages, as well as to determine whether the current level of 
+pipeline regulation is sufficient to minimize future capacity 
+constraints. 
+
+[23] A DOT official noted that pipeline size is not the only limiting 
+factor for pipeline utilization capacity. Specifically, using drag- 
+reducing agents or adding pumps to a pipeline may increase its product 
+flow capacity thereby eliminating potential constraints. Moreover, 
+storage and other inventory data are generally under EIA's purview. 
+
+[24] In interviews with us, pipeline and other industry officials noted 
+that reporting product flow data on a monthly basis--which would 
+include volumetric entry and exit information--might not be overly 
+burdensome as equipment is already in place to track such flows and 
+bill shippers. However, product flow information is considered highly 
+sensitive for competitive reasons and would need to be treated as 
+confidential by agencies. 
+
+[25] Our analysis of state fuel and biofuel requirements, as reported 
+by OPIS, shows that one state, Illinois, specifies conventional 
+gasoline and has a so-called "label law" at gasoline stations' pumps to 
+advise consumers the gasoline being sold may contain ethanol. Other 
+states that specify various types of reformulated gasoline may also 
+have label laws advising the possible inclusion of ethanol--a common 
+component of reformulated gasoline--in the retail station's gasoline, 
+but our analysis identified areas in which conventional, not 
+reformulated, gasoline with ethanol content was being sold. 
+
+[26] The 32 states are: Alabama, Alaska, Arkansas, Colorado, Florida, 
+Georgia, Idaho, Illinois, Indiana, Kansas, Kentucky, Maine, Maryland, 
+Michigan, Mississippi, Nebraska, New Mexico, New York, North Carolina, 
+North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, 
+Texas, Utah, Vermont, Virginia, Wisconsin, West Virginia, and Wyoming. 
+
+[27] This survey, Form EIA-22M, collects company and plant information, 
+operating status, annual production capacity, stock changes at 
+production facilities, feedstock and other inputs, resale sales of 
+biodiesel, and end-use sales of biodiesel data from registered U.S. 
+producers of biodiesel. 
+
+[28] Therefore, in our analysis, there can only be one outage event 
+during one time period at a given refinery. 
+
+[29] Refer to appendix II GAO's Quantitative Methodology for 
+Determining Impacts of Refinery Outages on Wholesale Prices, for more 
+information on the econometric techniques used. 
+
+[30] See EIA, John Zyren and Michael Burdette, Gasoline Price 
+Passthrough, (Washington D.C. January 2003) and GAO, Motor Fuels: 
+California Gasoline Price Behavior, RCED-00-121 (Washington D.C.: Apr. 
+28, 2000). 
+
+[31] State-level personal income data were quarterly. 
+
+[32] We do not need to include a price of crude deflator in order to 
+model the ratio of the price of gasoline to the price of crude--"the 
+crack ratio." Both the price of crude oil and the producer price index 
+do not vary across cities, only over time, and would therefore be 
+perfectly collinear with the time dummy variables. Therefore, given 
+that we include these time dummies, deflating our dependent variable by 
+the price of crude oil, would have no effect on our results. While our 
+model controls for these time-varying-only effects, it does not 
+estimate the contribution of any of these variables to explaining city 
+gasoline prices. 
+
+[33] See Im, Kyong So, M. Hashem Pesaran, and Yongcheol Shin. "Testing 
+for Unit Roots in Heterogeneous Panels," Journal of Econometrics, vol. 
+115, 53-74 (2003). 
+
+[34] In general, the outcome of stationarity tests on gasoline prices 
+and crude oil prices varies according to the periodicity of the data, 
+the sample period of estimation, and the model specification. While 
+some authors have found evidence of stationarity in levels of these 
+prices, others have found this not to be the case. Our data are not a 
+single time series of the national rate but a panel. Therefore it is 
+not unreasonable that our results are consistent with the results of 
+some researchers but at variance with others. 
+
+[35] We take the standard type of gasoline as conventional clear, which 
+contains no oxygenate additives and does not have a special RVP. 
+
+[36] We recognize that the production of the affected refinery may not 
+be zero in some situations, namely, when a refinery supplying 20 
+percent of a city's product may reduce supply to only 10 percent in the 
+event of an outage. Ideally, we would have preferred accurate estimates 
+of production lost due to the outage. This might have been possible 
+using EIA data, but likely only for major outages. Regardless, this was 
+not feasible for the approximately 1,100 unplanned outages used in our 
+analysis. 
+
+[37] The xtiverg2 procedure in STATA implements Instrumental Variable/ 
+General Method of Moments estimation of the fixed-effects and first- 
+differences panel data models with possibly endogenous regressor. 
+
+[38] See Fumio Hayashi. "Econometrics," Princeton University Press, 220-
+221 (2000). This test can be used to test for the endogeneity of a 
+subset of the regressors. 
+
+[39] See, for example, W. N. Evan et al. "Endogeneity in the 
+Concentration-Price relationship: Causes, Consequences, and Cures." The 
+Journal of Industrial Economics, vol. XLI, no. 4, December 1993. 
+
+[40] For a detailed derivation of this test statistics, see Fumio 
+Hayashi "Econometric" Princeton University Press, 217-218 (2000). 
+
+[41] State-level data were available, but we were concerned that these 
+data were unsuitable for our purpose. In particular, state boundaries 
+may not provide good measures of market boundaries, especially for 
+cities located at the juncture of multiple states. 
+
+[42] Other researchers have found that inventories might have a 
+significant impact on prices. However, in our analysis, the inventory- 
+sales variable was not significant. This may reflect the fact that 
+these data are measured at the PADD level, which does not adequately 
+measure the impact of inventory-sales at the city level. 
+
+[End of section] 
+
+GAO's Mission: 
+
+The Government Accountability Office, the audit, evaluation and 
+investigative arm of Congress, exists to support Congress in meeting 
+its constitutional responsibilities and to help improve the performance 
+and accountability of the federal government for the American people. 
+GAO examines the use of public funds; evaluates federal programs and 
+policies; and provides analyses, recommendations, and other assistance 
+to help Congress make informed oversight, policy, and funding 
+decisions. GAO's commitment to good government is reflected in its core 
+values of accountability, integrity, and reliability. 
+
+Obtaining Copies of GAO Reports and Testimony: 
+
+The fastest and easiest way to obtain copies of GAO documents at no 
+cost is through GAO's Web site [hyperlink, http://www.gao.gov]. Each 
+weekday, GAO posts newly released reports, testimony, and 
+correspondence on its Web site. To have GAO e-mail you a list of newly 
+posted products every afternoon, go to [hyperlink, http://www.gao.gov] 
+and select "E-mail Updates." 
+
+Order by Phone: 
+
+The price of each GAO publication reflects GAO’s actual cost of
+production and distribution and depends on the number of pages in the
+publication and whether the publication is printed in color or black and
+white. Pricing and ordering information is posted on GAO’s Web site, 
+[hyperlink, http://www.gao.gov/ordering.htm]. 
+
+Place orders by calling (202) 512-6000, toll free (866) 801-7077, or
+TDD (202) 512-2537. 
+
+Orders may be paid for using American Express, Discover Card,
+MasterCard, Visa, check, or money order. Call for additional 
+information. 
+
+To Report Fraud, Waste, and Abuse in Federal Programs: 
+
+Contact: 
+
+Web site: [hyperlink, http://www.gao.gov/fraudnet/fraudnet.htm]: 
+E-mail: fraudnet@gao.gov: 
+Automated answering system: (800) 424-5454 or (202) 512-7470: 
+
+Congressional Relations: 
+
+Ralph Dawn, Managing Director, dawnr@gao.gov: 
+(202) 512-4400: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7125: 
+Washington, D.C. 20548: 
+
+Public Affairs: 
+
+Chuck Young, Managing Director, youngc1@gao.gov: 
+(202) 512-4800: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7149: 
+Washington, D.C. 20548: 		
+		

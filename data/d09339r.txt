@@ -1,0 +1,1310 @@
+
+This is the accessible text file for GAO report number GAO-09-339R 
+entitled 'Counterdrug Technology Assessment Center: Clarifying 
+Rationale for the Research and Development Funding Decisions Would 
+Increase Accountability' which was released on March 13, 2009.
+
+This text file was formatted by the U.S. Government Accountability 
+Office (GAO) to be accessible to users with visual impairments, as part 
+of a longer term project to improve GAO products' accessibility. Every 
+attempt has been made to maintain the structural and data integrity of 
+the original printed product. Accessibility features, such as text 
+descriptions of tables, consecutively numbered footnotes placed at the 
+end of the file, and the text of agency comment letters, are provided 
+but may not exactly duplicate the presentation or format of the printed 
+version. The portable document format (PDF) file is an exact electronic 
+replica of the printed version. We welcome your feedback. Please E-mail 
+your comments regarding the contents or accessibility features of this 
+document to Webmaster@gao.gov. 
+
+This is a work of the U.S. government and is not subject to copyright 
+protection in the United States. It may be reproduced and distributed 
+in its entirety without further permission from GAO. Because this work 
+may contain copyrighted images or other material, permission from the 
+copyright holder may be necessary if you wish to reproduce this 
+material separately. 
+
+GAO-09-339R: 
+
+United States Government Accountability Office: 
+Washington, DC 20548: 
+
+March 12, 2009: 
+
+The Honorable Richard J. Durbin: 
+Chairman: 
+The Honorable Susan M. Collins: 
+Ranking Member: 
+Subcommittee on Financial Services and General Government: 
+Committee on Appropriations: 
+United States Senate: 
+
+The Honorable José E. Serrano: 
+Chairman: 
+The Honorable Jo Ann Emerson: 
+Ranking Member: 
+Subcommittee on Financial Services and General Government: 
+Committee on Appropriations: 
+House of Representatives: 
+
+Subject: Counterdrug Technology Assessment Center: Clarifying Rationale 
+for the Research and Development Funding Decisions Would Increase 
+Accountability: 
+
+This letter formally transmits the summary of an oral briefing we gave 
+on December 8, 2008, and subsequent agency comments. We gave this 
+briefing in response to Senate Report 110-129, accompanying the 2008 
+Financial Services and General Government Appropriations Bill. In 
+accordance with direction in that report, and in consultation with 
+House and Senate Appropriation Committee staff, we are reporting on the 
+Office of National Drug Control Policy's (ONDCP) Counterdrug Technology 
+Assessment Center (CTAC). Specifically, we address issues pertaining to 
+CTAC's use of funds since fiscal year 2003, the ONDCP Director's 
+approach to funding decisions for research and development, CTAC's 
+measures of performance, and CTAC's reorganization in 2007. To conduct 
+this work, among other things, we analyzed memorandums of agreement and 
+CTAC interagency agreements that documented how funds were to be 
+allocated during fiscal years 2003 to 2008; compared available 
+information on how the ONDCP Director made research and development 
+funding decisions for fiscal year 2003 through 2008 with criteria in 
+GAO's Standards for Internal Control in the Federal Government; and 
+interviewed relevant CTAC and ONDCP officials. 
+
+In summary, since fiscal year 2003, CTAC has allocated funds to a 
+variety of efforts to treat and prevent drug abuse and reduce the 
+availability, production, and distribution of illicit drugs by 
+transferring appropriated funds for its two programs--research and 
+development and technology transfer--to its contracting agents. 
+However, CTAC officials lacked confidence in the information on 
+expenditures provided by its contractor, prompting CTAC to replace its 
+primary contracting agent in March 2007. CTAC's contracting agents did 
+not obligate $17.8 million (about 20 percent) of CTAC's fiscal year 
+2004 through 2007 research and development appropriations to specific 
+projects, and returned these funds to CTAC. CTAC transferred all of its 
+appropriations related to its technology transfer program since fiscal 
+year 2003 to contracting agents, and CTAC was in the process of phasing 
+out the program in October 2008 due to lack of funding. The ONDCP 
+Director's approach to making research and development funding 
+decisions is not documented and, therefore, not fully consistent with 
+internal control standards. Thus, we are recommending that the ONDCP 
+Director identify the role that different factors play in funding 
+decisions, and document the basis used to select particular research 
+and development project concepts for funding, including the rationale 
+for selecting certain project concepts over others. For additional 
+information on a summary of the results of our work, see slides 13 
+through 15. 
+
+In commenting on a draft of this report, ONDCP agreed with our findings 
+and recommendation. 
+
+We are sending copies of this report to the appropriate congressional 
+committees, the Director of ONDCP, and other interested parties. This 
+report will also be available at no charge on our Web site at 
+[hyperlink, http://www.gao.gov]. Should you or your staffs have any 
+questions concerning this report, please contact me at (202) 512-6510 
+or LarenceE@gao.gov. Contact points for our Offices of Congressional 
+Relations and Public Affairs may be found on the last page of this 
+report. Key contributors to this report were Evi Rezmovic, Assistant 
+Director; Billy Commons; Marvin McGill; Doris Page; Janay Sam; and Adam 
+Vogt. 
+
+Signed by: 
+
+Eileen R. Larence: 
+Director, Homeland Security and Justice Issues: 
+
+Enclosure: 
+
+[End of section] 
+
+Enclosure: Briefing for Congressional Committees: 
+
+Counterdrug Technology Assessment Center: 
+
+Clarifying Rationale for Research and Development Funding Decisions 
+Would Increase Accountability: 
+
+Briefing Overview: 
+* Introduction; 
+* Objectives, Scope, and Methodology; 
+* Summary; 
+* Findings; 
+* Conclusions; 
+* Recommendation; 
+* Agency Comments; 
+* Appendixes: 
+- Appendix I: Counterdrug Technology Assessment Center Funding; 
+- Appendix II: Strategy and Office of National Drug Control Policy 
+Priorities; 
+- Appendix III: Research and Development and Technology Transfer
+Program Funding Process; 
+- Appendix IV: Research and Development and Technology Transfer
+Program Award Process; 
+- Appendix V: Reorganization Timeline; 
+- Appendix VI: Office of National Drug Control Policy Comment Letter. 
+
+Introduction: 
+
+The Office of National Drug Control Policy (ONDCP) establishes 
+priorities, policies, and objectives for the nation’s drug control 
+program. The Counterdrug Technology Assessment Center (CTAC) was 
+established within ONDCP in fiscal year 1991 to (1) oversee and 
+coordinate counterdrug technology initiatives in federal drug control
+agencies and (2) fund counterdrug research projects to help fill gaps 
+in the development of technology. 
+
+CTAC administers two programs to support the President’s National Drug 
+Control Strategy. 
+
+* Counterdrug research and development program (R&D): designed to focus
+funding on reducing the demand for and supply of illicit drugs by 
+advancing the technological capabilities of federal drug control 
+agencies.[Footnote 1] Demand reduction involves efforts to treat and 
+prevent drug abuse; supply reduction involves efforts to reduce the 
+availability, production, and distribution of illicit drugs. The R&D 
+program received its first congressional appropriation in fiscal year 
+1992. 
+
+* Technology transfer program (TTP): designed to focus funding on supply
+reduction by providing technology and training to state, local, and 
+tribal law enforcement agencies for counterdrug missions. TTP received 
+its first appropriation in fiscal year 1998. 
+
+Funding for the two programs declined from fiscal year 2003 to fiscal 
+year 2008. (See appendix I for funding figures by fiscal year.) 
+
+* For R&D, funding declined from nearly $22 million in fiscal year 2003 
+to $1 million in fiscal year 2008. 
+
+* For TTP, funding declined from nearly $26 million in fiscal year 2003 
+to $0 in fiscal year 2008. 
+
+CTAC has undergone several changes in recent years. 
+
+* In November 2006, the ONDCP Director appointed a new Chief Scientist 
+to serve as director of CTAC,[Footnote 2] the center was reorganized, 
+and the ONDCP Director changed the focus of the R&D program to more 
+closely align it with the National Drug Control Strategy. 
+
+* In March 2007, CTAC replaced its primary contracting agent, the Army’s
+Electronic Proving Grounds (EPG), with the Navy’s Space and Naval 
+Warfare Systems Center (SPAWAR). 
+
+- By statute, the ONDCP Director does not have authority to award 
+contracts and manage individual projects or other operational 
+activities.[Footnote 3] Instead, CTAC must employ contracting agents to 
+initiate the contracting process and manage individual contracts and 
+projects. Therefore, after CTAC receives an appropriation from 
+Congress, it transfers funds to its contracting agent who, in turn, 
+obligates and expends the funds. 
+
+ONDCP’s Director makes the final determination about which CTAC R&D 
+project concepts to fund. Project concepts are proposals developed by 
+CTAC staff for the ONDCP Director’s consideration in making R&D funding 
+decisions. Project concepts are to be funded in accordance with (1) the 
+goals of the President’s National Drug Control Strategy, and (2) 
+ONDCP’s operational priorities. Based on information provided to the 
+ONDCP Director about the findings of R&D projects, the Director also 
+determines which projects should form the basis for policy or program 
+direction. 
+
+In Senate Report 110-129, accompanying the 2008 Financial Services and 
+General Government Appropriations Bill, H.R. 2829, 110th Cong. (2007), 
+the Senate Appropriations Committee expressed concern about ONDCP’s 
+management of grants and its organization. The Senate Report directed 
+GAO to review ONDCP’s grants management systems and other funding 
+systems, emphasizing the criteria and methodology used to award and 
+distribute grant funds. In consultation with congressional staff, this 
+report focuses on issues pertaining to CTAC’s use of funds since fiscal 
+year 2003, the ONDCP Director’s approach to funding decisions for
+CTAC’s R&D program, CTAC’s measures of performance, and CTAC’s 
+reorganization in 2007. 
+
+Objectives, Scope, and Methodology: 
+
+Objectives: 
+
+1. Since fiscal year 2003, how has CTAC allocated funds for counterdrug
+efforts, and how were congressional appropriations for CTAC’s R&D and
+TTP programs expended? 
+
+2. To what extent has the ONDCP Director’s approach to making funding
+decisions regarding CTAC’s R&D program been consistent with internal
+control standards? 
+
+3. How, if at all, does ONDCP assess the results of CTAC’s programmatic
+efforts? 
+
+4. What were ONDCP’s reasons for reorganizing CTAC in 2007, and what
+was the sequence of events relating to the reorganization? 
+
+To determine how CTAC has allocated funds for counterdrug efforts, and 
+how CTAC appropriations were expended, we: 
+
+* analyzed memorandums of agreement and CTAC interagency agreements 
+that documented the funds CTAC transferred to its contracting agents and
+how the funds were to be allocated during fiscal years 2003 to 2008. We
+also reviewed amended CTAC interagency agreements and other documents 
+concerning funds the contracting agents returned to CTAC during that 
+period, and the receipts for those funds. Based on our review, we 
+believe the information on the transfer and return of CTAC’s funds to be
+sufficiently reliable for the purposes of our work; 
+
+* interviewed current CTAC officials and two former directors of CTAC to
+obtain their perspectives on program operations, and the funding and
+expenditure decisions made during their tenure; 
+
+* interviewed EPG and SPAWAR staff responsible for managing the CTAC
+contract in order to learn about their contract management procedures, 
+and obtain information about their expenditure of CTAC funds; and; 
+
+* interviewed the chairman of the International Association of Chiefs of
+Police’s Investigative Operation Committee, to discuss views concerning
+the impact of losing TTP training and equipment on local law enforcement
+organizations. 
+
+To determine the extent to which the ONDCP Director’s approach to making
+funding decisions for CTAC’s R&D program were consistent with internal
+control standards, we: 
+
+* reviewed applicable laws and regulations and CTAC interagency 
+agreements outlining the operational and financial relationship between
+CTAC and its contracting agents; 
+
+* compared available information on how the ONDCP Director made R&D
+funding decisions for fiscal year 2003 through 2008 with criteria in 
+GAO’s Standards for Internal Control in the Federal Government; 
+[Footnote 4] and; 
+
+* interviewed CTAC officials to determine the procedures CTAC and its
+contracting agents used to identify, prioritize, select, and award 
+contracts and grants for CTAC’s programs. 
+
+To determine how ONDCP assesses the results of CTAC’s programmatic
+efforts, we: 
+
+* reviewed CTAC’s performance measures, goals, and targets for fiscal 
+year 2008; 
+
+* reviewed GAO criteria on key attributes of successful performance
+measures[Footnote 5] and relevant sections of the Government 
+Performance and Results Act of 1993 (GPRA);[Footnote 6] and; 
+
+* interviewed cognizant ONDCP and CTAC officials. 
+
+To determine ONDCP’s reasons for reorganizing CTAC in 2007 and the
+sequence of events relating to the reorganization, we: 
+
+* reviewed relevant statutes and correspondence between ONDCP and
+congressional staff regarding the agency’s rationale and timetable for 
+the CTAC reorganization; and; 
+
+* interviewed cognizant ONDCP and CTAC officials. 
+
+We conducted this performance audit from April 2008 to March 2009 in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain 
+sufficient, appropriate evidence to provide a reasonable basis for our 
+findings and conclusions based on our audit objectives. We believe that 
+the evidence obtained provides a reasonable basis for our findings and 
+conclusions based on our audit objectives. 
+
+Summary: 
+
+Since fiscal year 2003, CTAC has allocated funds to a variety of demand 
+and supply reduction efforts by transferring appropriated funds to its 
+contracting agents; but, CTAC officials lacked confidence in the 
+information on expenditures provided by EPG, prompting CTAC to replace 
+EPG with SPAWAR as its primary contracting agent in March 2007. For its 
+R&D program, CTAC’s emphasis was on funding demand reduction efforts 
+during fiscal years 2003 to 2005, and supply reduction efforts during 
+fiscal years 2006 and 2007. CTAC’s contracting agent did not obligate 
+$17.8 million (about 20 percent) of CTAC’s fiscal year 2004 through 
+2008 R&D appropriations to specific projects, and returned these funds
+to CTAC. With respect to TTP, CTAC transferred all of its TTP 
+appropriations since fiscal year 2003 to contracting agents, and CTAC 
+was in the process of phasing out the program in October 2008, due to 
+lack of funding. 
+
+The ONDCP Director’s approach to making R&D funding decisions is not
+documented and, therefore, not fully consistent with internal control 
+standards. Although the ONDCP Director is not required to document his 
+rationale for selecting particular R&D project concepts for funding, 
+the absence of information on what factors he considered when making 
+particular decisions, and how he determined that certain R&D project 
+concepts should be funded and others not, makes it difficult to know if 
+ONDCP has funded the counterdrug community’s highest priority research
+and technology needs. 
+
+CTAC established output and outcome performance measures to assess
+achievement of its R&D goals,[Footnote 7] and both measures are 
+generally consistent with attributes that characterize successful 
+performance measures. However, CTAC has not documented the methodology 
+it uses to calculate the outcome of its R&D program. As a result, it is 
+not clear to stakeholders that the measure of program outcome— 
+percentage of research projects that contribute to policy or program 
+direction—is limited to R&D projects that contributed to the ONDCP 
+Director’s decision to issue policy or provide program direction to 
+national drug control agencies and also received appropriated funds 
+during the same fiscal year. CTAC officials stated they are working 
+with the Office of Management and Budget to address this issue. 
+
+ONDCP’s stated reason for reorganizing CTAC in 2007 was to strengthen
+CTAC’s research capabilities. ONDCP’s 2006 appropriations act, Pub. L. 
+No. 109-115, contained a general prohibition on agencies, including 
+ONDCP, from using funds to reorganize different from the budget 
+justifications submitted to the Committees on Appropriations or from 
+other specified documentation, unless prior approval was received from 
+the Committees on Appropriations. This restriction continued into 
+fiscal year 2007 through a series of continuing appropriations 
+resolutions. On December 1, 2006, ONDCP notified the Appropriations 
+Committees of its plans to reorganize; however, committee staff in a 
+number of correspondences indicated that ONDCP should wait on its
+reorganization plans. ONDCP proceeded with the reorganization, effective
+January 22, 2007. 
+
+We are recommending that the ONDCP Director identify the role that 
+different factors played in funding decisions, and document the basis 
+for selecting specific R&D project concepts for funding, including the 
+rationale for selecting certain project concepts over others. ONDCP 
+agreed with the findings and recommendation in this report and stated 
+that identifying and documenting the director’s decision making process 
+should promote greater transparency in funding decisions and 
+accountability for the best use of R&D funds. 
+
+Objective 1- CTAC’s Use of Funds for R&D: 
+
+Since fiscal year 2003, CTAC has allocated funds to a variety of demand 
+and supply reduction efforts by transferring $181.8 million in 
+appropriated R&D and TTP funds to its contracting agents. But CTAC 
+officials were uncertain how much money its agent, EPG, had expended 
+during fiscal years 2003 to 2006 because the officials said they lacked 
+confidence in the accuracy of EPG’s financial information and, 
+therefore, replaced EPG with SPAWAR. 
+
+Emphasis in R&D funding changed from demand reduction (in fiscal years 
+2003 to 2005) to supply reduction in fiscal years 2006 to 2007. 
+
+* Of a total of $56.5 million in appropriations during fiscal years 
+2003 to 2005, CTAC transferred nearly $38.8 million, or 69 percent, for 
+demand reduction, and about $8.4 million for supply reduction efforts. 
+The remainder—$9.2 million[Footnote 8]—was transferred for both demand 
+and supply reduction efforts. The primary emphasis in demand reduction 
+involved reimbursing research facilities for purchases of brain imaging 
+systems. Projects related to supply reduction included the development 
+of body-worn surveillance receivers for law enforcement. 
+
+Of a total of $23.9 million in appropriations during fiscal years 2006 
+and 2007, CTAC transferred about $11.5 million, or 48 percent, for 
+supply reduction, and about $4.0 million for demand reduction efforts. 
+The remainder—$8.4 million—was transferred for both demand and supply 
+reduction efforts. In 2006, CTAC reported that it refocused the R&D 
+program to fund projects that it believed aligned more closely with the 
+goals of the National Drug Control Strategy. 
+
+* In fiscal year 2007, CTAC discontinued funding imaging equipment as a
+result of, among other things, a determination by an external technology
+review committee that drug abuse researchers no longer had a need for
+new imaging systems. CTAC began funding projects to (1) test the
+feasibility of adding a biomeasure, such as hair or urinalysis, to 
+validate self-reported drug use (demand reduction); and (2) develop 
+license plate reader technology for law enforcement (supply reduction); 
+among others. 
+
+Although CTAC officials knew how much money they transferred to the
+contracting agents, they lacked confidence in EPG’s expenditure 
+information, prompting CTAC to replace EPG with SPAWAR as its primary 
+contracting agent. This meant that for the period of our study, CTAC 
+was not certain of how much money EPG spent on CTAC contracts during 
+fiscal years 2003 through 2006. In contrast, CTAC officials said they 
+were confident in the financial information of SPAWAR, which replaced 
+EPG as the primary contracting agent in March 2007. 
+
+A 2004 CTAC internal review and a 2005 ONDCP-initiated independent 
+review of EPG by the management consulting firm, Deloitte, identified 
+financial and reporting risks at EPG. These included EPG not providing 
+detailed financial information to CTAC regarding the use of program 
+funds and EPG not following CTAC’s guidance for administering funds. 
+According to CTAC officials, EPG did not comply with recommendations 
+for improvement and did not have data systems capable of producing the 
+increasingly detailed financial information that CTAC needed. EPG’s 
+Deputy Program Director, who had managed the CTAC contract, told us 
+that EPG’s level of support was not what CTAC wanted. 
+
+* CTAC officials stated that due to their lack of confidence in EPG, 
+they did not transfer any funds to EPG during the first half of fiscal 
+year 2007, a period during which EPG was still CTAC’s primary 
+contracting agent. They said they transferred all fiscal year 2007 
+funds to the new contracting agent, SPAWAR. 
+
+In replacing EPG with SPAWAR, CTAC took steps to monitor SPAWAR’s
+expenditures through a detailed project status report; holding weekly
+teleconferences; and meeting monthly to discuss the status of each R&D
+project and resolve issues. 
+
+$18.8 million in R&D funds from fiscal years 2004 through 2008 were 
+returned to or retained by CTAC. 
+
+* Contracting agents returned $17.8 million in transferred but 
+unobligated funds. 
+
+- CTAC officials said that, largely because CTAC’s fiscal year 2008
+appropriation had declined to $1.0 million, EPG and SPAWAR returned
+unobligated funds from fiscal years 2004 through 2007. 
+
+- According to CTAC officials, reasons why funds had not been obligated 
+[Footnote 9] during fiscal years 2004 through 2007 included: (1) 
+changes in CTAC’s R&D priorities and (2) organizational changes within 
+CTAC. CTAC officials said an example of a project where funds were not 
+obligated is a $5 million 2006 R&D initiative intended to promote 
+understanding of how genetics contributes to the brain’s response to 
+drug abuse. They said funds were not obligated for this initiative 
+because, among other things, the contracting agent had difficulty 
+identifying potential contractors with requisite expertise, CTAC was 
+transitioning between contracting agents, and CTAC’s appropriation had 
+been reduced. 
+
+* CTAC did not transfer any of its $1.0 million fiscal year 2008 
+appropriation to the contracting agent. As of December 2008, it 
+continued to retain these funds. 
+
+* Congress limited CTAC’s fiscal year 2008 appropriation to $1.0 
+million. The Senate Appropriations Committee indicated that CTAC had 
+substantial unused R&D funds from prior fiscal years. CTAC did not 
+transfer the $1.0 million because the project it intended to fund was 
+an ongoing, multiphase project that was behind schedule. 
+
+CTAC reallocated about half of the $18.8 million in returned and 
+retained funds to new and existing R&D projects. 
+
+* As of December 2008, CTAC had transferred to its contracting agents, 
+and the agents had obligated or already expended, about $10.1 million, 
+or 54 percent, of the $18.8 million in R&D funds that were returned or 
+retained.[Footnote 10] 
+
+* As of December 2008, CTAC had not transferred to its contracting 
+agents the remaining $8.7 million, or 46 percent, in returned or 
+retained R&D funds. However, according to CTAC officials, ONDCP had 
+developed or was developing plans for these funds. 
+
+- The then-ONDCP Director approved allocating $7.0 million for several
+projects, including license plate reader technology for law 
+enforcement, one of CTAC’s ongoing priority projects. 
+
+- CTAC was developing recommendations on how to spend the remaining
+$1.7 million. 
+
+As with the R&D program, CTAC had information on the amount of funds it
+transferred to its contracting agent for TTP, but officials were not 
+confident in the accuracy of the agent’s financial information related 
+to expenditures for fiscal years 2003 through 2006. 
+
+* CTAC transferred all of its $99.3 million in TTP appropriations since 
+fiscal year 2003 to EPG and SPAWAR to provide law enforcement-related 
+equipment and training to state, local, and tribal law enforcement 
+agencies. 
+
+TTP provided equipment and training for counterdrug operations at no 
+cost to state, local, and tribal law enforcement agencies. In fiscal 
+year 2007, the following categories of equipment and funding were 
+available for TTP. 
+
+Table 1: TTP Equipment and Funding Expenditures in Fiscal Year 2007[A]: 
+
+Equipment: Information management systems; 
+Description: Analytic software systems for telephone surveillance, 
+intelligence, and case management applications; 
+Funding expenditures: $1.3 million. 
+
+Equipment: Intercept systems; 
+Description: Systems for law enforcement agencies to legally intercept, 
+record, and play back telephone and wireless telephone communications; 
+Funding expenditures: $3.0 million. 
+
+Equipment: Tracking systems; 
+Description: Real-time and data-logging covert vehicle tracking systems 
+that use Global Positioning Systems; 
+Funding expenditures: $1.0 million. 
+
+Equipment: Audio/video surveillance devices; 
+Description: Covert transmitter and receiver systems for undercover 
+operations; 
+Funding expenditures: $2.2 million. 
+
+Equipment: Digital evidence analysis systems; 
+Description: Modular toolkits for digital forensic examination from 
+acquisition to analysis and reporting; 
+Funding expenditures: $1.3 million. 
+
+Source: CTAC. 
+
+[A] CTAC also allocated S576,000 and $600,000, respectively, to 
+administrative and training costs. 
+
+[End of table] 
+
+ONDCP officials said they did not request an appropriation for TTP for 
+fiscal years 2007 and 2008 because of competing budgetary priorities. 
+Congress nonetheless appropriated $10 million for TTP for fiscal year 
+2007, but did not appropriate any new funds for fiscal year 2008. 
+
+CTAC officials said they have begun to phase out TTP because of a lack 
+of funding, and it would take time and resources to reestablish it. 
+CTAC officials estimated it would take at least 1 year to reestablish 
+the program, and an annual funding level of $10 million to maintain a 
+technology transfer program with a national scope. 
+
+A law enforcement organization expressed concern about discontinued TTP 
+funding. According to the Chairman of the International Association of 
+Chiefs of Police’s Investigative Operation Committee, the loss of TTP 
+is significant for local law enforcement. He noted that (1) resources 
+are not available at the local level to purchase the equipment ONDCP 
+provided, and (2) local law enforcement cannot replace the expertise of 
+CTAC staff in understanding trends and changes in emerging 
+technologies. 
+
+[End of Objective 1] 
+
+Objective 2- Funding Decisions: 
+
+The ONDCP Director’s approach to making R&D funding decisions is not
+documented and, therefore, not fully consistent with internal control 
+standards.[Footnote 11] 
+
+Following input from CTAC, the ONDCP Director determines which R&D 
+project concepts to fund. 
+
+* The Chief Scientist and CTAC officials said they develop an initial 
+list of R&D funding priorities based on potential projects’ (1) 
+alignment with the National Drug Control Strategy’s priorities and 
+ONDCP’s operational priorities (see appendix II), (2) estimated 
+implementation costs, (3) level of technical risk, (4) scope, (5) 
+potential for multiple agencies to benefit from the research, and (6)
+amount of funds available.[Footnote 12] 
+
+* According to CTAC officials, the ONDCP Director, in accordance with 
+his statutory authority, can accept or modify CTAC’s list of funding 
+priorities and associated funding levels. They noted that there have 
+been instances where the Director has modified CTAC’s list of funding 
+priorities, but did not have information on its frequency. 
+
+The ONDCP Director may determine the ranking and allocation of funds 
+for project concepts and is not required to document his rationale for 
+selecting particular project concepts. 
+
+* In any given year, according to CTAC officials, there are many more 
+project concepts than can be funded. Given the broad priorities of the 
+National Drug Control Strategy and ONDCP, virtually all of the project 
+concepts being considered by the ONDCP Director may be consistent with 
+these priorities. 
+
+* According to CTAC officials, the ONDCP Director has based his R&D 
+funding decision on factors such as the feasibility of project success, 
+project costs, and potential widespread applicability of the results. 
+However, there is no documentation on whether and how he used these 
+and/or other factors in arriving at funding decisions, how he weighted 
+the various factors, and what his rationale was for funding certain 
+project concepts over others. As a result, there is a lack of 
+transparency in how funding decisions have been made, and it is 
+difficult to know whether the project concepts the ONDCP Director 
+selected for funding met the highest priority research and technology 
+needs of the counterdrug community. 
+
+* GAO’s internal control standards state that all transactions and 
+other significant events need to be clearly documented, and the 
+documentation should be readily available for examination. 
+
+* CTAC officials noted that the ONDCP Director has not documented his 
+funding decisions because the law does not require it. They agreed that 
+such information could be developed and said that it could potentially 
+be included in the spending plan ONDCP submits to Congress. 
+
+[End of Objective 2] 
+
+Objective 3- CTAC Performance: 
+
+CTAC established output and outcome performance measures to assess
+achievement of its R&D goals, and both measures are generally 
+consistent with attributes that characterize successful performance 
+measures. However, CTAC’s methodology for calculating its R&D program 
+outcome is not documented and, therefore, not clear to stakeholders. 
+
+In accordance with GPRA,[Footnote 13] CTAC established goals, 
+objectives, and outcomes to show how projects can be expected to 
+contribute to intended results, and measures of performance for its R&D 
+program output and outcome. 
+
+* The goals, objectives, and outcomes/impacts for CTAC’s R&D program 
+are as follows: 
+
+- Program goals: Advance and improve demand and supply reduction
+research and development to enhance understanding of and counteractions
+against illegal drug markets. 
+
+- Program objectives: Conduct research projects to broaden 
+understanding of the demand and supply side of illegal drug markets and 
+develop technology to assist demand and supply reduction efforts. 
+
+- Outcomes/program impacts: Improved understanding of the demand and
+supply side of illegal drug markets and improved demand and supply
+reduction efforts. 
+
+CTAC’s R&D output and outcome performance measures are as follows: 
+
+* Output measure: 
+
+- CTAC definition: number of research projects initiated to expand
+understanding of the demand- and supply-side of illegal drug markets. 
+[Footnote 14] 
+
+- Fiscal year target: amount of anticipated CTAC R&D appropriation
+divided by the approximate cost per R&D project in prior fiscal years. 
+
+* Outcome measure: 
+
+- CTAC definition: Percentage of research projects that form the basis 
+of or contribute to policy or program direction. 
+
+- According to CTAC officials, the ONDCP Director (1) receives 
+contractor- and CTAC-prepared information on the findings of R&D 
+projects, (2) determines whether the findings are compelling and can 
+help address a counterdrug need, and (3) decides whether to use the 
+available information as a basis for issuing policy or program 
+direction to national drug control agencies. 
+
+- Fiscal year target: This is based on CTAC officials’ judgment of the
+percentage of R&D projects that will generate a finding that contributes
+to policy or program direction. According to CTAC officials, a 50 
+percent target is reasonable because not all R&D projects will produce 
+positive findings that can form the basis of or contribute to policy or 
+program direction. 
+
+Table 2: Fiscal Years 2007-2009 Performance Measures and Targets for 
+CTAC's R&D Program: 
+
+Performance measure: 1: Output measure-Number of research projects 
+initiated to expand understanding of the demand- and supply-side of 
+illegal drug markets.
+Fiscal year 2007, Target: 5; 
+Fiscal year 2007, Actual: 15; 
+Fiscal year 2008, Target: 2; 
+Fiscal year 2008, Actual: 1{a}; 
+Fiscal year 2009, Target: 7. 
+
+Performance measure: 2: Outcome measure-Percentage of research projects 
+that form the basis of or contribute to policy or program direction 
+(new fiscal year 2008 measure); 
+Fiscal year 2007, Target: No outcome measure established; 
+Fiscal year 2007, Actual: No outcome measure established; 
+Fiscal year 2008, Target: 50%; 
+Fiscal year 2008, Actual: To be reported; 
+Fiscal year 2009, Target: 50%. 
+
+Source: ONDCP. 
+
+[A] In fiscal year 2008, CTAC initiated one R&D project with an 
+appropriation of $1.0 million. 
+
+[End of table] 
+
+We have previously reported that successful performance measures have 
+the following key attributes:[Footnote 15] 
+
+1. Linkage with the goals and mission of the agency; 
+
+2. Clarity in how it is stated, named, and defined; and consistent with 
+the methodology used to calculate it; 
+
+3. Objectivity in being reasonably free from significant bias or 
+manipulation; 
+
+4. Reliability in producing the same result under similar conditions; 
+
+5. Measurable target in having a numerical goal; 
+
+6. Core programs activities in covering the activities that an entity 
+is expected to perform to support the intent of the program. 
+
+CTAC’s output measure (number of research projects initiated) is 
+generally consistent with the six key attributes of successful 
+performance measures. 
+
+CTAC’s outcome measure is consistent with five of the six key 
+attributes of successful performance measures. The measure: 
+
+* is linked to agency goals and mission;
+* has a measurable target;
+* is objective;
+* is reliable; and; 
+* supports core program activities. 
+
+However, CTAC’s methodology for calculating the outcome of its R&D 
+program is not clear to stakeholders. 
+
+* In accordance with OMB requirements, R&D projects that do not receive
+funding during the same fiscal year in which they contributed to policy 
+or program direction are not included in the calculation. Instead, the 
+outcome measure is based only on projects that contributed to policy or 
+program direction and also received funding during the same fiscal 
+year. OMB’s reporting requirements do not provide for agencies to 
+report on R&D projects that did not receive funding during the fiscal 
+year. However, CTAC has not documented its methodology for calculating 
+the outcome of its R&D program and, therefore, it is not clear to 
+stakeholders that CTAC excludes such projects from its performance 
+calculation. CTAC officials told us they are currently working with OMB 
+to address this issue. 
+
+CTAC’s performance measures provide information on its R&D program 
+activities and the effect of R&D findings on the ONDCP Director’s 
+policy and program decisions. They do not provide information on the 
+effectiveness of CTAC’s R&D projects in reducing the demand for and 
+supply of drugs. We have previously reported that performance 
+measurement in the area of drug control is difficult, in part because 
+it is difficult to isolate the full impact and effectiveness of a 
+single program without considering the role of other drug control 
+efforts.[Footnote 16] Similarly, CTAC officials noted that determining 
+R&D projects’ contribution to the effectiveness of policies or programs 
+in reducing the supply and demand of drugs would be very difficult given
+the great number of intervening variables that would have to be taken 
+into consideration. 
+
+[End of Objective 3] 
+
+Objective 4- CTAC Reorganization: 
+
+CTAC was reorganized in January 2007, following a 7-week period during 
+which ONDCP and the Appropriations Committees exchanged a number of
+correspondences about ONDCP’s proposed reorganization which, according 
+to ONDCP, was intended to strengthen CTAC’s research capabilities. 
+
+Reorganization activities: 
+
+* The general provisions of the 2006 appropriations act for ONDCP, Pub. 
+L. No. 109-115, prohibited agencies, including ONDCP, from using funds 
+appropriated for obligation or expenditure to reorganize the agency 
+different from the budget justifications submitted to the Committees on 
+Appropriations or from other specified documentation, unless prior 
+approval was received from the Committees on Appropriations. This 
+restriction continued into fiscal year 2007 through a series of 
+continuing appropriations resolutions. 
+
+* ONDCP advised Congress on December 1, 2006, that it intended to 
+reorganize CTAC. The stated purpose was to ensure a more integrated and 
+coordinated approach to research; and improve oversight of and support 
+for the ONDCP Director’s research priorities. 
+
+* Prior to the reorganization, Appropriations Committee staff indicated 
+in a number of correspondences that ONDCP should not proceed with its
+reorganization plans. 
+
+* ONDCP finalized the CTAC reorganization on January 22, 2007. (See 
+appendix V for a description of the reorganization timeline.) 
+
+* ONDCP transferred its policy research and performance measures
+development functions into CTAC, thereby placing them under the 
+authority of the Chief Scientist.[Footnote 17] 
+
+* Eight full time equivalent positions were reassigned from ONDCP’s 
+Office of Planning and Budget, which housed the policy research and 
+performance measure functions, into CTAC. 
+
+* The Revised Continuing Appropriations Resolution of 2007, Pub. L. No. 
+110-5, states that the structure of any of the offices or components 
+within the Office of National Drug Control Policy shall remain as they 
+were on October 1, 2006. CTAC officials told us they did not return to 
+the previous structure because, among other things, the CTAC 
+reorganization had taken place on January 22, 2007, prior to the 
+legislation being enacted. 
+
+[End of Objective 4] 
+
+Conclusions: 
+
+The requirements for the ONDCP Director’s R&D funding determinations 
+are broadly stated, making it possible for a wide variety of potential 
+demand and supply reduction project concepts to be eligible for 
+funding. Clarification of how various factors were considered in 
+funding decisions, including the Director’s rationale for choosing 
+among project concepts, would facilitate greater accountability for
+ONDCP’s use of funds and provide greater insight into whether CTAC has 
+focused its efforts on the counterdrug community’s highest priority 
+research and technology needs. 
+
+Recommendation: 
+
+To promote greater transparency in funding decisions and increased 
+accountability for the best use of CTAC’s R&D funds, we recommend that 
+the ONDCP Director identify the role that different factors played in 
+funding decisions, and document the basis for selecting specific R&D 
+project concepts for funding, including the rationale for selecting 
+certain project concepts over others. 
+
+Agency Comments: 
+
+We provided a draft of this report to the Office of National Drug 
+Control Policy (ONDCP) for review and comment. 
+
+On March 6, 2009, we received written comments from ONDCP on the draft 
+report, which are reproduced in appendix VI. ONDCP concurred with the 
+findings and recommendation in our report and agreed that identifying 
+selection criteria and documenting the director’s decisions should 
+promote transparency in funding decisions and greater accountability 
+for the best use of CTAC’s R&D funds. 
+
+Additionally, we received technical comments from ONDCP, which were
+incorporated where appropriate. 
+
+[End of section] 
+
+Appendix I- CTAC Funding: 
+
+Table 3: Funding Declined from Fiscal Year 2003 to Fiscal Year 2008: 
+
+Fiscal year: 2003; 
+R&D budget request: $18.0 million; 
+R&D funding: $20.7[A] million; 
+TTP funding request: $22.0 million; 
+TTP funding: $25.8 million. 
+
+Fiscal year: 2004; 
+R&D budget request: $18.0 million; 
+R&D funding: $17.9 million; 
+TTP funding request: $22.0 million; 
+TTP funding: $23.9 million. 
+
+Fiscal year: 2005; 
+R&D budget request: $18.0 million; 
+R&D funding: $17.9 million; 
+TTP funding request: $22.0 million; 
+TTP funding: $23.8 million. 
+
+Fiscal year: 2006; 
+R&D budget request: $10.0 million; 
+R&D funding: $13.9 million; 
+TTP funding request: $20.0 million; 
+TTP funding: $15.8 million. 
+
+Fiscal year: 2007; 
+R&D budget request: $9.6 million; 
+R&D funding: $10.0 million; 
+TTP funding request: 0; 
+TTP funding: $10.0 million. 
+
+Fiscal year: 2008; 
+R&D budget request: $5.0 million; 
+R&D funding: $1.0 million; 
+TTP funding request: 0; 
+TTP funding: 0. 
+
+Fiscal year: Total; 
+R&D budget request: $78.6 million; 
+R&D funding: $82.5[B] million; 
+TTP funding request: $86.0 million; 
+TTP funding: $99.3 million. 
+
+Source: CTAC. 
+
+[A] CTAC's original appropriation was $21.86 million. CTAC transferred 
+$1.150 million of this appropriation to ONDCP's High Intensity Drug 
+Trafficking Areas program in fiscal year 2003. 
+
+[B] Does not sum to $82.5 million due to rounding. 
+
+[End of table] 
+
+[End of section] 
+
+Appendix II: Strategy and ONDCP Priorities: 
+
+National Drug Control Strategy’s priorities: 
+
+1. Stopping Drug Use Before It Starts: education and community action; 
+
+2. Healing America’s Users: getting treatment resources where they are 
+needed; and; 
+
+3. Disrupting the Market: attacking the economic base of drug trade. 
+
+ONDCP’s operational priorities: 
+
+1. Screen, intervene, and treat; 
+
+2. Student drug testing; 
+
+3. Marijuana; 
+
+4. Prescription drug safety/methamphetamine; 
+
+5. International partnerships; and; 
+
+6. Southwest border flow. 
+
+[End of section] 
+
+Appendix III: R&D and TTP Funding Process: 
+
+R&D funding process: 
+
+1. Identify needs: The ONDCP Director and CTAC officials participate in
+interagency working groups and forums to identify research and 
+technology needs within the counterdrug community. 
+
+2. Rank priorities: CTAC generally solicits project concepts from 
+ONDCP’s program offices and federal drug control agencies. CTAC 
+officials said they develop an initial list of funding priorities based 
+on potential projects’ (1) alignment with the National Drug Control 
+Strategy’s priorities and ONDCP’s operational priorities, (2) estimated 
+implementation costs, (3) level of technical risk, (4) scope, (5) 
+potential for multiple agencies to benefit from the research, and (6) 
+amount of funds available. CTAC officials said they submit their 
+initial prioritized list of R&D project concepts to the ONDCP Director 
+and discuss those priorities as necessary. 
+
+3. Select project concepts: According to CTAC officials, the ONDCP 
+Director can accept or modify CTAC’s priority rankings and recommended 
+funding levels for project concepts. The ONDCP Director submits a 
+spending plan to Congress that details the amount of funds to be used 
+for new and existing project concepts. The spending plan does not 
+detail the factors the ONDCP Director considered in making the 
+selection, or the rationale for deciding to fund certain project 
+concepts over others. 
+
+TTP funding process:[Footnote 18] 
+
+1. Identified and prioritized needs: CTAC officials met with senior law 
+enforcement experts to ascertain their priorities for the equipment to 
+be made available by the TTP program. 
+
+2. Selected TTP equipment: The contracting agent issued a competitive
+solicitation for proposals. Senior law enforcement experts and the 
+contracting agent reviewed potential contractors’ proposals, and 
+determined whether to list the equipment in an online catalogue. 
+[Footnote 19] The contracting agent selected the contractor, negotiated 
+the terms of the contract, listed the equipment in the online 
+catalogue, and managed the contract. 
+
+[End of section] 
+
+Appendix IV: R&D and TTP Award Process: 
+
+R&D award process: 
+
+1. Transfer funds to contracting agent: Funds are transferred through 
+interagency agreements between ONDCP and its contracting agent that 
+specify the amount of funding for each R&D project concept. 
+
+2. Solicit proposals: The contracting agent uses (1) in-house resources 
+to fulfill the requirements of the contract, or (2) Broad Agency 
+Announcements or Requests for Proposals to solicit competitive 
+proposals from potential contractors, such as industry, academia, and 
+national laboratories. 
+
+3. Review proposals: Proposals undergo a technical peer review by 
+subject matter experts, which can include contractor technical staff, 
+representatives from stakeholder agencies, and CTAC officials. 
+
+4. Select contractor to carry out R&D project: The contracting agent 
+selects the contractor, negotiates the terms of the contract, and 
+manages the contract. 
+
+Process for selecting TTP recipients:[Footnote 20] 
+
+1. Transferred funds to contracting agent: Funds were transferred 
+through interagency agreements that specified the amount of funds to be 
+allocated to the program. 
+
+2. Reviewed applications: The contracting agent posted equipment 
+available in the TTP catalogue[Footnote 21] on Web site. State, local, 
+and tribal law enforcement agencies submitted applications to the 
+contracting agent for the equipment listed in the TTP catalogue. 
+
+3. Selected recipients: CTAC officials and the contracting agent 
+reviewed applications and selected recipients of the equipment after 
+competitively scoring and ranking applications. 
+
+[End of section] 
+
+Appendix V: Reorganization Timeline: 
+
+November 30, 2005: The general provisions of the Transportation, 
+Treasury, Housing and Urban Development, the Judiciary, the District of 
+Columbia, and Independent Agencies Appropriations Act of 2006, Pub. L. 
+No. 109-115, § 710, 119 Stat. 2396, 2491-92 prohibits the funds 
+provided in the Act, provided by previous appropriations Acts to the 
+agencies or entities funded in the Act that remain available for 
+obligation or expenditure in fiscal year 2006, or provided from any 
+accounts in the Treasury derived by the collection of fees and 
+available to agencies funded by this Act, from being available for 
+obligation or expenditure through a reprogramming of funds that, among 
+other things, creates, reorganizes, or restructures a branch, division, 
+office, bureau, board, commission, agency, administration, or 
+department different from the budget justifications submitted to the 
+Committees on Appropriations or the table accompanying the statement of 
+the managers accompanying this Act, whichever is more detailed, unless 
+prior approval is received from the House and Senate Committees on 
+Appropriations. This restriction continued into fiscal year 2007 
+through a series of continuing appropriations resolutions. 
+
+December 1, 2006: ONDCP sent letters to House and Senate Committees on
+Appropriations notifying them of the agency’s intent to reorganize CTAC 
+and the Office of Planning and Budget, citing Public Law 109-115. 
+
+December 20, 2006: Via e-mail, ONDCP’s Office of Legislative Affairs 
+requested a meeting with Senate Committee on Appropriations staff to 
+discuss the CTAC reorganization. Staff from the Senate Committee on 
+Appropriations informed ONDCP that the committee was unavailable and 
+the earliest meeting time would be January 2007. 
+
+January 3, 2007: Via e-mail, ONDCP’s Office of Legislative Affairs 
+requested a meeting with Senate Committee on Appropriations staff to 
+discuss CTAC’s reorganization. 
+
+January 4, 2007: Via e-mail, staff from the Senate Committee on 
+Appropriations informed ONDCP that the committee was restructuring and 
+to wait on implementing the reorganization plans. 
+
+January 9, 2007: Via e-mail, ONDCP’s Office of Legislative Affairs 
+offered to provide written explanation of the CTAC reorganization to 
+the Senate Committee on Appropriations. 
+
+January 10, 2007: Via e-mail, staff from the Senate Committee on 
+Appropriations advised ONDCP that the committee’s priority was working 
+on the continuing resolution and to wait on implementation of the 
+reorganization plan. 
+
+January 17, 2007: ONDCP’s Office of Legislative Affairs submitted CTAC’s
+reorganization plan to the Senate Committee on Appropriations and began 
+the process of moving staff based on the reorganization plan. 
+
+January 22, 2007: The ONDCP Director instructed that 8 full time 
+equivalent positions be reassigned from the Office of Planning and 
+Budget to CTAC. Personnel actions for reassigned staff are dated 
+January 22, 2007. 
+
+February 15, 2007:The Revised Continuing Appropriations Resolution of 
+2007, Pub. L. No. 110-5, 121 Stat. 8, 55-56, states that the structure 
+of any of the offices or components within the Office of National Drug 
+Control Policy shall remain as they were on October 1, 2006, and none 
+of the funds appropriated may be used to implement a reorganization of 
+offices without the explicit approval of the House and Senate 
+Appropriations Committees. CTAC officials told us they did not return 
+to the previous structure because, among other things, the CTAC 
+reorganization had taken place on January 22, 2007 prior to the 
+legislation being enacted. 
+
+[End of section] 
+
+Appendix VI: Comments from the Office of National Drug Control Policy: 
+
+Executive Office Of The President: 
+Office Of National Drug Control Policy: 
+Washington, D.C. 20503: 
+
+March 6, 2009: 
+
+Eileen R. Larence: 
+Director, Homeland Security and Justice Issues: 
+U.S. Government Accountability Office: 
+Room 6153, 441 G. Street, NW: 
+Washington, D.C. 20548: 
+
+Dear Ms. Larence: 
+
+We have reviewed the draft report of ONDCP's Counterdrug Technology 
+Assessment Center prepared by the Government Accountability Office 
+(GAO). We appreciate the factual tone of the report and find it to be a 
+balanced and accurate portrayal of this important program. 
+
+ONDCP believes that recent enhancements to the program have 
+strengthened it significantly. Starting in FY 2006, ONDCP implemented 
+several changes to improve the transparency and accountability of the 
+CTAC program, including applying a merit-based competitive grant 
+process to the Technology Transfer Program, as well as soliciting R&D 
+concepts from ONDCP program components and other federal drug control 
+agencies, and requiring that such concepts be supportive of the 
+National Drug Control Strategy and/or ONDCP's operational priorities. 
+Additionally, following an independent financial review of the program, 
+initiated by ONDCP, we changed CTAC's primary contracting agent and 
+required improved financial reporting accountability. 
+
+We concur with GAO's recommendation to identify selection criteria and 
+document the Director's decision process for approving R&D concepts for 
+funding and agree that this process should promote greater transparency 
+in funding decisions and accountability for the best use of CTAC's R&D 
+funds. 
+
+We appreciate GAO's efforts in reviewing the CTAC program and look 
+forward to continued engagement with GAO as we implement the 
+recommendation and move forward with this essential program. 
+
+Sincerely, 
+
+Signed by: 
+
+Edward H. Jurith: 
+Acting Director: 
+
+[End of section] 
+
+Footnotes: 
+
+[1] Federal drug control agencies include the National Institute on 
+Drug Abuse and the Drug Enforcement Administration, among others. 
+
+[2] Pursuant to the Office of National Drug Control Policy 
+Reauthorization Act of 2006, Pub. L. No. 109-469, § 401, 120 Stat. 
+3502, 3525-27 (Dec. 29, 2006), there shall be at the head of the Center 
+the Chief Scientist, who shall be appointed by the ONDCP Director from
+among individuals qualified and distinguished in the area of science, 
+medicine, engineering, or technology. Codified at 21 U.S.C. §
+1707(b). 
+
+[3] 21 U.S.C. § 1707(d). 
+
+[4] GAO, Standards for Internal Control in the Federal Government, 
+[hyperlink, http://www.gao.gov/products/GAO/AIMD-00-21.3.1] 
+(Washington, D.C.: Nov. 1999). 
+
+[5] GAO, Tax Administration: IRS Needs to Further Refine Its Tax Filing 
+Season Performance Measures, [hyperlink, 
+http://www.gao.gov/products/GAO-03-143] (Washington, D.C.: Nov. 22, 
+2002). 
+
+[6] Pub. L. No. 103-62, 107 Stat. 285 (1993). The Government 
+Performance and Results Act of 1993 was intended to address several 
+broad purposes, including strengthening the confidence of the American 
+people in their government; improving federal program effectiveness,
+accountability, and service delivery; and enhancing congressional 
+decision making by providing more objective information on program
+performance. 
+
+[7] An output measure describes the level of activity to be provided 
+over a period of time, including a description of the characteristics 
+(e.g., timeliness) established as standards for the activity. Outcome 
+measures describe the intended results of carrying out a program or
+activity. They define an event or condition that is external to the 
+program or activity and that is of direct importance to the intended
+beneficiaries and/or the public. 
+
+[8] The figures do not sum to $56.5 million due to rounding. 
+
+[9] Among other things, an obligation is a legal liability for the 
+government to pay for goods and services ordered or received. See GAO,
+Glossary of Terms Used in the Federal Budget Process, GAO-05-734SP 
+(Washington, D.C.: Sep. 2005). 
+
+[10] In some instances, rather than transferring funds to its primary 
+contracting agent, CTAC transferred funds directly to federal drug 
+control agencies, such as the Drug Enforcement Administration, to 
+manage R&D projects. 
+
+[11] There are five internal control standards: control environment, 
+risk assessment, control activities, information and communications, and
+monitoring. We determined that the ONDCP Director’s approach to R&D 
+funding decisions was not consistent with the standard on control
+activities, which requires, among other things, clear documentation of 
+significant events. 
+
+[12] Appendix III contains additional information on the R&D and TTP 
+funding process; and appendix IV contains information on the process
+for awarding R&D funds and selecting recipients of TTP equipment. 
+
+[13] Pub. L. No. 103-62, 107 Stat. 285 (1993). 
+
+[14] Projects initiated refers to new R&D project concepts that ONDCP 
+plans to allocate funding to, as documented in the fiscal year spending
+plan submitted to Congress. According to CTAC officials, the term 
+research projects refers to R&D project concepts. 
+
+[15] [hyperlink, http://www.gao.gov/products/GAO-03-143]. GAO used 
+various performance management literature, including GPRA, to develop a 
+set of nine specific attributes of
+successful performance measures. We determined that six of the nine key 
+attributes of successful performance measures were applicable to our 
+study. 
+
+[16] GAO, Drug Control: Reauthorization of the Office of National Drug 
+Control Policy, [hyperlink, http://www.gao.gov/products/T-GGD-97-97] 
+(Washington, D.C.: May 1, 1997). 
+
+[17] According to CTAC officials, policy research informs the ONDCP 
+Director on drugs issues and the effectiveness of supply and demand
+reduction program activities in achieving strategic goals and 
+objectives. Performance measures development provides policymakers with
+data and analysis to measure the performances of drug reduction 
+programs and policies. 
+
+[18] Describes process in place until fiscal year 2008, when TTP 
+funding was discontinued. 
+
+[19] CTAC officials said the catalogue ceased to be posted in fiscal 
+year 2008. 
+
+[20] Describes process in place until fiscal year 2008, when TTP 
+funding was discontinued. 
+
+[21] CTAC officials said the catalogue ceased to be posted in fiscal 
+year 2008. 
+
+[End of section] 
+
+GAO's Mission: 
+
+The Government Accountability Office, the audit, evaluation and 
+investigative arm of Congress, exists to support Congress in meeting 
+its constitutional responsibilities and to help improve the performance 
+and accountability of the federal government for the American people. 
+GAO examines the use of public funds; evaluates federal programs and 
+policies; and provides analyses, recommendations, and other assistance 
+to help Congress make informed oversight, policy, and funding 
+decisions. GAO's commitment to good government is reflected in its core 
+values of accountability, integrity, and reliability. 
+
+Obtaining Copies of GAO Reports and Testimony: 
+
+The fastest and easiest way to obtain copies of GAO documents at no 
+cost is through GAO's Web site [hyperlink, http://www.gao.gov]. Each 
+weekday, GAO posts newly released reports, testimony, and 
+correspondence on its Web site. To have GAO e-mail you a list of newly 
+posted products every afternoon, go to [hyperlink, http://www.gao.gov] 
+and select "E-mail Updates." 
+
+Order by Phone: 
+
+The price of each GAO publication reflects GAO’s actual cost of
+production and distribution and depends on the number of pages in the
+publication and whether the publication is printed in color or black and
+white. Pricing and ordering information is posted on GAO’s Web site, 
+[hyperlink, http://www.gao.gov/ordering.htm]. 
+
+Place orders by calling (202) 512-6000, toll free (866) 801-7077, or
+TDD (202) 512-2537. 
+
+Orders may be paid for using American Express, Discover Card,
+MasterCard, Visa, check, or money order. Call for additional 
+information. 
+
+To Report Fraud, Waste, and Abuse in Federal Programs: 
+
+Contact: 
+
+Web site: [hyperlink, http://www.gao.gov/fraudnet/fraudnet.htm]: 
+E-mail: fraudnet@gao.gov: 
+Automated answering system: (800) 424-5454 or (202) 512-7470: 
+
+Congressional Relations: 
+
+Ralph Dawn, Managing Director, dawnr@gao.gov: 
+(202) 512-4400: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7125: 
+Washington, D.C. 20548: 
+
+Public Affairs: 
+
+Chuck Young, Managing Director, youngc1@gao.gov: 
+(202) 512-4800: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7149: 
+Washington, D.C. 20548: 		
+		

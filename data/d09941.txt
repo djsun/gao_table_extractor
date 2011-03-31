@@ -1,0 +1,4169 @@
+
+This is the accessible text file for GAO report number GAO-09-941 
+entitled 'Voters With Disabilities: Additional Monitoring of Polling 
+Places Could Further Improve Accessibility' which was released on 
+October 27, 2009. 
+
+This text file was formatted by the U.S. Government Accountability 
+Office (GAO) to be accessible to users with visual impairments, as part 
+of a longer term project to improve GAO products' accessibility. Every 
+attempt has been made to maintain the structural and data integrity of 
+the original printed product. Accessibility features, such as text 
+descriptions of tables, consecutively numbered footnotes placed at the 
+end of the file, and the text of agency comment letters, are provided 
+but may not exactly duplicate the presentation or format of the printed 
+version. The portable document format (PDF) file is an exact electronic 
+replica of the printed version. We welcome your feedback. Please E-mail 
+your comments regarding the contents or accessibility features of this 
+document to Webmaster@gao.gov. 
+
+This is a work of the U.S. government and is not subject to copyright 
+protection in the United States. It may be reproduced and distributed 
+in its entirety without further permission from GAO. Because this work 
+may contain copyrighted images or other material, permission from the 
+copyright holder may be necessary if you wish to reproduce this 
+material separately. 
+
+Report to Congressional Requesters: 
+
+United States Government Accountability Office: 
+GAO: 
+
+September 2009: 
+
+Voters With Disabilities: 
+
+Additional Monitoring of Polling Places Could Further Improve 
+Accessibility: 
+
+GAO-09-941: 
+
+GAO Highlights: 
+
+Highlights of GAO-09-941, a report to congressional requesters. 
+
+Why GAO Did This Study: 
+
+Voting is fundamental to our democracy, and federal law generally 
+requires polling places to be accessible to all eligible voters for 
+federal elections, including voters with disabilities. However, during 
+the 2000 federal election, GAO found that only 16 percent of polling 
+places had no potential impediments to access for people with 
+disabilities. To address these and other issues, Congress enacted the 
+Help America Vote Act of 2002 (HAVA), which required each polling place 
+to have an accessible voting system. We examined (1) the proportion of 
+polling places during the 2008 federal election with features that 
+might facilitate or impede access for voters with disabilities compared 
+to our findings from 2000; (2) actions states are taking to facilitate 
+voting access; and (3) steps the Department of Justice (Justice) has 
+taken to enforce HAVA voting access provisions. GAO visited 730 
+randomly selected polling places across the country, representing 
+polling places nationwide, on Election Day 2008. GAO also surveyed 
+states and interviewed federal officials. 
+
+What GAO Found: 
+
+Compared to 2000, the proportion of polling places without potential 
+impediments increased and almost all polling places had an accessible 
+voting system. In 2008, based upon our survey of polling places, we 
+estimate that 27.3 percent of polling places had no potential 
+impediments in the path from the parking to the voting area—up from16 
+percent in 2000; 45.3 percent had potential impediments but offered 
+curbside voting; and the remaining 27.4 percent had potential 
+impediments and did not offer curbside voting. All but one polling 
+place we visited had an accessible voting system—typically, an 
+electronic machine in a voting station—to facilitate private and 
+independent voting for people with disabilities. However, 46 percent of 
+polling places had an accessible voting system that could pose a 
+challenge to certain voters with disabilities, such as voting stations 
+that were not arranged to accommodate voters using wheelchairs. 
+
+Most states have established accessibility requirements and funded 
+improvements to help facilitate accessible voting, and all states 
+reported that they required local jurisdictions to offer alternative 
+voting methods. In 2008, 43 states reported that they required 
+accessibility standards for polling places, up from 23 states in 2000. 
+Additionally, most states reported that they used federal HAVA funds to 
+improve the physical accessibility of polling places. Further, all 
+states reported that they required local jurisdictions to offer 
+alternative voting methods, such as absentee voting. At the same time, 
+31 states reported that ensuring polling place accessibility was 
+challenging. 
+
+Justice provided guidance on polling place accessibility and conducted 
+an initial assessment of states’ compliance with HAVA’s January 2006 
+deadline for accessible voting systems. Since then, Justice’s oversight 
+of HAVA’s access requirements is part of two other enforcement efforts, 
+but gaps remain. While Justice provided guidance on polling place 
+accessibility, this guidance does not address accessibility of the 
+voting area itself. Justice currently conducts polling place 
+observations for federal elections that identifies whether an 
+accessible voting system is in place, but it does not systematically 
+assess the physical accessibility of polling places or the level of 
+privacy and independence provided to voters with disabilities. Justice 
+also conducts a small number of annual community assessments of 
+Americans with Disabilities Act compliance of public buildings, which 
+includes buildings designated as polling places. However, these 
+assessments do not provide a national perspective on polling place 
+accessibility or assess any special features of the voting area and the 
+accessible voting system that are set up only on Election Day. 
+
+Figure: Two photographs: 
+
+[Refer to PDF for image] 
+
+Sign marking accessible voting route; Accessible voting machine. 
+
+Source: GAO. 
+
+[End of figure] 
+
+What GAO Recommends: 
+
+GAO recommends that Justice expand its monitoring and oversight of 
+polling place accessibility. Justice generally agreed with this 
+recommendation, but had concerns about expanding the scope of Election 
+Day observations. 
+
+View [hyperlink, http://www.gao.gov/products/GAO-09-941] or key 
+components. For more information, contact Barbara Bovbjerg at (202) 512-
+7215) or bovbjergb@gao.gov; or William O. Jenkins, Jr. at (202) 512-
+8777 or jenkinswo@gao.gov. 
+
+[End of section] 
+
+United States Government Accountability Office: 
+
+Contents: 
+
+Letter: 
+
+Background: 
+
+The Proportion of Polling Places Without Potential Impediments 
+Increased Since 2000: 
+
+Most States Have Established Requirements and Funded Improvements to 
+Help Facilitate Voter Accessibility: 
+
+Justice Assessed States' Implementation of HAVA Requirements for The 
+2006 Deadline, But Its Current Oversight Has Some Gaps: 
+
+Conclusions: 
+
+Recommendation for Executive Action: 
+
+Agency Comments and Our Evaluation: 
+
+Appendix I: Scope and Methodology: 
+
+Appendix II: List of Counties Randomly Selected for Site Visits on 
+Election Day, November 4, 2008: 
+
+Appendix III: Summary Of Justice Voting Section's Internal Process For 
+Handling HAVA-Related Matters And Cases: 
+
+Appendix IV: List of Potential Features That Might Impede Access to 
+Voting in a Polling Place: 
+
+Appendix V: State Requirements for Accessibility of Polling Places, 
+Alternative Voting Methods, and Accommodations to Facilitate Voting: 
+
+Appendix VI: Comments from the Department of Justice: 
+
+Appendix VII: Comments from the Election Assistance Commission: 
+
+Appendix VIII: Comments from the Department of Health and Human 
+Services: 
+
+Appendix IX: GAO Contacts and Staff Acknowledgments: 
+
+Related GAO Products: 
+
+Tables: 
+
+Table 1: Comparison of Specific Features from the Parking Area to the 
+Voting Area of Polling Places That Might Impede Voting Access in 2000 
+and 2008: 
+
+Table 2: Type of Assistance That Polling Place Officials Would Provide 
+to Help People with Disabilities Operate or Overcome Difficulties While 
+Voting on the Accessible Machine: 
+
+Table 3: Extent to Which Voting System Features to Facilitate Private 
+and Independent Voting at Polling Places Were Not Met: 
+
+Table 4: State Challenges in Implementing Various Aspects of HAVA: 
+
+Table 5: Examples of Reasons That Some States Permitted for Absentee 
+Voting: 
+
+Table 6: Summary of Changes in State Requirements Concerning 
+Accessibility of Polling Places from the 2000 to the 2008 General 
+Elections: 
+
+Table 7: State Provisions Concerning Accessibility of Polling Places 
+and Accommodations for Individuals with Disabilities as of the November 
+2004 and 2008 Federal Elections: 
+
+Table 8: Changes in State Requirements Concerning Alternative Voting 
+Methods from the 2000 to the 2008 General Elections: 
+
+Figures: 
+
+Figure 1: Example of DRE Instructions and Equipment: 
+
+Figure 2: Ballot Marking Device: 
+
+Figure 3: Vote-by-Phone System: 
+
+Figure 4: Comparison in Prevalence of Potential Impediments in 2000 and 
+2008: 
+
+Figure 5: Key Polling Place Features That We Examined: 
+
+Figure 6: Key Locations of One or More Potential Impediments at Polling 
+Places in 2000 and 2008: 
+
+Figure 7: Example of a Polling Place with Inadequately Marked Parking 
+for People with Disabilities and Unramped and Uncut Curb: 
+
+Figure 8: Comparison of the Proportion of Polling Places That Had One 
+or More Potential Impediments in 2000 and 2008: 
+
+Figure 9: Type of Accessible Voting Machines: 
+
+Figure 10: Example of Voting Station for People with Disabilities: 
+
+Figure 11: State Requirements Concerning the Accessibility of Polling 
+Places, as of Election Days 2000 and 2008: 
+
+Figure 12: Example of State Guidance for Setting Up the Voting Room in 
+the Polling Place and for Placement of the Accessible Voting Machine: 
+
+Figure 13: Accommodations That States Required Local Jurisdictions to 
+Offer to Voters with Disabilities, as of Election Days 2000 and 2008: 
+
+Figure 14: Examples of Some Measurements and Items for Observation That 
+Were Used to Train GAO Teams for Election Day Visits: 
+
+Abbreviations: 
+
+ADA: Americans with Disabilities Act of 1990: 
+
+DCI: data collection instrument: 
+
+DRE: direct recording electronic: 
+
+EAC: Election Assistance Commission: 
+
+HAVA: Help America Vote Act of 2002: 
+
+HHS: Department of Health and Human Services: 
+
+VAEHA: Voting Accessibility for the Elderly and Handicapped Act: 
+
+[End of section] 
+
+United States Government Accountability Office: 
+Washington, DC 20548: 
+
+September 30, 2009: 
+
+Congressional Requesters: 
+
+Voting is fundamental to our democratic system, and federal law 
+generally requires federal election polling places to be accessible to 
+all eligible voters, including the elderly and voters with 
+disabilities. In particular, the Voting Accessibility for the Elderly 
+and Handicapped Act (VAEHA) requires that, with a few exceptions, 
+political subdivisions responsible for conducting elections ensure that 
+polling places used in federal elections are accessible to voters with 
+disabilities. These requirements can present a challenge to state and 
+local election officials because achieving accessibility--which is 
+affected by a person's type of impairment as well as by various 
+barriers posed by polling place facilities and voting methods--is part 
+of a larger set of challenges these officials face in administering 
+elections on a periodic basis. In fact, during the 2000 federal 
+election, we found that only 16 percent of polling places had no 
+potential impediments to voting access for people with disabilities-- 
+although most polling places with potential impediments offered 
+curbside voting.[Footnote 1] The number of voters who may face 
+difficulties exercising their right to vote due to mobility and other 
+impairments could grow as the proportion of the population age 65 and 
+older is expected to grow from 12 percent of the population in 2003 to 
+more than 20 percent of the population by 2030. Disability increases 
+with age and studies have shown that with every 10 years after reaching 
+the age of 65, the risk of losing mobility doubles.[Footnote 2] 
+
+Congress enacted the Help America Vote Act of 2002 (HAVA) to address 
+these and other challenges encountered during the 2000 federal 
+election. HAVA required each polling place to have at least one voting 
+system for use in federal elections that is accessible for people with 
+disabilities by January 1, 2006. This voting system can be a direct 
+recording electronic voting system (e.g., touch screen) or another 
+system that, according to HAVA, must provide people with disabilities 
+the same opportunity for voting privately and independently as is 
+afforded to other voters. In addition, HAVA created the Election 
+Assistance Commission (EAC) to serve, among other purposes, as a 
+clearinghouse and information resource for election officials with 
+respect to the administration of federal elections. HAVA also required 
+the Department of Health and Human Services (HHS) to provide annual 
+grants to state and local governments to improve the accessibility of 
+voting systems and polling places, and a total of $79.5 million has 
+been appropriated for this purpose since 2003.[Footnote 3] While our 
+work since the passage of HAVA has reported improvements in state 
+provisions and local practices to ensure accessibility of polling 
+places, the extent to which these provisions and practices have 
+improved accessibility nationally is unknown.[Footnote 4] To address 
+these issues, you asked us to examine voting access for people with 
+disabilities at polling places on Election Day, November 4, 2008. 
+Specifically, this report examines (1) the proportion of polling places 
+that have features that might facilitate or impede access to voting for 
+people with disabilities and how these results compare to our findings 
+from the 2000 federal election; (2) the actions states are taking to 
+facilitate voting for people with disabilities; and (3) the steps the 
+Department of Justice (Justice) has taken to enforce HAVA voting access 
+provisions. We provided some preliminary findings on the proportion of 
+polling places that had features that might facilitate or impede access 
+to voting for people with disabilities and how these results compare to 
+our findings from the 2000 federal election in a report that we issued 
+earlier this year.[Footnote 5] We also plan to issue a report on voting 
+practices in long-term care facilities later this year. 
+
+To estimate the proportion of polling places with features that might 
+facilitate or impede access to voting for people with disabilities, we 
+visited randomly selected polling places across the country on Election 
+Day, November 4, 2008. We used a two-stage sampling method that created 
+a nationally representative sample of polling places in the contiguous 
+United States, with the exception of those in Oregon.[Footnote 6] The 
+first stage involved selecting a random sample of counties weighted by 
+their total populations. We based the probability of each county's 
+selection on the size of its population so that heavily populated 
+counties, which tend to have more polling places than less-populated 
+counties, would have a greater chance of being selected in the sample. 
+Each time a county was selected, we returned it to the sample universe, 
+which gave it an additional chance of being selected. Therefore, some 
+counties with large populations were selected multiple times, resulting 
+in a final selection of 84 unique counties in 31 states (which was the 
+equivalent of 100 counties). This method allowed us to select a sample 
+that was representative of polling places across the country on 
+Election Day. The second stage involved randomly selecting 8 polling 
+places in each county for each time the county was selected. On 
+Election Day 2008, we visited a total of 730 polling places.[Footnote 
+7] At each polling place, we took measurements and made observations of 
+facility features that could facilitate access to the voting area--such 
+as accessible parking and door thresholds that do not exceed ½ inch in 
+height. We also identified voting methods and features that could 
+facilitate or impede private and independent voting for people with 
+disabilities in the voting area, such as voting stations that were 
+properly configured for a wheelchair.[Footnote 8] In addition, we 
+conducted short interviews with chief polling place officials to 
+identify other accommodations for voters--such as curbside voting 
+outside the polling place. We documented our observations and 
+interviews with poll workers in a data collection instrument (DCI) we 
+developed. The DCI was similar to the one used in our 2000 study of 
+polling places, but we updated it to incorporate changes that have 
+occurred in federal laws and guidance since 2000.[Footnote 9] 
+
+This study focused on features in the path leading from the parking 
+area to the voting area that might facilitate or impede access to 
+voting for people with disabilities, as well as challenges to private 
+and independent voting in the voting area. However, because the extent 
+to which any given feature may affect access is dependent upon numerous 
+factors--including the type or severity of an individual's disability--
+we were not able to determine whether any observed feature prevented 
+access. Accordingly, we did not categorize polling places as 
+"accessible" or "inaccessible." Moreover, we did not determine whether 
+curbside or other accommodations offered at polling places actually 
+facilitated voting. Finally, we did not assess polling places for legal 
+compliance with HAVA accessible voting system requirements or other 
+federal laws, and we did not test the accessible capabilities of these 
+voting systems. 
+
+To address our second and third objectives, we administered a Web-based 
+survey of election officials in all 50 states, the District of 
+Columbia, and 4 U.S. territories (American Samoa, Guam, Puerto Rico, 
+and the U.S. Virgin Islands)[Footnote 10] between December 2008 and 
+February 2009. We received a 100 percent response rate. We also 
+searched state election Web sites to better understand and illustrate 
+states' actions to facilitate voting for people with disabilities, and 
+obtained and reviewed relevant documentation for selected states. The 
+scope of this work did not include contacting election officials from 
+each state and local jurisdiction to verify survey responses or other 
+information provided by state officials. Also, we did not analyze 
+states' laws to determine their voting access requirements, but instead 
+relied on the states' responses to our survey. 
+
+To determine what actions Justice has taken to enforce HAVA voting 
+access provisions, we interviewed Justice officials and reviewed 
+relevant federal laws, guidance, and other documentation. We also 
+reviewed citizen complaints from Election Day 2008 that Justice 
+provided to us, and all three complaints containing a HAVA voting 
+access claim that Justice filed against states or election 
+jurisdictions since HAVA was enacted in 2002. In addition, we 
+interviewed officials from EAC, HHS, national organizations that 
+represented election officials, and disability advocacy organizations. 
+We conducted our work from April 2008 through September 2009 in 
+accordance with generally accepted government auditing standards. Those 
+standards require that we plan and perform the audit to obtain 
+sufficient, appropriate evidence to provide a reasonable basis for our 
+findings and conclusions based on our audit objectives. We believe that 
+the evidence obtained provides a reasonable basis for our findings and 
+conclusions based on our audit objectives. See appendix I for 
+additional information on our scope and methodology, and appendix II 
+for a list of counties that we randomly selected for site visits on 
+Election Day. 
+
+Background: 
+
+Holding federal elections in the United States is a massive enterprise, 
+administered primarily at the local level. On federal Election Day, 
+millions of voters across the country visit polling places, which are 
+located in schools, recreation centers, churches, various government 
+buildings, and even private homes.[Footnote 11] For the 2008 federal 
+election, state and local election officials recruited and trained 
+about 2 million poll workers across the country. Generally, each of the 
+50 states, the District of Columbia, and U.S. territories also play a 
+role in elections, by establishing election laws and policies for their 
+respective election jurisdictions. While federal elections are 
+generally conducted under state laws and policies, several federal laws 
+apply to voting and some provisions specifically address accessibility 
+issues for voters with disabilities. These federal laws collectively 
+address two issues that are essential to ensuring that voters with 
+disabilities can go to polling places and cast their ballots 
+independently and privately as do nondisabled voters. These two issues 
+are physical access and voting systems that enable people with 
+disabilities to cast a private and independent vote. 
+
+Voting Accessibility for the Elderly and Handicapped Act: 
+
+In 1984, Congress enacted VAEHA, which required political subdivisions 
+responsible for conducting elections to ensure that all polling places 
+for federal elections are accessible to elderly voters and voters with 
+disabilities, with limited exceptions. One such exception occurs when 
+the chief election officer of the state determines that no accessible 
+polling places are available in a political subdivision, and that 
+officer ensures that any elderly voter or voter with a disability 
+assigned to an inaccessible polling place will, upon advance request, 
+either be assigned to an accessible polling place or will be provided 
+with an alternative means to cast a ballot on the day of the election. 
+Under the VAEHA, the definition of "accessible" is determined under 
+guidelines established by the state's chief election officer, but the 
+law does not specify standards or minimum requirements for those 
+guidelines. Additionally, states are required to make available voting 
+aids for elderly voters and voters with disabilities, including 
+instructions printed in large type at each polling place and 
+information by telecommunications devices for the deaf. 
+
+Americans with Disabilities Act of 1990: 
+
+Title II of the Americans with Disabilities Act of 1990 (ADA) also 
+contains provisions that help increase the accessibility of voting for 
+individuals with disabilities. Specifically, title II and its 
+implementing regulations require that people with disabilities have 
+access to basic public services, including the right to vote. Although 
+the ADA does not strictly require all polling places to be accessible, 
+public entities must make reasonable modifications in policies, 
+practices, or procedures to avoid discrimination against people with 
+disabilities. Moreover, no person with a disability may, by reason of 
+disability, be excluded from participating in or be denied the benefits 
+of any public program, service, or activity. State and local 
+governments may comply with ADA accessibility requirements in a variety 
+of ways, such as redesigning equipment, reassigning services to 
+accessible buildings or alternative accessible sites, or altering 
+existing facilities or constructing new ones.[Footnote 12] However, 
+state and local governments are not required to take actions that would 
+threaten the historical significance of a historic property, 
+fundamentally alter the nature of a service, or impose any undue 
+financial and administrative burdens. Moreover, a public entity is not 
+required to make structural changes in existing facilities where other 
+methods are effective in achieving compliance. 
+
+Title III of the ADA covers commercial facilities and places of public 
+accommodation, such as private schools and privately operated 
+recreational centers that may also be used as polling places.[Footnote 
+13] Public accommodations must make reasonable modifications in 
+policies, practices, or procedures to facilitate access for people with 
+disabilities. These facilities are also required to remove physical 
+barriers in existing buildings when it is "readily achievable" to do 
+so, that is, when the removal can be done without much difficulty or 
+expense, given the entity's resources. When the removal of an 
+architectural barrier cannot be accomplished easily, the entity may 
+take alternative measures to facilitate accessibility. All buildings 
+newly constructed by public accommodations and commercial facilities 
+must be readily accessible, and any alterations to an existing building 
+are required, to the maximum extent feasible, to be readily accessible 
+to people with disabilities, including those who use wheelchairs. 
+[Footnote 14] 
+
+The Voting Rights Act of 1965: 
+
+The Voting Rights Act of 1965, as amended, provides for voter 
+assistance in the voting room. Specifically, the Voting Rights Act, 
+among other things, authorizes voting assistance for blind, disabled, 
+or illiterate persons. Voters who require assistance to vote by reason 
+of blindness, disability, or the inability to read or write may be 
+given assistance by a person of the voter's choice, other than the 
+voter's employer or agent of that employer or officer or agent of the 
+voter's union. 
+
+Help America Vote Act of 2002: 
+
+Most recently, Congress passed HAVA, which contains a number of 
+provisions to help increase the accessibility of voting for people with 
+disabilities. In particular, section 301(a) of HAVA outlines minimum 
+standards for voting systems used in federal elections. This section 
+specifically states that the voting system must be accessible for 
+people with disabilities, including nonvisual accessibility for the 
+blind and visually impaired, in a manner that provides the same 
+opportunity for access and participation as is provided for other 
+voters. To satisfy this requirement, each polling place must have at 
+least one direct recording electronic or other voting system equipped 
+for people with disabilities. 
+
+HAVA established the EAC as an agency with wide-ranging duties to help 
+improve state and local administration of federal elections. Among 
+other things, the EAC is responsible for (1) providing voluntary 
+guidance to states implementing certain HAVA provisions; (2) serving as 
+a national clearinghouse of election-related information and a resource 
+for information with respect to the administration of federal 
+elections; (3) providing for the certification of voting systems; and 
+(4) periodically conducting and making publicly available studies 
+regarding methods of ensuring accessibility of voting, polling places, 
+and voting equipment to all voters, including people with disabilities. 
+The EAC also makes grants for the research and development of new 
+voting equipment and technologies and the improvement of voting 
+systems. Furthermore, HAVA requires the Secretary of HHS to make yearly 
+payments to each eligible state and unit of local government to be used 
+for (1) making polling places accessible for people with disabilities 
+and (2) providing people with disabilities with information on 
+accessible polling places. 
+
+HAVA vests enforcement authority with the U.S. Attorney General to 
+bring a civil action against any state or jurisdiction as may be 
+necessary to carry out specified uniform and nondiscriminatory election 
+technology and administration requirements under HAVA. These 
+requirements pertain to HAVA voting system standards, provisional 
+voting and voting information,[Footnote 15] the computerized statewide 
+voter registration list, and voter registration by mail. The Voting 
+Section, within Justice's Civil Rights Division, is responsible for 
+enforcement of civil provisions of federal voting laws, such as HAVA. 
+The Voting Section's internal process for initiating HAVA-related 
+matters and cases consists of four phases: initiation, investigation, 
+complaint justification, and litigation. See appendix III for an 
+overview of this internal process. The Disability Rights Section, also 
+within the Civil Rights Division, is primarily responsible for 
+protecting the rights of persons with disabilities under the ADA, which 
+includes ensuring that people with disabilities have access to basic 
+services, such as voting. 
+
+Accessible Voting Systems for People with Disabilities: 
+
+Providing an accessible voting system encompasses both the voting 
+method and the operation of the system. In terms of the voting method, 
+HAVA specifically identifies direct recording electronic systems to 
+facilitate voting for people with disabilities or other voting systems 
+equipped for people with disabilities. For the most part, these systems 
+are electronic machines or devices equipped with features to assist 
+voters with disabilities. A brief description of these types of systems 
+follows. 
+
+Direct Recording Electronic (DRE) Devices. DRE devices capture votes 
+electronically (see figure 1). These devices come in two basic models: 
+push button or touch screen. DRE ballots are marked by a voter pressing 
+a button or touching a screen that highlights the selected candidate's 
+name or an issue. Voters can change their selections until they select 
+the final "vote" button or screen, which casts their vote. These 
+devices can be equipped with such features as an audio ballot and audio 
+voting instructions for the blind. 
+
+Figure 1: Example of DRE Instructions and Equipment: 
+
+[Refer to PDF for image: photograph and instructions] 
+
+Photograph: DRE voting unit; 
+
+Instructions: DRE voting instructions. 
+
+Source: GAO. 
+
+[End of figure] 
+
+Ballot Marking Devices. These devices use electronic technology to mark 
+an optical scan ballot at voter direction, interpret the ballot 
+selections, communicate the interpretation for voter verification, and 
+then print a voter-verified ballot. A ballot marking device integrates 
+components such as an optical scanner, printer, touch-screen monitor, 
+and a navigational keypad (see figure 2). Voters use the device's 
+accessible interface to record their choices on a paper or digital 
+ballot. For example, voters with visual impairments will use an audio 
+interface as well as a Braille keypad to make a selection. Voters who 
+prefer to vote in an alternate language can also utilize the audio 
+interface. Voters with disabilities can make their selection using a 
+foot-pedal or a sip-and-puff device.[Footnote 16] 
+
+Figure 2: Ballot Marking Device: 
+
+[Refer to PDF for image: illustration] 
+
+Source: Election Systems & Software. 
+
+[End of figure] 
+
+Vote-by-Phone. Vote-by-phone systems use electronic technology to mark 
+paper ballots. This system is made up of a standard touch-tone 
+telephone and a printer (see figure 3). When voters call from a polling 
+place to connect to the system, the ballot is read to the voters who 
+then make choices using the telephone keypad. The system then prints 
+out a paper ballot at either a central location (central print) or a 
+polling site (fax print). Central print ballots are read back to the 
+voter over the telephone for verification, after which the voter can 
+decide to cast the ballot or discard it and revote. Fax print ballots 
+produce a physical ballot at the polling place for the voter to review, 
+verify, and cast in a ballot box. 
+
+Figure 3: Vote-by-Phone System: 
+
+[Refer to PDF for image: photograph] 
+
+Source: Maine, Department of the Secretary of State, Division of 
+Elections. 
+
+[End of figure] 
+
+Regarding accessible voting system operation, HAVA specifies that the 
+voting system must be accessible for people with disabilities, in a 
+manner that provides the same opportunity for access and participation 
+as is provided for other voters. The operation of the voting system is 
+the responsibility of local election officials at individual polling 
+places. For the voting system to be accessible,[Footnote 17] the system 
+should be turned on, equipped with special features such as ear phones, 
+set up to accommodate voters using wheelchairs, and positioned in a way 
+to provide the same level of privacy as is afforded to other voters. 
+Also, poll workers should be knowledgeable of the operation of the 
+voting system to provide assistance, if needed. 
+
+Alternative Voting Methods: 
+
+As we have previously mentioned, the VAEHA requires that any elderly 
+voter or voter with a disability who is assigned to an inaccessible 
+polling place, upon his or her advance request, must be assigned to an 
+accessible polling place or be provided with an alternative means for 
+casting a ballot on the day of the election. However, states generally 
+regulate absentee voting and other alternative voting method 
+provisions, which provide voters with disabilities with additional 
+voting options.[Footnote 18] Alternative voting methods may include 
+curbside voting; taking a ballot to a voter's residence; allowing 
+voters to use another, more accessible polling location either on or 
+before Election Day; voting in person at early voting sites; or 
+removing prerequisites by establishing "no excuse" absentee voting or 
+allowing absentee voting on a permanent basis.[Footnote 19] 
+
+The Proportion of Polling Places Without Potential Impediments 
+Increased Since 2000: 
+
+Compared to 2000, the proportion of polling places without potential 
+impediments increased and almost all polling places had an accessible 
+voting system. In 2008, based upon our survey of polling places, we 
+estimate that 27.3 percent of polling places had no potential 
+impediments in the path from the parking area to the voting area--up 
+from 16 percent in 2000; 45.3 percent had potential impediments but 
+offered curbside voting; and the remaining 27.4 percent had potential 
+impediments and did not offer curbside voting. All but one polling 
+place we visited had an accessible voting system to facilitate private 
+and independent voting for people with disabilities. However, 46 
+percent of polling places had an accessible voting system that could 
+pose a challenge to certain voters with disabilities, such as voting 
+stations that were not arranged to accommodate voters using 
+wheelchairs. 
+
+While Polling Places Without Potential Impediments Increased, Most Had 
+Potential Impediments Outside of or at Building Entrances: 
+
+In 2008, we estimate that 27 percent of polling places had no potential 
+impediments in the path from the parking area to the voting area--up 
+from 16 percent in 2000 (see figure 4).[Footnote 20] Potential 
+impediments included a lack of accessible parking and obstacles en 
+route from the parking area to the voting area. 
+
+Figure 4: Comparison in Prevalence of Potential Impediments in 2000 and 
+2008: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+Number of potential impediments: 0; 
+Percentage of polling places, 2000: 16%; 
+Percentage of polling places, 2008: 27%. 
+
+Number of potential impediments: 1 or more; 
+Percentage of polling places, 2000: 84%; 
+Percentage of polling places, 2008: 73%. 
+
+Source: GAO analysis of polling place data collected on November 7, 
+2000, and November 4, 2008. 
+
+Note: The difference between the 2000 and 2008 estimates are 
+statistically significant. For 0 impediments, the 95-percent confidence 
+interval for 2000 data is 11.3 to 21.6 and for 2008 data is 21.9 to 
+32.7. For 1 or more impediments, the 95-percent confidence interval for 
+2000 data is 78.4 to 88.7 and for 2008 data is 67.3 to 78.1. 
+
+[End of figure] 
+
+Figure 5 shows some key polling place features that we examined, and 
+appendix IV contains a complete list of potential impediments. These 
+features primarily affect individuals with mobility impairments, in 
+particular voters using wheelchairs.[Footnote 21] 
+
+Figure 5: Key Polling Place Features That We Examined: 
+
+[Refer to PDF for image: illustration] 
+
+A: Parking area; 
+B: Route from parking area to building entrance; 
+C: Building entrance; 
+D: Curbside voting; 
+E: Route from inside the building entrance to the voting room; 
+F: Voting system. 
+
+Sources: Americans with Disabilities Act Accessibility Guidelines; GAO 
+and Art Explosion (images). 
+
+[End of figure] 
+
+Many of the polling places that had potential impediments offered 
+curbside voting or other accommodations to assist voters who may have 
+had difficulty getting to or making their way through a polling place. 
+For all polling places, we found that 45.3 percent had one or more 
+potential impediments and offered curbside voting, 27.4 percent had 
+potential impediments and did not offer curbside voting, and 27.3 
+percent had no potential impediments.[Footnote 22] Some polling places 
+provided assistance to voters by bringing a paper ballot or provisional 
+ballot to a voter in a vehicle. In addition to curbside voting, 
+officials we interviewed at most polling places said they would provide 
+assistance to help people with disabilities vote in the polling place. 
+For example, some polling places had wheelchairs available, if needed. 
+
+Similar to our findings in 2000, the majority of potential impediments 
+at polling places in 2008 occurred outside of or at the building 
+entrance, although improvements were made in some areas. Fifty percent 
+of polling places had one or more potential impediments in the path 
+from the parking area to the building entrance (see figure 6).[Footnote 
+23] At the same time, the percentage of polling places with potential 
+impediments at the building entrance dropped sharply--from 59 percent 
+in 2000 to 25 percent in 2008.[Footnote 24] As shown in table 1, the 
+most common potential impediments in 2008 were steep ramps or curb cuts 
+in the parking area, unpaved or poor surfaces in the path from the 
+parking lot or route to the building entrance, and door thresholds 
+exceeding ½ inch in height. Figure 7 shows an example of a polling 
+place with two potential impediments from the parking area to the 
+building entrance. It is important to note that our assessment of 
+polling places in 2000 did not include measurements of ramps or curb 
+cuts in the parking area.[Footnote 25] With this additional 
+accessibility indicator, we did not see a reduction of potential 
+impediments in the parking area overall. However, polling places made 
+significant gains in providing designated parking for people with 
+disabilities, which decreased from 32 percent with no designated 
+parking in 2000 to only 3 percent in 2008.[Footnote 26] 
+
+Figure 6: Key Locations of One or More Potential Impediments at Polling 
+Places in 2000 and 2008: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+Area at polling place: Parking area; 
+Potential Impediments at Polling Places in 2000: 33%; 
+Potential Impediments at Polling Places in 2008: 36%. 
+
+Area at polling place: Path from parking area to building entrance; 
+Potential Impediments at Polling Places in 2000: 57%. 
+Potential Impediments at Polling Places in 2008: 50%. 
+
+Area at polling place: Building entrance; 
+Potential Impediments at Polling Places in 2000: 59%; 
+Potential Impediments at Polling Places in 2008: 25%. 
+
+Area at polling place: Path from building entrance to voting area[A]; 
+Potential Impediments at Polling Places in 2000: 14%; 
+Potential Impediments at Polling Places in 2008: 6%. 
+
+Source: GAO analysis of polling place data collected on November 7, 
+2000, and November 4, 2008. 
+
+Note: For parking area data, the 95-percent confidence interval for 
+2000 data is 24.7 to 41.3 and for 2008 data is 29.2 to 42.5. For the 
+path from the parking area to the building entrance data, the 95- 
+percent confidence interval for 2000 data is 50.2 to 63.9 and for 2008 
+is 44.4 to 54.9. 
+
+[A] The difference between 2000 and 2008 data is statistically 
+significant. For the building entrance data, the 95-percent confidence 
+interval for 2000 data is 51.6 to 66.4 and for 2008 data is 16.7 to 
+34.2. For the path from the building entrance to the voting area, the 
+95-percent confidence interval for 2000 data is 9.8 to 18.2 and for 
+2008 data is 3.7 to 8.0. 
+
+[End of figure] 
+
+Figure 7: Example of a Polling Place with Inadequately Marked Parking 
+for People with Disabilities and Unramped and Uncut Curb: 
+
+[Refer to PDF for image: photograph] 
+
+Noted on the photograph: 
+* Sign designating parking for people with disabilities not located 
+near parking area; 
+* Curb without a curb cut or ramp. 
+
+Source: GAO. 
+
+[End of figure] 
+
+Table 1: Comparison of Specific Features from the Parking Area to the 
+Voting Area of Polling Places That Might Impede Voting Access in 2000 
+and 2008: 
+
+Location of features that might impede access to voting in a polling 
+place: Parking area; One or more ramps or cut curbs is steeper than 
+1:12; 
+2000 percentage: [A]; 
+2008 percentage: 24.0%. 
+
+Location of features that might impede access to voting in a polling 
+place: Parking area; No designated parking for people with 
+disabilities[B]; 
+2000 percentage: 32.2%; 
+2008 percentage: 3.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Parking area; One or more unramped or uncut curbs[B,C]; 
+2000 percentage: 8.1%; 
+2008 percentage: 2.6%. 
+
+Location of features that might impede access to voting in a polling 
+place: Parking area; No parking for any voters; 
+2000 percentage: 1.2%; 
+2008 percentage: 0.6%. 
+
+Location of features that might impede access to voting in a polling 
+place: Parking area; Other potential impediments in parking lot; 
+2000 percentage: 4.1%; 
+2008 percentage: 8.2%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Unpaved or poor 
+surface in parking lot or route to building entrance; 
+2000 percentage: 23.2%; 
+2008 percentage: 23.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Ramp in path from 
+parking area to building entrance is steeper than 1:12[B]; 
+2000 percentage: 21.5%; 
+2008 percentage: 16.4%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Sidewalk/path is 
+steeper than 1:12[D]; 
+2000 percentage: 19.6%; 
+2008 percentage: 12.0%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Improper or no 
+handrails on ramp; 
+2000 percentage: 5.8%; 
+2008 percentage: 8.2%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; No sidewalk/path 
+from parking area to building entrance; 
+2000 percentage: 8.2%; 
+2008 percentage: 4.2%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Ramps in path from 
+parking area to building entrance do not have a level landing at the 
+top and bottom of each section that is at least 60 inches long; 
+2000 percentage: [A]; 
+2008 percentage: 4.0%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Leaves, snow, or 
+litter in path from parking area to building entrance; 
+2000 percentage: 1.5%; 
+2008 percentage: 2.0%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Sidewalk/path from 
+parking area to building entrance < 36 inches wide[B]; 
+2000 percentage: 1.4%; 
+2008 percentage: 1.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Ramps in path from 
+parking area to building entrance is < 36 inches wide; 
+2000 percentage: 0.5%; 
+2008 percentage: 1.4%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Steps required in 
+path from parking area to building entrance[B]; 
+2000 percentage: 7.1%; 
+2008 percentage: 1.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from parking area to building entrance; Other potential 
+impediments in the path from parking area to building entrance; 
+2000 percentage: 9.8%; 
+2008 percentage: 6.4%. 
+
+Location of features that might impede access to voting in a polling 
+place: Building entrance; Doorway threshold exceeds ½ inch in height; 
+2000 percentage: 37.4%; 
+2008 percentage: 23.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Building entrance; Single doorway opening is < 32 inches wide; 
+2000 percentage: 9.6%; 
+2008 percentage: 6.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Building entrance; Doors that would be difficult for a person in 
+a wheelchair to open[B]; 
+2000 percentage: 25.7%; 
+2008 percentage: 6.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Building entrance; Double door opening is < 32 inches wide, 
+including situations in which one of the doors cannot be opened; 
+2000 percentage: 5.0%; 
+2008 percentage: 3.4%. 
+
+Location of features that might impede access to voting in a polling 
+place: Building entrance; Other potential impediments at the building 
+entrance; 
+2000 percentage: 6.1%; 
+2008 percentage: 4.7%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Doorway threshold 
+exceeds ½ inch in height; 
+2000 percentage: 2.3%; 
+2008 percentage: 3.7%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Single doorway 
+opening is < 32 inches wide; 
+2000 percentage: 4.8%; 
+2008 percentage: 3.6%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Corridors that do 
+not provide an unimpeded width of at least 36 inches or can go down to 
+32 inches for 2 feet; 
+2000 percentage: 0.9%; 
+2008 percentage: 2.7%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Ramp is steeper than 
+1:12; 
+2000 percentage: 2.4%; 
+2008 percentage: 2.7%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Improper or no 
+handrails on ramp; 
+2000 percentage: 0.7%; 
+2008 percentage: 1.8%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Doors that would be 
+difficult for a person using a wheelchair to open; 
+2000 percentage: 3.2%; 
+2008 percentage: 0.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Steps are required 
+to gain access to voting area; 
+2000 percentage: 2.1%; 
+2008 percentage: 0.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Double door opening 
+is <32 inches wide, including situations in which one of the doors 
+cannot be opened; 
+2000 percentage: 1.8%; 
+2008 percentage: 0.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Elevator is not 
+operational or is not properly equipped for people with disabilities; 
+2000 percentage: [A]; 
+2008 percentage: 0.5%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; One or more ramps 
+that are < 36 inches wide or can go down to 32 inches wide for 2 feet; 
+2000 percentage: 1.4%; 
+2008 percentage: 0.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Wheelchair lift or 
+buttons are not proper dimensions; 
+2000 percentage: [A]; 
+2008 percentage: 0.3%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Other potential 
+impediments with corridors; 
+2000 percentage: 1.0%; 
+2008 percentage: 3.1%. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Other potential 
+impediments at doorways and entrances; 
+2000 percentage: 1.3%; 
+2008 percentage: 2.9v. 
+
+Location of features that might impede access to voting in a polling 
+place: Path from building entrance to voting area; Other potential 
+impediments with ramps; 
+2000 percentage: 0.7%; 
+2008 percentage: 0.2%. 
+
+Source: GAO analysis of polling place data collected on November 7, 
+2000, and November 4, 2008: 
+
+Note: The estimates depicted in the table are derived from survey data 
+and have sampling errors associated with them. The 95-percent 
+confidence intervals are provided in appendix VI. 
+
+[A] We did not measure these items in 2000. We collected data on these 
+items in 2008 following our review of Justice's Americans with 
+Disabilities Act: ADA Checklist for Polling Places and per interviews 
+with experts. 
+
+[B] The difference between the 2000 and the 2008 data is statistically 
+significant. The 95-percent confidence intervals do not overlap. 
+
+[C] This feature was listed in the path from the parking area to the 
+building entrance in the 2000 study. 
+
+[D] We based this measurement on Justice's ADA Standards for Accessible 
+Design, 28 C.F.R. Part 36, Appendix A, which states that any part of an 
+accessible route with a slope greater than 1:20 shall be considered a 
+ramp and the maximum slope of a ramp is 1:12, except in certain cases 
+where space limitations prohibit the use of 1:12 slope or less. 
+
+[End of table] 
+
+In comparison to our findings in 2000, the proportion of polling places 
+with multiple potential impediments decreased in 2008. Specifically, 
+polling places with four or more potential impediments decreased 
+significantly--from 29 percent in 2000 to 16 percent in 2008 (see 
+figure 8). At the same time, the percentage of polling places with one, 
+two, or three potential impediments stayed about the same as in 2000. 
+
+Figure 8: Comparison of the Proportion of Polling Places That Had One 
+or More Potential Impediments in 2000 and 2008: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+Number of potential impediments: 1; 
+Percentage of polling places, 2000: 20%; 
+Percentage of polling places, 2008: 23%. 
+
+Number of potential impediments: 2; 
+Percentage of polling places, 2000: 19%; 
+Percentage of polling places, 2008: 19%. 
+
+Number of potential impediments: 3; 
+Percentage of polling places, 2000: 15%; 
+Percentage of polling places, 2008: 14%. 
+
+Number of potential impediments: 4 or more[A]; 
+Percentage of polling places, 2000: 29%; 
+Percentage of polling places, 2008: 16%. 
+
+Source: GAO analysis of polling place data collected on November 7, 
+2000, and November 4, 2008. 
+
+Note: The margin of error for the 2000 sample estimates range from 3 to 
+10 percentage points, unless otherwise noted. The margin of error for 
+the 2008 sample estimates range from 3 to 5 percentage points, unless 
+otherwise noted. 
+
+[A] The difference between 2000 and 2008 data is statistically 
+significant. The 95-percent confidence interval for 2000 data is 22.8 
+to 36.2. The 95-percent confidence interval for 2008 data is 12.2 to 
+21.1. 
+
+[End of figure] 
+
+Virtually All Polling Places Had Accessible Voting Systems, Although 
+Some Could Pose Challenges for People with Disabilities: 
+
+All but one polling place we examined had at least one accessible 
+voting system--typically, an accessible machine in a voting station--to 
+facilitate private and independent voting for people with disabilities. 
+[Footnote 27] Accessible voting machines had special features for 
+people with disabilities, such as an audio function to allow voters to 
+listen to ballot choices. According to an election official we 
+interviewed, the accessible voting systems have been significant in 
+helping some voters with disabilities--such as blind voters--vote 
+independently for the first time. The most common type of accessible 
+voting machine was the Automark, followed by the Premier Accuvote, 
+iVotronic, and Sequoia, respectively (see figure 9). 
+
+Figure 9: Types of Accessible Voting Machines: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+Type of accessible voting machine: Automark; 
+Percentage of polling places: 36%. 
+
+Type of accessible voting machine: Premier AccuVote; 
+Percentage of polling places: 21%. 
+
+Type of accessible voting machine: iVotronic; 
+Percentage of polling places: 14%. 
+
+Type of accessible voting machine: Sequoia; 
+Percentage of polling places: 10%. 
+
+Type of accessible voting machine: Other; 
+Percentage of polling places: 16%. 
+
+Type of accessible voting machine: Could not identify; 
+Percentage of polling places: 3%. 
+
+Source: GAO analysis of polling place data collected on November 4, 
+2008. 
+
+Note: The margin of error ranges from 5.5 to 15.4 percent at the 95- 
+percent confidence interval. 
+
+[End of figure] 
+
+To help facilitate the use of accessible machines, polling place 
+officials told us that they received training and would provide 
+assistance to help voters with disabilities operate voting machines or 
+overcome difficulties while voting. Almost all (98 percent) of the 626 
+polling place officials we interviewed said that some or all of the 
+poll workers working on Election Day received training on how to 
+operate the accessible machine.[Footnote 28] In addition, polling place 
+officials told us they would provide assistance to help people with 
+disabilities with the voting process. All polling place officials we 
+interviewed said they would explain how to operate the machine, and 79 
+percent said they would demonstrate how to operate the machine (see 
+table 2).[Footnote 29] Virtually all polling place officials we 
+interviewed told us they would allow a friend or relative to assist a 
+person with a disability with voting. 
+
+Table 2: Type of Assistance That Polling Place Officials Would Provide 
+to Help People with Disabilities Operate or Overcome Difficulties While 
+Voting on the Accessible Machine: 
+
+Type of assistance polling place officials would provide: Explain how 
+to operate the accessible machine[A]; 
+Percentage of polling places: 100%. 
+
+Type of assistance polling place officials would provide: Demonstrate 
+how to operate the accessible machine[B]; 
+Percentage of polling places: 79. 
+
+Type of assistance polling place officials would provide: Operate the 
+machine for the person if having difficulties voting[B]; 
+Percentage of polling places: 56. 
+
+Type of assistance polling place officials would provide: Let the 
+person practice on the machine before voting[B]; 
+Percentage of polling places: 40. 
+
+Type of assistance polling place officials would provide: Other[C]; 
+Percentage of polling places: 46. 
+
+Source: GAO analysis of polling place data collected on November 4, 
+2008. 
+
+[A] The margin of error is less than 1 percentage point. 
+
+[B] The margin of error is between 6 and 7 percentage points. 
+
+[C] The margin of error is 14 percentage points. 
+
+[End of table] 
+
+Although polling places had accessible voting systems, nearly one-half 
+(46 percent) had systems that could pose challenges for people with 
+disabilities to cast a private or independent vote.[Footnote 30] We 
+assessed four aspects of the accessible voting system that, if not met, 
+could pose a challenge to private or independent voting: (1) voting 
+system is set up and powered on; (2) earphones are available for audio 
+functions; (3) voting system is set up to accommodate people using 
+wheelchairs; and (4) accessible voting system provides the same level 
+of privacy for voters with disabilities as is offered to other 
+voters.[Footnote 31] Figure 10 shows an accessible voting station for 
+people with disabilities. Overall, 35 percent of polling places did not 
+meet one of these four aspects, 10 percent did not meet two aspects, 
+and 1 percent did not meet three aspects.[Footnote 32] 
+
+Figure 10: Example of Voting Station for People with Disabilities: 
+
+[Refer to PDF for image: photograph] 
+
+Source: GAO. 
+
+[End of figure] 
+
+As shown in table 3, the feature most commonly not met--at 29 percent 
+of polling places--was an accessible voting machine located in a voting 
+station with the minimum height, width, or depth dimensions to 
+accommodate a voter using a wheelchair. This was followed by 23 percent 
+of polling places that offered people with disabilities less privacy 
+for voting than is provided for other voters. For example, some voting 
+stations were not positioned to prevent other voters from seeing how 
+voters using the accessible machine were marking their ballots. 
+
+Table 3: Extent to Which Voting System Features to Facilitate Private 
+and Independent Voting at Polling Places Were Not Met: 
+
+Voting system features that, if not met, could pose a challenge to 
+voting privately and independently: Set up to accommodate voters using 
+a wheelchair; 
+Percentage of polling places where features were not met: 29%[A]. 
+
+Voting system features that, if not met, could pose a challenge to 
+voting privately and independently: Provides the same level of privacy 
+for voters with disabilities as is offered to other voters; 
+Percentage of polling places where features were not met: 23%[B]. 
+
+Voting system features that, if not met, could pose a challenge to 
+voting privately and independently: Earphones are attached or 
+prominently visible; 
+Percentage of polling places where features were not met: 6%[C]. 
+
+Voting system features that, if not met, could pose a challenge to 
+voting privately and independently: Set up and powered on; 
+Percentage of polling places where features were not met: 5%[D]. 
+
+Source: GAO analysis of polling place data collected on November 4, 
+2008. 
+
+[A] The 95-percent confidence interval for the data is 19.3 to 40.5. 
+
+[B] The 95-percent confidence interval for the data is 16.0 to 30.3. 
+
+[C] The 95-percent confidence interval for the data is 3.8 to 9.7. 
+
+[D] The 95-percent confidence interval for the data is 2.8 to 8.3. 
+
+[End of table] 
+
+Most States Have Established Requirements and Funded Improvements to 
+Help Facilitate Voter Accessibility: 
+
+The majority of states have established accessibility requirements and 
+funded improvements to help facilitate accessible voting, and all 
+states reported that they required local jurisdictions to offer 
+alternative voting methods. Forty-three states reported on our survey 
+that they required accessibility standards for polling places in 2008, 
+up from 23 states in 2000. Additionally, most states reported that they 
+used federal HAVA funds to improve the physical accessibility of 
+polling places. Further, all states reported that they required local 
+jurisdictions to offer alternative voting methods, such as absentee 
+voting. 
+
+Most States Have Established Accessibility Standards and Funded 
+Improvements, But Reported That Ensuring Accessibility Is Challenging: 
+
+To help facilitate voting for people with disabilities, most states 
+have established standards by which to evaluate the accessibility of 
+polling places and have required inspections of polling places to help 
+ensure accessibility.[Footnote 33] The number of states with 
+requirements specifying polling place accessibility standards grew from 
+23 states in 2000 to 43 states in 2008 (see figure 11).[Footnote 34] 
+These standards can vary in terms of specificity of requirements and 
+which aspects of accessibility they address. For example, California 
+established requirements for ramps and entrances, among other things. 
+By comparison, Indiana required that the voting area must have adequate 
+maneuvering space for voters who use wheelchairs or other mobility aids 
+and must allow space for a person who uses a wheelchair to navigate 
+behind and around the accessible machine. Figure 12 is an example of 
+state guidance for setting up the voting room and for placement of the 
+accessible voting system. The number of states that required 
+accommodation of wheelchairs in the voting area has more than doubled--
+increasing from 17 in 2000 to 38 states in 2008. In addition to 
+specifying standards, since 2000, more states have required polling 
+places to be inspected and local jurisdictions to submit inspection 
+reports to the state to help ensure the accessibility of polling 
+places. Like the accessibility standards, these practices can also vary 
+from state to state. For example, according to its Election Procedures 
+Manual, Arizona requires counties to inspect polling places before each 
+election or to have provisions that counties be contacted if a polling 
+place is altered prior to an election. In contrast, Wisconsin recently 
+revised its accessibility survey and requires all local jurisdictions 
+to conduct their inspections on a primary Election Day so that state 
+and local officials can evaluate the accessibility of polling places 
+during an election. 
+
+Figure 11: State Requirements Concerning the Accessibility of Polling 
+Places, as of Election Days 2000 and 2008: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+State requirement: Polling place accessibility standards; 
+Number of states, 2000: 23; 
+Number of states, 2008: 43. 
+
+State requirement: Accommodation of wheelchairs in voting areas; 
+Number of states, 2000: 17; 
+Number of states, 2008: 38. 
+
+State requirement: Inspection of polling place accessibility; 
+Number of states, 2000: 15; 
+Number of states, 2008: 34. 
+
+State requirement: Reporting by local jurisdictions to the state on 
+polling place accessibility; 
+Number of states, 2000: 10; 
+Number of states, 2008: 29. 
+
+Source: GAO analysis of data from its 2000 and 2008 surveys of state 
+election officials. 
+
+[End of figure] 
+
+Figure 12: Example of State Guidance for Setting Up the Voting Room in 
+the Polling Place and for Placement of the Accessible Voting Machine: 
+
+[Refer to PDF for image: illustration of voting room] 
+
+Source: Maine, Department of the Secretary of State, Division of 
+Elections. 
+
+[End of figure] 
+
+Most states reported using HAVA funds or a combination of HAVA and 
+state funds to support a variety of activities designed to facilitate 
+voting for people with disabilities. In our report on the 2000 
+election, we found limited funding was one of the main barriers that 
+most state officials faced in improving voting accessibility, 
+especially in providing accessible voting systems and, in some cases, 
+making temporary or permanent modifications to polling places to make 
+them accessible.[Footnote 35] However, with the availability of HAVA 
+funding since that time, most state officials reported on our survey 
+that they used HAVA funds or a combination of HAVA and state funds to 
+help improve accessibility in these areas. The majority of states (45) 
+reported spending or obligating HAVA funds and, in some cases, also 
+using state funds to enhance physical access to polling places. For 
+example, election officials in Nebraska reported spending HAVA funds to 
+evaluate the accessibility of polling places throughout the state and 
+to ensure they were compliant with ADA standards. Furthermore, 39 
+states reported obligating or spending HAVA funds or a combination of 
+HAVA and state funds to improve voting systems and technology.[Footnote 
+36] For example, Minnesota used HAVA funds to buy ballot-marking 
+machines so that voters with disabilities could mark regular paper 
+ballots privately and independently and to develop instructional videos 
+on how to use the machines. 
+
+Even though states have taken actions to make the voting process more 
+accessible, many states reported that it was very or moderately 
+challenging to implement certain aspects of HAVA's voting access 
+requirements. According to our state survey, 31 states reported that 
+ensuring polling place accessibility was very or moderately 
+challenging. (See table 4.) For example, one area in California 
+reported that it was challenging to find enough accessible polling 
+places in some rural communities because limited accessible buildings 
+are available. Additionally, 24 states reported that it was very or 
+moderately challenging to purchase DREs or other accessible voting 
+systems. For example, several states said that it was difficult to buy 
+accessible systems because of EAC's delay in certifying voting systems. 
+[Footnote 37] 
+
+Table 4: State Challenges in Implementing Various Aspects of HAVA: 
+
+Aspect of implementing HAVA[A]: Ensuring polling place accessibility; 
+Number of states: Very or moderately challenging: 31; 
+Number of states: Slightly challenging: 16; 
+Number of states: Not challenging: 3; 
+Number of states: State has not done this: 1. 
+
+Aspect of implementing HAVA[A]: Purchasing DREs or other accessible 
+voting systems; 
+Number of states: Very or moderately challenging: 24; 
+Number of states: Slightly challenging: 8; 
+Number of states: Not challenging: 15; 
+Number of states: State has not done this: 4[B]. 
+
+Aspect of implementing HAVA[A]: Providing guidance to counties, cities, 
+or local entities for HAVA--required voting access activities for 
+people with disabilities; 
+Number of states: Very or moderately challenging: 20; 
+Number of states: Slightly challenging: 18; 
+Number of states: Not challenging: 12; 
+Number of states: State has not done this: 1. 
+
+Aspect of implementing HAVA[A]: Securing HAVA funding for the state; 
+Number of states: Very or moderately challenging: 19; 
+Number of states: Slightly challenging: 13; 
+Number of states: Not challenging: 17; 
+Number of states: State has not done this: 0. 
+
+Aspect of implementing HAVA[A]: Disseminating HAVA funding to counties, 
+cities, or local entities; 
+Number of states: Very or moderately challenging: 16; 
+Number of states: Slightly challenging: 12; 
+Number of states: Not challenging: 11; 
+Number of states: State has not done this: 10. 
+
+Source: GAO analysis of data from its 2008 survey of state election 
+officials. 
+
+Note: Data include the 50 states and the District of Columbia, but not 
+all states answered every survey question. 
+
+[A] These are not necessarily requirements of HAVA, but are actions 
+states may have taken to implement accessibility provisions of HAVA. 
+
+[B] As we reported in our report on the 2004 election, in some sates, 
+local jurisdictions are responsible for buying voting systems. 
+
+[End of table] 
+
+All States Offered Alternative Methods Or Accommodations for Voting on 
+or before Election Day: 
+
+In addition to efforts to ensure polling place accessibility, most 
+states offered alternative voting methods, such as absentee voting, 
+that could help facilitate voting options for people with disabilities. 
+All states offered absentee voting as an option, although 26 states 
+reported on our survey that they required voters to meet at least one 
+of several reasons--typically referred to as an "excuse"--to be 
+eligible to vote via absentee ballot, such as having a disability, 
+being elderly, or being absent from the jurisdiction (see table 5). 
+[Footnote 38] However, the number of states that allow absentee voting 
+without requiring that voters provide a reason has increased slightly 
+since the 2000 election, from 18 states to 24 states in 2008. Of the 43 
+states that reported requiring local jurisdictions to offer in-person 
+absentee voting, 40 states required that locations used for in-person 
+absentee voting abide by the same accessibility provisions and 
+accommodations as Election Day polling places. In addition to absentee 
+voting, all 23 states that reported that they required or allowed local 
+jurisdictions to offer early voting also required early voting 
+locations to meet the same HAVA and state accessibility requirements as 
+Election Day polling places. 
+
+Table 5: Examples of Reasons That Some States Permitted for Absentee 
+Voting: 
+
+Eligible reason for absentee voting: Unable to get to the polls due to 
+illness or disability; 
+Number of states, as of 2008 election: 22. 
+
+Eligible reason for absentee voting: Being absent from jurisdiction on 
+Election Day; 
+Number of states, as of 2008 election: 22. 
+
+Eligible reason for absentee voting: Being hospitalized; 
+Number of states, as of 2008 election: 20. 
+
+Eligible reason for absentee voting: Residing in a long-term care 
+facility; 
+Number of states, as of 2008 election: 12. 
+
+Eligible reason for absentee voting: Being elderly; 
+Number of states, as of 2008 election: 10. 
+
+Source: GAO analysis of data from its 2008 survey of state election 
+officials. 
+
+Note: Data include the 50 states and the District of Columbia, but not 
+all states answered every survey question. 
+
+[End of table] 
+
+Some states required polling places to provide other accommodations for 
+voters with disabilities, such as curbside voting and audio or visual 
+aids, although fewer states required some of these accommodations in 
+2008 than in 2000. According to our state survey, the number of states 
+that required curbside voting decreased from 28 states in 2000 to 23 
+states in 2008 (see figure 13). Likewise, the number of states that 
+required staff in local jurisdictions to take a ballot to the residence 
+of a voter with a disability who needed assistance on or before 
+Election Day decreased from 21 states in 2000 to only 9 states in 2008. 
+These practices may have declined because more states have taken 
+actions to make polling places accessible since the 2000 election, and 
+more states reported allowing people to vote absentee without having to 
+meet specific criteria. See appendix V for a comparison of state 
+requirements, accommodations, and voting alternatives from our 2000, 
+2004, and 2008 surveys. 
+
+Figure 13: Accommodations That States Required Local Jurisdictions to 
+Offer to Voters with Disabilities, as of Election Days 2000 and 2008: 
+
+[Refer to PDF for image: vertical bar graph] 
+
+Accommodation to voter: Curbside voting available on Election Day; 
+Number of states, 2000: 28; 
+Number of states, 2008: 23. 
+
+Accommodation to voter: Provision of magnifying instruments; 
+Number of states, 2000: 7; 
+Number of states, 2008: 12. 
+
+Accommodation to voter: Provision of ballots with larger type; 
+Number of states, 2000: 2; 
+Number of states, 2008: 11. 
+
+Accommodation to voter: Ballot taken to voter’s residence on Election 
+Day; 
+Number of states, 2000: 21; 
+Number of states, 2008: 9. 
+
+Accommodation to voter: Provision of ballot or methods of voting in 
+Braille; 
+Number of states, 2000: 3; 
+Number of states, 2008: 6. 
+
+Source: GAO analysis of data from its 2000 and 2008 surveys of state 
+election officials. 
+
+Note: Data include the 50 states and the District of Columbia, but not 
+all states answered every survey question. 
+
+[End of figure] 
+
+Justice Assessed States' Implementation of HAVA Requirements for the 
+2006 Deadline, But Its Current Oversight Has Some Gaps: 
+
+Justice provided guidance on polling place accessibility and conducted 
+an initial assessment of states' compliance with HAVA's January 2006 
+deadline for accessible voting systems. Since then, Justice's oversight 
+of HAVA's access requirements is part of two other enforcement efforts, 
+but gaps remain. Justice currently conducts polling place observations 
+for federal elections that identify whether an accessible voting system 
+is in place, but it does not systematically assess the physical 
+accessibility of polling places or the level of privacy and 
+independence provided to voters with disabilities. Justice also 
+conducts a small number of annual community assessments of ADA 
+compliance of public buildings, which includes buildings designated as 
+polling places. However, these assessments do not provide a national 
+perspective on polling place accessibility or assess any special 
+features of voting areas and accessible voting systems that are set up 
+only on Election Day. 
+
+During Early HAVA Implementation, Justice Provided Some Technical 
+Assistance and Assessed States' Compliance with Voting System 
+Requirements: 
+
+From shortly after the passage of HAVA until 2006, Justice officials 
+said they conducted educational outreach on HAVA voting system 
+requirements. Justice provided guidance on the new HAVA voting system 
+requirements, while the EAC, which was authorized by HAVA to develop 
+guidance and serve as a clearinghouse for election information, was 
+being formed. During this time, Justice officials said they made a 
+considerable effort to educate state and local election officials and 
+national organizations representing election officials and people with 
+disabilities on HAVA voting system requirements. For this effort, 
+Justice officials met with state and local election officials across 
+the country and gave presentations on HAVA requirements at National 
+Association of Secretaries of State and National Association of State 
+Election Directors meetings. In addition, Justice provided information 
+about HAVA voting system requirements on its Web site and posted 
+answers to frequently asked questions. Justice also provided informal 
+responses to questions from state election officials on specific 
+aspects of HAVA voting system requirements. In one response, Justice 
+stated that a HAVA-compliant voting system requires both the voting 
+system and polling place to be accessible to people with 
+disabilities.[Footnote 39] Furthermore, the EAC, in consultation with 
+Justice, developed an advisory opinion stating that a HAVA-compliant 
+voting system should be accessible to people with disabilities (as 
+defined by the ADA), which includes not just the technical features of 
+the voting system, but configuring the system to allow people with 
+disabilities to vote privately and independently. 
+
+As part of these early efforts, Justice provided guidance to poll 
+workers on how to assess and create a physically accessible polling 
+place. In 2004, Justice published the Americans with Disabilities Act: 
+ADA Checklist for Polling Places, which provided information to voting 
+officials on key accessibility features needed by most voters with 
+disabilities to go from the parking area to the voting area. The 
+checklist also describes how to take measurements of sloped surfaces, 
+door openings, ramps, and other features to help identify potential 
+impediments and suggest possible alternatives and temporary 
+modifications. Justice officials said they have distributed 16,000 
+copies of the Americans with Disabilities Act: ADA Checklist for 
+Polling Places, primarily to advocacy groups and state and local 
+election officials, and received over 80,000 hits on its Web site since 
+the checklist was released in February 2004. According to our survey, 
+34 states found the checklist to be moderately to very helpful and 
+several state election officials with whom we spoke said they used it 
+to develop their own state assessments of polling place accessibility. 
+While the checklist provides limited guidance on accessibility features 
+within the voting area, it does not provide information about the 
+configuration of the voting system--such as positioning the voting 
+system in such a way as to allow a person using a wheelchair to vote 
+privately and independently. 
+
+In 2005, the EAC adopted Voluntary Voting System Guidelines, which 
+include accessibility standards that specify the configuration of the 
+voting station to accommodate people using a wheelchair.[Footnote 40] 
+The main purpose of these guidelines is to develop technical 
+specifications and standards for voting systems for national testing 
+and certification. HAVA does not require adoption of the guidelines at 
+the state level, although states may choose to adopt the guidelines and 
+make them mandatory in their jurisdictions. While these guidelines are 
+used to specify voting system testing standards, EAC officials told us 
+that user-friendly guidance targeted to poll workers on HAVA voting 
+system requirements, polling place accessibility, and voting assistance 
+to people with disabilities is needed. 
+
+In addition to early guidance, Justice also conducted an initial 
+assessment of states' progress toward meeting the January 2006 deadline 
+for compliance with HAVA voting system requirements. In 2003, Justice 
+sent letters to state election officials summarizing HAVA voting system 
+requirements. Justice followed up with letters in 2005 and 2006, which 
+outlined HAVA voting system requirements and asked states to respond to 
+a series of questions to help gauge whether every polling place in the 
+state had at least one accessible voting machine and whether poll 
+workers were trained in the machine's operation. Although states were 
+not required to submit reports to Justice under HAVA, Justice officials 
+said all states responded to the department's letters. Justice 
+officials reviewed state responses and followed up with state 
+officials, sometimes on a weekly basis, if they were not satisfied with 
+the progress being made. Justice also monitored local media outlets and 
+state election and procurement Web sites and consulted with national 
+disability groups, election organizations, and local advocacy groups to 
+independently verify information provided by states. If Justice 
+determined that sufficient progress toward HAVA voting system 
+compliance was not being made, it initiated investigations and, in two 
+cases, pursued litigation when all other options were exhausted. 
+Justice filed complaints against New York and Maine in 2006, in part 
+because these states had not made sufficient progress in purchasing and 
+implementing HAVA accessible voting systems. Since then, according to 
+Justice, both Maine and New York acquired and implemented HAVA 
+accessible voting systems for the November 2008 federal election. 
+Justice officials told us that their assessment of HAVA voting system 
+requirements was part of an initial effort to ensure that all states 
+had accessible voting systems by the required January 1, 2006, 
+deadline. 
+
+Justice's Current Monitoring of Polling Place Accessibility Has Some 
+Gaps: 
+
+Once the 2006 deadline passed and all states reported having accessible 
+voting systems, Justice continued only limited oversight of HAVA voting 
+system requirements and polling place accessibility, as part of two 
+ongoing enforcement efforts. These limited efforts leave gaps in 
+ensuring voting accessibility for people with disabilities. For 
+example, Justice supervises polling place observations for federal 
+elections on Election Day to primarily assess compliance with the 
+Voting Rights Act of 1965; however, some limited observations on other 
+federal voting statues, such as HAVA, are also included. Specifically, 
+polling place observers look for accessible voting systems and assess 
+whether poll workers are trained in their operation. In calendar year 
+2008, 1,060 federal observers and 344 Justice staff members observed 
+114 elections in over 75 jurisdictions covering 24 states.[Footnote 41] 
+For such efforts, Justice officials select polling places where they 
+believe there may be a problem, on the basis of negative news coverage, 
+complaints received, or information provided by election officials. 
+Information from polling place observations can provide evidence for an 
+ongoing investigation or lawsuit. Justice sometimes initiates 
+investigations on the basis of complaints and other information 
+received. In some cases, the information may also be used to initiate a 
+matter if an investigation has not already been opened. Justice 
+officials told us that, as part of their Election Day 2008 
+observations, they came across some polling places where accessible 
+voting machines were not turned on or poll workers were unable to 
+operate the accessible machine. However, based on our Election Day 
+assessments, the potential impediments and challenges for voters with 
+disabilities to access and cast a ballot on accessible voting systems 
+may be more common than what Justice officials said they found through 
+their observations. Importantly, Justice did not systematically assess 
+the physical accessibility of the polling places or the level of 
+privacy and independence provided to people with disabilities by the 
+accessible voting system, which limits the department's ability to 
+identify potential accessibility issues facing voters with 
+disabilities. 
+
+In addition, Justice officials said they annually initiate a small 
+number of community assessments of ADA compliance in public buildings, 
+including buildings designated as polling places, but these assessments 
+include a small portion of polling places nationwide and are generally 
+not conducted on Election Day. According to Justice, these assessments--
+called Civic Access assessments--can be resource-intensive, which, in 
+part, may limit the number that the department can complete in a given 
+year. Justice initiated three Civic Access assessments in calendar year 
+2008. Justice selects communities for Civic Access assessments on the 
+basis of a number of characteristics within a community, including size 
+of the disability community, geographic location, complaints received 
+from citizens and advocacy groups, and proximity to a university or 
+tourist attraction--which, according to Justice officials, might 
+attract people with disabilities from outside of the community. In 
+planning for the assessment, Justice requests information from the 
+communities about their polling places, such as their locations, 
+modifications made on election days, and steps taken to make polling 
+places accessible. The on-site reviews assess as many polling places as 
+possible within the scope of the overall review. Justice officials said 
+they prioritize polling places for assessments on the basis of 
+geographic location, proximity to other buildings targeted for 
+assessment in the review, and extent of public use of the facility for 
+any purpose. To conduct on-site reviews--which typically take 1 to 3 
+weeks to complete--Justice deploys teams of attorneys, architects, and 
+investigators to take measurements of a variety of public buildings. 
+Afterwards, Justice compiles a list of physical barriers and 
+impediments for people with disabilities found during the on-site 
+review. Then Justice generally negotiates and enters into a settlement 
+agreement with the election jurisdiction, which includes 
+recommendations for improvements, a time frame for implementing needed 
+changes, and requirements for reporting and documentation. Between 2000 
+and 2008, Justice entered into 161 Civic Access settlement agreements, 
+of which, 69 contained one or more recommendations aimed at polling 
+place provisions. However, given the small number of Civic Assess 
+assessments conducted annually, the information on polling place 
+accessibility does not provide a national perspective on polling place 
+accessibility. In addition, since these assessments are not conducted 
+during elections, they do not assess any special features of voting 
+areas and accessible voting systems that are set up only on Election 
+Day. 
+
+Conclusions: 
+
+State and local election officials across the country took a 
+considerable step toward improving voting access for people with 
+disabilities by having accessible voting systems at virtually every 
+polling place we visited on Election Day 2008. These voting systems 
+have been significant in enabling some Americans with disabilities to 
+vote privately and independently at their neighborhood polling place 
+for the first time. This also shows that Justice's efforts to assess 
+states' implementation of HAVA voting system requirements achieved the 
+desired outcome of ensuring that polling places had at least one 
+accessible voting system. Despite these significant efforts, voters 
+with disabilities may have had difficulty casting a ballot on these 
+systems because the majority of polling places still had one or more 
+potential impediments that could prevent a voter with a disability from 
+even getting to the accessible voting system. Furthermore, in close to 
+half of polling places, the accessible voting system itself could pose 
+challenges for voters with disabilities to vote privately or 
+independently. If these conditions continue, there may be some voters 
+with disabilities who will experience frustration and dissatisfaction 
+with the voting process on future election days, while others could be 
+discouraged from voting entirely. 
+
+Ensuring that voters with disabilities can successfully vote privately 
+and independently requires government to think broadly about access: 
+how voters will arrive at the polling place, enter and move through the 
+building, and cast a ballot using an accessible voting system. For 
+example, just taking an accessible voting system out of its case and 
+setting it up on any voting station is not enough if a voter using a 
+wheelchair cannot reach it. Although Justice's Americans with 
+Disabilities Act: ADA Checklist for Polling Places has been widely 
+distributed and is considered helpful by states, it only includes 
+limited information on creating an accessible voting area and does not 
+have guidance on configuring voting systems for people with 
+disabilities. In addition, Justice's current oversight of HAVA voting 
+system requirements and polling place accessibility does not address 
+all aspects of voting access. Without monitoring that focuses on the 
+broad spectrum of voting accessibility for people with disabilities, it 
+will be difficult for Justice to ensure it is meeting its oversight 
+duties under HAVA and other federal voting statutes and to know whether 
+voters with disabilities are being well-served. We acknowledge that 
+extensive monitoring of polling place accessibility could be a costly 
+and challenging undertaking. However, Justice already demonstrated its 
+ability to leverage resources when it worked with states, disability 
+advocacy organizations, and others to conduct its initial assessment of 
+states' implementation of HAVA voting system requirements. As the 
+proportion of older Americans increases, the number of people with 
+disabilities will also likely continue to grow, and it will become even 
+more important to ensure that voting systems are accessible to all 
+eligible voters. 
+
+Recommendation for Executive Action: 
+
+To identify and reduce the number of potential impediments and other 
+challenges at polling places that might hinder or detract from the 
+voting experience for people with disabilities, we recommend that the 
+Department of Justice look for opportunities to expand its monitoring 
+and oversight of the accessibility of polling places for people with 
+disabilities in a cost-effective manner. This effort might include the 
+following activities: 
+
+* working with states to use existing state oversight mechanisms and 
+using other resources, such as organizations representing election 
+officials and disability advocacy organizations, to help assess and 
+monitor states' progress in ensuring polling place accessibility, 
+similar to the effort used to determine state compliance with HAVA 
+voting system requirements by the 2006 deadline; 
+
+* expanding the scope of Election Day observations to include an 
+assessment of the physical access to the voting area and the level of 
+privacy and independence being offered to voters with disabilities by 
+accessible voting systems; and: 
+
+* expanding the Americans with Disabilities Act: ADA Checklist of 
+Polling Places to include additional information on the accessibility 
+of the voting area and guidance on the configuration of the accessible 
+voting system to provide voters with disabilities with the same level 
+of privacy and independence as is afforded to other voters. 
+
+Agency Comments and Our Evaluation: 
+
+We provided a draft of this report to Justice, EAC, and HHS for review 
+and comment. Justice generally agreed with our recommendation to expand 
+its monitoring and oversight of accessibility of polling places for 
+people with disabilities in a cost-effective manner, although it had 
+some concerns about specific activities we suggested as part of this 
+recommendation. Specifically, Justice generally agreed with our 
+suggestion to work with states to use existing state oversight 
+mechanisms and other resources to help assess and monitor states' 
+progress in ensuring polling place accessibility, similar to the effort 
+it undertook shortly after HAVA was enacted. Justice said that it can 
+look for opportunities to enhance educational efforts to states and 
+gather some additional information to assess state accessibility 
+programs, and work with election officials and disability rights 
+organizations to stress the importance of polling place accessibility 
+and ask for their assistance in improving compliance with federal 
+requirements related to accessibility, but said that it is unlikely to 
+have the resources for a comprehensive undertaking similar to its 
+earlier effort. Justice also generally agreed with our recommendation 
+to expand the scope of the Americans with Disabilities Act: ADA 
+Checklist for Polling Places to provide additional information on 
+ensuring the accessibility of the voting area and include guidance on 
+the configuration of the accessible voting system. 
+
+Justice expressed concerns about our suggestion to expand the scope of 
+Election Day observations to include an assessment of the physical 
+access to the voting area and the level of privacy and independence 
+being offered to voters with disabilities by accessible voting systems. 
+In particular, it had concerns about shifting the focus of the federal 
+observer program from its primary purpose of ensuring compliance with 
+the Voting Rights Act of 1965, and not having the resources to train 
+and deploy observers to conduct extensive assessments of polling places 
+on Election Day. At the same time, Justice said that it will continue 
+to have Election Day observers and monitors note whether polling places 
+have an accessible voting system and will consider incorporating some 
+additional questions such as observing whether the accessible voting 
+system appears to be situated in a way that voters can use the system 
+privately and independently. In response, we believe that the actions 
+we suggest to expand Justice's monitoring and oversight activities are 
+consistent with the agency's stated function. As laws are enacted and 
+revised to support voting accessibility, Justice can be positioned to 
+fully meet its duties by modifying its assessment approaches. That 
+stated, we believe that incorporating additional questions such as 
+these would satisfy our recommendation and could be done without adding 
+significant work and interfering with the primary purpose of the 
+Election Day observer program. Justice also provided technical 
+comments, which we incorporated as appropriate. 
+
+The EAC expressed appreciation for our research and said that the 
+report will be a valuable resource for the EAC and election officials 
+as they continue to develop, implement, and evaluate effective election 
+administration practices regarding voting accessibility. It also 
+identified some of the resources that the EAC has made available to 
+election officials and the public regarding voting accessibility, and 
+stated that it will continue to work in collaboration with election 
+officials, experts, and advocacy groups to identify additional 
+resources needed to address this area. HHS said that our findings were 
+consistent with what states have reported and the report highlights 
+concerns that HHS has found for some of its grantees. Written comments 
+from Justice, EAC, and HHS appear in appendixes VI, VII, and VIII. 
+
+As agreed with your offices, unless you publicly announce its contents 
+earlier, we plan no further distribution of this report until 30 days 
+after its issue date. At that time, we will send copies of this report 
+to Justice, EAC, HHS, the U.S. Access Board, and other interested 
+parties. In addition, the report will be made available at no charge on 
+GAO's Web site at [hyperlink, http://www.gao.gov]. 
+
+If you or your staffs have any questions about this report, please 
+contact Barbara D. Bovbjerg at (202) 512-7215 or bovbjergb@gao.gov, or 
+William O. Jenkins at (202) 512-8777 or jenkinswo@gao.gov. Contact 
+points for our Offices of Congressional Relations and Public Affairs 
+may be found on the last page of this report. GAO staff who made major 
+contributions to this report are listed in appendix IX. 
+
+Signed by: 
+
+Barbara D. Bovbjerg: 
+Director, Education, Workforce, and Income Security Issues: 
+
+Signed by: 
+
+William O. Jenkins, Jr. 
+Director, Homeland Security and Justice Issues: 
+
+List of Requesters: 
+
+The Honorable Tom Harkin:
+Chairman:
+Committee on Health, Education, Labor, and Pensions:
+United States Senate: 
+
+The Honorable Herbert Kohl:
+Chairman:
+Special Committee on Aging:
+United States Senate: 
+
+The Honorable Charles E. Schumer:
+Chairman:
+The Honorable Robert Bennett:
+Ranking Member:
+Committee on Rules and Administration:
+United States Senate: 
+
+The Honorable Dianne Feinstein:
+United States Senate: 
+
+[End of section] 
+
+Appendix I: Scope and Methodology: 
+
+Our objectives were to examine (1) the proportion of polling places 
+that have features that might facilitate or impede access to voting for 
+people with disabilities and how these results compare to our findings 
+from the 2000 federal election; (2) the actions states are taking to 
+facilitate voting for people with disabilities; and (3) the steps the 
+Department of Justice (Justice) has taken to enforce the Help America 
+Vote Act of 2002 (HAVA) voting access provisions. To determine the 
+proportion of polling places that have features that might facilitate 
+or impede access to voting for people with disabilities and how these 
+results compared to our 2000 findings, GAO staff visited polling places 
+on Election Day, November 4, 2008, to make observations, take 
+measurements, and conduct short interviews of polling place officials. 
+To obtain information on our first and third objectives, we 
+administered a Web-based survey of election officials in all 50 states, 
+the District of Columbia, and 4 U.S. territories (American Samoa, Guam, 
+Puerto Rico, and the U.S. Virgin Islands).[Footnote 42] For all of our 
+objectives, we interviewed officials at Justice, the Election 
+Assistance Commission (EAC), the Department of Health and Human 
+Services (HHS) and from national organizations that represented 
+election officials and disability advocacy organizations. We also 
+reviewed federal laws, guidance, and other documentation. We conducted 
+our work from April 2008 through September 2009 in accordance with 
+generally accepted government auditing standards. Those standards 
+require that we plan and perform the audit to obtain sufficient, 
+appropriate evidence to provide a reasonable basis for our findings and 
+conclusions based on our audit objectives. We believe that the evidence 
+obtained provides a reasonable basis for our findings and conclusions 
+based on our audit objectives. 
+
+Election Day Polling Place Visits: 
+
+Selection of Polling Places: 
+
+We used a two-stage sampling method to select the polling places that 
+we visited on Election Day, November 4, 2008. In stage 1, we selected a 
+sample of counties. Each county we selected was treated as a "cluster" 
+of polling places. In stage 2, we selected a sample of polling places 
+from within each county. 
+
+Since there is no central list of all of the polling places in the 
+United States, the first stage of our sampling method started with all 
+counties, because most elections are administered at the county level. 
+[Footnote 43] For cost and efficiency reasons, we confined our list of 
+counties to those in the contiguous United States, including the 
+District of Columbia--thus, excluding Alaska and Hawaii. We also 
+excluded Oregon because eligible residents in this state have voted 
+almost exclusively by mail since 1998. The total number of counties 
+from which we sampled was 3,074. The list of county population sizes 
+was constructed from 2005 American Community Survey data. We used 
+jurisdiction total population size to define the probability of 
+selection in the first stage of sampling because these census data were 
+readily available for all counties and county-equivalents. Although it 
+would have been useful to define the sample using national data on all 
+registered voters or all eligible voters, we did not use the numbers of 
+registered voters because Census data on registered voters were not 
+available at the county level nationwide. In addition, we did not use 
+the numbers of eligible voters (individuals 18 years old and over) 
+because Census data allowing us to exclude noncitizens and felons-- 
+groups that are not eligible to vote--from the 18 years and over 
+population also were not available at the county level nationwide. 
+
+Because polling places were the unit of our analysis, we used a 
+sampling method known as probability proportionate to size with 
+replacement. In this method, the probability of selecting any county, 
+or cluster, varies with the size of the county, giving larger counties 
+a greater probability of selection and smaller counties a lower 
+probability. The measure of size is the population of the county 
+divided by the total population of all the states in our sample. Each 
+time a county was selected, we returned it to the sample universe, 
+which gave it an additional chance of being selected. Therefore, it was 
+possible that we could select any one county multiple times in the 
+sample. This method allowed us to select a sample that was 
+representative of polling places across the country on Election Day. 
+Using this sampling method, we selected 84 unique counties in 31 
+states, or the equivalent of 100 counties, with 12 counties being 
+selected more than once.[Footnote 44] 
+
+In the second stage, we selected a random sample of polling places in 
+each county selected in stage one. To do this, we searched the Internet 
+to determine whether each county posted a listing of its polling 
+places. If the information was posted, we downloaded the list.[Footnote 
+45] If not, we contacted county or state officials to obtain a list of 
+polling places. For each county, we selected a random sample of 8 
+polling places for each time the county was selected in our sample. For 
+example, if a county was selected once, we selected 8 polling places, 
+and if a county was selected twice, we selected 16 polling places. 
+Election officials in 79 of 84 unique counties (the equivalent of 94 of 
+100 counties) in our sample granted us permission to visit on Election 
+Day,[Footnote 46] for a total of 746 polling places.[Footnote 47] 
+
+Description of Site Visits and the Data Collection Instrument: 
+
+On Election Day, November 4, 2008, we sent out teams of two GAO staff 
+to each county in our sample.[Footnote 48] Each team was equipped with 
+data collection instruments (DCI) on which to record their observations 
+and the necessary measurement tools: the ADA Accessibility Stick II™ , 
+a fish scale, and a tape measure.[Footnote 49] We monitored the 
+activities of the teams throughout Election Day and provided assistance 
+by telephone from our Washington, D.C., office. 
+
+To ensure uniform data collection across the country, we trained all 
+teams in how to: 
+
+* properly fill out each question on the DCI, 
+
+* use the necessary measurement tools, and: 
+
+* interview the chief poll worker in each polling place about the 
+accessible voting systems as well as accommodations for voters with 
+disabilities. 
+
+See figure 14 for examples of measurements and items for observation 
+that were used to train GAO teams for Election Day visits. We also 
+instructed teams on the appropriate times for visiting polling places 
+and not to approach voters or interfere with the voting process in any 
+way during their visits. 
+
+Figure 14: Examples of Some Measurements and Items for Observation That 
+Were Used to Train GAO Teams for Election Day Visits: 
+
+[Refer to PDF for image: 5 photographs] 
+
+Height of outside elevator call buttons; 
+Height of uneven pavement or door threshold; 
+Voting table with accessible voting machine; 
+Width of inside door; 
+Signs designating route for people with disabilities. 
+
+Source: GAO. 
+
+[End of figure] 
+
+Each GAO team that visited a county on Election Day received a list of 
+up to 8 polling places to visit.[Footnote 50] The first polling place 
+on their list was randomly determined. We then used geocoding software 
+and the address of the polling places to determine the latitude and 
+longitude coordinates for all of the polling places they were scheduled 
+to visit. The latitude and longitude coordinates were used to determine 
+the ordering after the first polling place, which minimized the net 
+travel distance. This geocoding of the addresses allowed the GAO teams 
+to minimize the travel distance between their polling places on 
+Election Day. To maintain the integrity of the data collection process, 
+GAO teams were instructed not to disclose the location of the selected 
+polling places before their visits. 
+
+In some cases, states or counties placed restrictions on our visits to 
+polling places. For example, laws in some states prohibit nonelection 
+officials from entering the voting room or voting area. Election 
+officials in several counties granted us access on the condition that 
+we not interview polling place officials on Election Day, and, in 
+several polling places, officials were too busy assisting voters to be 
+interviewed.[Footnote 51] In these cases, we e-mailed and called chief 
+polling place officials after Election Day to complete the interview. 
+Polling place officials contacted after Election Day were asked the 
+same questions as the officials interviewed on Election Day. Due to the 
+constraints of time and geography, some teams were not able to visit 
+all 8 polling places, but overall, GAO teams were able to visit 98 
+percent of the randomly selected polling places, or 730 of 746 polling 
+places in 79 counties across 31 states. 
+
+GAO teams used a DCI that was similar to the one used in our 2000 study 
+of polling places to record observations and measurements taken inside 
+and outside of the polling place and to capture responses from our 
+interviews with chief polling place officials. However, we updated the 
+DCI on the basis of changes that have occurred in federal laws and 
+guidance since 2000. The primary sources we used to determine the most 
+current requirements and standards for evaluating polling place 
+accessibility were the voting system requirements specified in HAVA
+[Footnote 52] and polling place accessibility guidance in the Americans 
+with Disabilities Act: ADA Checklist for Polling Places, issued by the 
+Department of Justice in 2004.[Footnote 53] In addition, disability 
+advocates and representatives of the U.S. Access Board reviewed a draft 
+version of our DCI, and we incorporated their comments as appropriate. 
+We also received input from officials at Justice and the EAC and from 
+national organizations that represented election officials. Finally, to 
+ensure that GAO teams could fill out the instrument in the field and 
+complete it in a reasonable amount of time, we pretested the DCI during 
+the presidential primary election in South Dakota in June 2008 and 
+during the congressional primary election in Wisconsin in September 
+2008. 
+
+Analysis of Election Day Data: 
+
+In analyzing the data collected on Election Day, we first examined 
+features that might facilitate or impede access on the path to the 
+voting area.[Footnote 54] In doing so, we looked at features at four 
+different locations at the polling place: the parking area, the path 
+from the parking area to the building entrance, the building entrance, 
+and the path from the building entrance to the voting area. These 
+features included the following: 
+
+* Slope of ramps or cut curbs along the path are no steeper than 1:12. 
+
+* Surface is paved or has no abrupt changes over ½ inch. 
+
+* Doorway threshold does not exceed ½ inch in height. 
+
+* Single-or double-door openings are 32 inches or more wide. 
+
+Therefore, the percentage of polling places cited as having one or more 
+potential impediments was based on whether a polling place was found to 
+have at least one feature that might impede access to voting in any of 
+the four locations we examined and does not include potential 
+impediments associated with the voting area itself. 
+
+While features of the voting area were not included in our summary 
+measure of whether a polling place had a potential impediment, we did 
+look for features that might facilitate or impede private and 
+independent voting inside the voting area. We identified the types of 
+voting methods available to voters with and without disabilities and 
+took measurements of the voting station or table used by people with 
+disabilities to determine whether wheelchairs could fit inside the 
+station or under the table and whether equipment was within reach for 
+wheelchair users. We collected information on the accessible voting 
+systems required under HAVA to determine the extent to which the system 
+had features that might facilitate voting for people with disabilities 
+and allow them to vote privately and independently. We also briefly 
+interviewed chief poll workers at most of the polling places we visited 
+to find out whether curbside voting was available and how the poll 
+workers would handle voter requests for assistance from a friend, 
+relative, or election official. 
+
+Sampling Errors: 
+
+All sample surveys are subject to sampling error, which is the extent 
+to which the survey results differ from what would have been obtained 
+if the whole universe of polling places had been observed. Measures of 
+sampling error are defined by two elements--the width of the confidence 
+interval around the estimate (sometimes called precision of the 
+estimate) and the confidence level at which the interval is computed. 
+The confidence interval refers to the range of possible values for a 
+given estimate, not just a single point. This interval is often 
+expressed as a point estimate, plus or minus some value (the precision 
+level). For example, a point estimate of 75 percent plus or minus 5 
+percentage points means that the true population value is estimated to 
+lie between 70 percent and 80 percent, at some specified level of 
+confidence. 
+
+The confidence level of the estimate is a measure of the certainty that 
+the true value lies within the range of the confidence interval. We 
+calculated the sampling error for each statistical estimate in this 
+report at the 95-percent confidence level and present this information 
+throughout the report. 
+
+Survey of States, District of Columbia, and Territories: 
+
+To learn more about states' actions to facilitate voting access and 
+perspectives on Justice's oversight of HAVA voting access provisions, 
+we administered a Web-based survey of officials responsible for 
+overseeing elections from the 50 states, the District of Columbia, and 
+4 U.S. territories (American Samoa, Guam, Puerto Rico, and the U.S. 
+Virgin Islands). Survey topics included (1) state requirements and 
+policies for early voting, absentee voting, and voter identification; 
+(2) state voting accommodations for people with disabilities; (3) state 
+funding and experiences implementing HAVA voting access requirements; 
+(4) level of interaction with Justice officials and usefulness of 
+Justice guidance; and (5) state and local actions to facilitate voting 
+in long-term care facilities. The survey was conducted using a self- 
+administered electronic questionnaire posted on the Web. We collected 
+the survey data between December 2008 and February 2009. We received 
+completed surveys from all 50 states, 4 territories, and the District 
+of Columbia, for a 100-percent response rate. 
+
+Because this was not a sample survey, there are no sampling errors. 
+However, the practical difficulties of conducting any survey may 
+introduce nonsampling errors, such as variations in how respondents 
+interpret questions and their willingness to offer accurate responses. 
+To minimize nonsampling errors, we pretested draft survey instruments 
+with state election officials in Kansas, Virginia, and Wisconsin to 
+determine whether (1) the survey questions were clear, (2) the terms 
+used were precise, (3) respondents were able to provide the information 
+we were seeking, and (4) the questions were unbiased. We made changes 
+to the content and format of the questionnaire on the basis of pretest 
+results. Because respondents entered their responses directly into our 
+database of responses from the Web-based surveys, possibility of data 
+entry errors was greatly reduced. We also performed computer analyses 
+to identify inconsistencies in responses and other indications of 
+error. In addition, a second independent analyst verified that the 
+computer programs used to analyze the data were written correctly. We 
+also searched state election Web sites to illustrate their respective 
+approaches, and obtained and reviewed relevant documentation for 
+selected states. The scope of this work did not include contacting 
+election officials from each state and local jurisdictions to verify 
+survey responses or other information provided by state officials. In 
+addition, we did not analyze states' requirements to determine what 
+they require, but instead relied on the states' responses to our 
+survey.[Footnote 55] 
+
+Federal Officials and Expert Interviews and Review of Documentation: 
+
+To specifically determine what actions Justice has taken to enforce 
+HAVA voting access provisions, we interviewed Justice officials and 
+reviewed relevant federal laws, guidance, and other documentation. 
+Specifically, we spoke with Justice officials in the Voting and 
+Disability Rights Sections of the Civil Rights Division to document 
+Justice's internal process for handling HAVA matters and cases and to 
+review the department's actions to monitor and enforce HAVA voting 
+access provisions (see appendix IV for an overview of this process). We 
+reviewed the Americans with Disabilities Act: ADA Checklist for Polling 
+Places and informal guidance, such as letters responding to state 
+election officials' requests for additional guidance on HAVA voting 
+access requirements. We also reviewed citizen complaints from Election 
+Day 2008 that were provided to us by Justice and all three complaints 
+containing a HAVA voting access claim that Justice has filed against 
+states or election jurisdictions since HAVA was enacted in 2002. 
+
+In addition, to learn more about the federal role in providing 
+assistance and funding to states under HAVA, we interviewed officials 
+from the EAC, HHS, the National Association of Secretaries of State, 
+and the National Association of State Election Directors. 
+
+[End of section] 
+
+Appendix II: List of Counties Randomly Selected for Site Visits on 
+Election Day, November 4, 2008: 
+
+Number of county: selected: 1; 
+County: Allegany[A]; 
+State: Maryland; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 2; 
+County: Allegheny; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 3. 
+
+Number of county: selected: 3; 
+County: Anderson; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 4; 
+County: Anoka; 
+State: Minnesota; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 5; 
+County: Ashland; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 6; 
+County: Bannock; 
+State: Idaho; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 7; 
+County: Berks[A]; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 8; 
+County: Brazoria; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 9; 
+County: Bristol; 
+State: Massachusetts; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 10; 
+County: Broward; 
+State: Florida; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 11; 
+County: Centre; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 12; 
+County: Clarion; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 13; 
+County: Columbiana; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 14; 
+County: Cumberland; 
+State: Maine; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 15; 
+County: Cuyahoga; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 16; 
+County: Dallas; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 17; 
+County: Del Norte; 
+State: California; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 18; 
+County: Denton; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 19; 
+County: Denver; 
+State: Colorado; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 20; 
+County: District of Columbia; 
+State: Washington, D.C.; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 21; 
+County: Douglas; 
+State: Colorado; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 22; 
+County: East Baton Rouge Parish; 
+State: Louisiana; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 23; 
+County: Elkhart; 
+State: Indiana; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 24; 
+County: Estill; 
+State: Kentucky; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 25; 
+County: Fairfax; 
+State: Virginia; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 26; 
+County: Franklin; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 27; 
+County: Franklin[A]; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 28; 
+County: Greenville; 
+State: South Carolina; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 29; 
+County: Gwinnett; 
+State: Georgia; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 30; 
+County: Harris; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 31; 
+County: Hillsborough; 
+State: Florida; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 32; 
+County: Howard; 
+State: Maryland; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 33; 
+County: Huntington; 
+State: Indiana; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 34; 
+County: Indiana; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 35; 
+County: Lafayette; 
+State: Mississippi; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 36; 
+County: Lake; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 37; 
+County: Lancaster; 
+State: Nebraska; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 38; 
+County: Lancaster; 
+State: South Carolina; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 39; 
+County: Lauderdale; 
+State: Alabama; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 40; 
+County: Lincoln; 
+State: Kentucky; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 41; 
+County: Lincoln; 
+State: Maine; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 42; 
+County: Los Angeles; 
+State: California; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 43; 
+County: Macon; 
+State: Illinois; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 44; 
+County: Madison; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 45; 
+County: Mahoning; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 46; 
+County: Maricopa; 
+State: Arizona; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 47; 
+County: Marion; 
+State: Indiana; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 48; 
+County: McPherson; 
+State: Kansas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 49; 
+County: Medina; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 50; 
+County: Miami-Dade; 
+State: Florida; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 51; 
+County: Middlesex; 
+State: Massachusetts; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 52; 
+County: Mitchell; 
+State: Georgia; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 53; 
+County: Monmouth; 
+State: New Jersey; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 54; 
+County: Monterey; 
+State: California; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 55; 
+County: Montgomery; 
+State: Maryland; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 56; 
+County: New York City[B]; 
+State: New York; 
+Number of times county was selected in random sample: 5. 
+
+Number of county: selected: 57; 
+County: Newton; 
+State: Georgia; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 58; 
+County: Ocean; 
+State: New Jersey; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 59; 
+County: Philadelphia[A]; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 60; 
+County: Pima; 
+State: Arizona; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 61; 
+County: Pinellas; 
+State: Florida; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 62; 
+County: Rice; 
+State: Minnesota; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 63; 
+County: Rockford City; 
+State: Illinois; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 64; 
+County: Russell; 
+State: Kansas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 65; 
+County: Sacramento; 
+State: California; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 66; 
+County: San Diego; 
+State: California; 
+Number of times county was selected in random sample: 2. 
+
+Number of county: selected: 67; 
+County: San Luis Obispo; 
+State: California; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 68; 
+County: Santa Clara; 
+State: California; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 69; 
+County: Saratoga; 
+State: New York; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 70; 
+County: Sherburne; 
+State: Minnesota; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 71; 
+County: Stafford; 
+State: Virginia; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 72; 
+County: Stark; 
+State: Ohio; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 73; 
+County: Sullivan[A]; 
+State: New York; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 74; 
+County: Swisher; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 75; 
+County: Travis; 
+State: Texas; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 76; 
+County: Tulsa; 
+State: Oklahoma; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 77; 
+County: Virginia Beach city; 
+State: Virginia; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 78; 
+County: Wake; 
+State: North Carolina; Number of times county was selected in random 
+sample: 1. 
+
+Number of county: selected: 79; 
+County: Washington; 
+State: Utah; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 80; 
+County: Wayne; 
+State: Michigan; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 81; 
+County: Weber; 
+State: Utah; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 82; 
+County: Westmoreland; 
+State: Pennsylvania; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 83; 
+County: Will; 
+State: Illinois; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: 84; 
+County: Yakima; S
+State: Washington; 
+Number of times county was selected in random sample: 1. 
+
+Number of county: selected: Total; 
+Number of times county was selected in random sample: 100. 
+
+Source: GAO. 
+
+Note: We selected counties and cities that are county-equivalents for 
+Census purposes. 
+
+[A] We were not granted permission to visit polling places in this 
+county on Election Day. 
+
+[B] Because New York City manages elections at the city level, we 
+treated it as 1 county when selecting our random sample. 
+
+[End of table] 
+
+[End of section] 
+
+Appendix III: Summary Of Justice Voting Section's Internal Process For 
+Handling HAVA-Related Matters And Cases: 
+
+Within Justice, the Voting Section's internal process for initiating 
+HAVA-related matters and handling cases consists of four phases: 
+initiation, investigation, complaint justification, and litigation. 
+
+Initiation: 
+
+While the Voting Section generally does not receive referrals from 
+other federal agencies, many matters are initiated by allegations from 
+a variety of sources, including citizens, advocacy and community 
+organizations, Members of Congress, U.S. Attorney's Offices, and news 
+articles or through election monitoring. The Voting Section also 
+sometimes initiates matters to monitor private lawsuits and to observe 
+elections. The matter is assigned to an attorney under the supervision 
+of a deputy chief or special litigation counsel for review to determine 
+if further action is warranted. If so, a memorandum is prepared for the 
+section chief and final approval from the Assistant Attorney General or 
+his or her designee is required before an investigation can begin. 
+
+Investigation: 
+
+Once the decision is made to investigate a matter, the section chief 
+will assign a trial attorney, who conducts an investigation. When the 
+investigation is complete, the trial attorney makes a recommendation to 
+the section chief on whether Justice should file a lawsuit, close the 
+matter, or participate in some other manner. The section chief is 
+responsible for making the final decision about closing an 
+investigation authorized by the Assistant Attorney General or 
+recommending a lawsuit or other participation to the Assistant Attorney 
+General. If a referral or allegation of a HAVA violation is not 
+pursued, all appropriate parties are notified, and the matter is 
+closed. 
+
+Complaint Justification: 
+
+If a decision is made to pursue a matter and recommend filing a formal 
+complaint to initiate a lawsuit, then the trial attorney prepares a 
+justification package. An attorney manager and the section chief are 
+responsible for reviewing and approving the justification package. A 
+Deputy Assistant Attorney General reviews the justification package, 
+which is then forwarded to the Assistant Attorney General for final 
+review and approval. The justification package is also sent to the U.S. 
+Attorney's office for the district where the lawsuit is to be filed for 
+review and concurrence. If the justification package is not approved, 
+the trial attorney generally prepares a closing memorandum and notifies 
+the charging party, respondent, and/or referring agency, as 
+appropriate, that Justice is not filing a lawsuit. The matter is then 
+closed. 
+
+Litigation: 
+
+If the justification package is approved, the Civil Rights Division 
+notifies the defendant by letter of Justice's intent to file a lawsuit. 
+After the defendant has been notified, the trial attorney and the 
+defendant often have presuit settlement discussions. If a presuit 
+settlement is reached, a settlement document stating the points of 
+agreement is prepared, reviewed, and approved by the Office of the 
+Assistant Attorney General and signed by all parties. If the presuit 
+settlement discussions do not result in a settlement, the complaint is 
+filed in federal district court and the parties engage in litigation. 
+Filing a complaint and the beginning of legal proceedings do not 
+preclude the trial attorney and defendant from continuing negotiations 
+and reaching a settlement. According to Voting Section officials, 
+defendants often settle prior to, or during, a trial. If a trial is 
+held, the plaintiff or defendant can often appeal the decision. If the 
+decision is appealed, the Voting Section works closely with the 
+Appellate Section of Civil Rights Division, which assumes 
+responsibility for the appeal stage of the case. 
+
+[End of section] 
+
+Appendix IV: List of Potential Features That Might Impede Access to 
+Voting in a Polling Place: 
+
+Location of features that might impede access to voting in a polling 
+place: 
+
+Parking area: One or more ramps or cut curbs steeper than 1:12[B]; 
+2000 Percentage[A]: [C]; 
+2008 Percentage: 24.0%; 
+2008: Lower bound (LB): 18.5%; 
+2008: Upper bound (UB): 29.5%. 
+
+Parking area: No designated parking for people with disabilities; 
+2000 Percentage[A]: 32.2%; 
+2008 Percentage: 3.3; 
+2008: Lower bound (LB): 1.6; 
+2008: Upper bound (UB): 6.0. 
+
+Parking area: One or more unramped or uncut curbs[ B]; 
+2000 Percentage[A]: 8.1; 
+2008 Percentage: 2.6; 
+2008: Lower bound (LB): 1.5; 
+2008: Upper bound (UB): 4.3. 
+
+Parking area: No parking for any voters; 
+2000 Percentage[A]: 1.2; 
+2008 Percentage: 0.6; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 2.2. 
+
+Parking area: One or more unramped or uncut curbs <36 inches wide[B]; 
+2000 Percentage[A]: 0.1; 
+2008 Percentage: 0.5; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 1.4. 
+
+Parking area: Other potential impediments in parking lot; 
+2000 Percentage[A]: 4.1; 
+2008 Percentage: 8.2; 
+2008: Lower bound (LB): 6.0; 
+2008: Upper bound (UB): 11.0. 
+
+Path from parking area to building entrance: Unpaved or poor surface in 
+parking lot or route to building entrance; 
+2000 Percentage[A]: 23.2; 
+2008 Percentage: 23.5; 
+2008: Lower bound (LB): 19.4; 
+2008: Upper bound (UB): 27.7. 
+
+Path from parking area to building entrance: Ramp in path from parking 
+area to building entrance is steeper than 1:12; 
+2000 Percentage[A]: 21.5; 
+2008 Percentage: 16.4; 
+2008: Lower bound (LB): 12.6; 
+2008: Upper bound (UB): 20.8. 
+
+Path from parking area to building entrance: Sidewalk/path is steeper 
+than 1:12[D]; 
+2000 Percentage[A]: 19.6; 
+2008 Percentage: 12.0; 
+2008: Lower bound (LB): 9.0; 
+2008: Upper bound (UB): 15.5. 
+
+Path from parking area to building entrance: Improper or no handrails 
+on ramp; 
+2000 Percentage[A]: 5.8; 
+2008 Percentage: 8.2; 
+2008: Lower bound (LB): 5.3; 
+2008: Upper bound (UB): 12.1. 
+
+Path from parking area to building entrance: No sidewalk/path from 
+parking area to building entrance; 
+2000 Percentage[A]: 8.2; 
+2008 Percentage: 4.2; 
+2008: Lower bound (LB): 2.2; 
+2008: Upper bound (UB): 7.0. 
+
+Path from parking area to building entrance: Ramps in path from parking 
+area to building entrance do not have a level landing at the top and 
+bottom of each section is < 60 inches long; 
+2000 Percentage[A]: [C]; 
+2008 Percentage: 4.0; 
+2008: Lower bound (LB): 2.5; 
+2008: Upper bound (UB): 5.9. 
+
+Path from parking area to building entrance: Leaves, snow, litter in 
+path from parking area to building entrance; 
+2000 Percentage[A]: 1.5; 
+2008 Percentage: 2.0; 
+2008: Lower bound (LB): 1.0; 
+2008: Upper bound (UB): 3.6. 
+
+Path from parking area to building entrance: Sidewalk/path from parking 
+area to building entrance <36 inches wide; 
+2000 Percentage[A]: 1.4; 
+2008 Percentage: 1.5; 
+2008: Lower bound (LB): 0.6; 
+2008: Upper bound (UB): 2.9. 
+
+Path from parking area to building entrance: Ramps in path from parking 
+area to building entrance is < 36 inches wide; 
+2000 Percentage[A]: 0.5; 
+2008 Percentage: 1.4; 
+2008: Lower bound (LB): 0.4; 
+2008: Upper bound (UB): 3.3. 
+
+Path from parking area to building entrance: Steps required in path 
+from parking area to building entrance; 
+2000 Percentage[A]: 7.1; 
+2008 Percentage: 1.3; 
+2008: Lower bound (LB): 0.5; 
+2008: Upper bound (UB): 2.7. 
+
+Path from parking area to building entrance: Other potential 
+impediments in path from parking area to building entrance; 
+2000 Percentage[A]: 9.8; 
+2008 Percentage: 6.4; 
+2008: Lower bound (LB): 3.7; 
+2008: Upper bound (UB): 10.3. 
+
+Building entrance: Doorway threshold exceeds ½ inch in height; 
+2000 Percentage[A]: 37.4; 
+2008 Percentage: 23.3; 
+2008: Lower bound (LB): 16.2; 
+2008: Upper bound (UB): 31.8. 
+
+Building entrance: Single doorway opening is < 32 inches wide; 
+2000 Percentage[A]: 9.6; 
+2008 Percentage: 6.5; 
+2008: Lower bound (LB): 4.4; 
+2008: Upper bound (UB): 9.2. 
+
+Building entrance: Doors that would be difficult for a person using a 
+wheelchair to open; 
+2000 Percentage[A]: 25.7; 
+2008 Percentage: 6.3; 
+2008: Lower bound (LB): 3.7; 
+2008: Upper bound (UB): 9.9. 
+
+Building entrance: Double door opening is <32 inches wide, including 
+situations in which one of the doors cannot be opened; 
+2000 Percentage[A]: 5.0; 
+2008 Percentage: 3.4; 
+2008: Lower bound (LB): 1.7; 
+2008: Upper bound (UB): 6.2. 
+
+Building entrance: Other potential impediments at the building 
+entrance; 
+2000 Percentage[A]: 6.1; 
+2008 Percentage: 4.7; 
+2008: Lower bound (LB): 2.4; 
+2008: Upper bound (UB): 8.4. 
+
+Path from building entrance to voting area: Doorway threshold exceeds ½ 
+inch in height; 
+2000 Percentage[A]: 2.3; 
+2008 Percentage: 3.7; 
+2008: Lower bound (LB): 1.9; 
+2008: Upper bound (UB): 6.3. 
+
+Path from building entrance to voting area: Single doorway opening is < 
+32 inches wide; 
+2000 Percentage[A]: 4.8; 
+2008 Percentage: 3.6; 
+2008: Lower bound (LB): 1.6; 
+2008: Upper bound (UB): 6.9. 
+
+Path from building entrance to voting area: Corridors that do not 
+provide an unimpeded width of at least 36 inches, but can go down to 32 
+inches for two feet; 
+2000 Percentage[A]: 0.9; 
+2008 Percentage: 2.7; 
+2008: Lower bound (LB): 1.1; 
+2008: Upper bound (UB): 5.4. 
+
+Path from building entrance to voting area: Ramp is steeper than 1:12; 
+2000 Percentage[A]: 2.4; 
+2008 Percentage: 2.7; 
+2008: Lower bound (LB): 1.5; 
+2008: Upper bound (UB): 4.4. 
+
+Path from building entrance to voting area: Improper or no handrails on 
+ramp; 
+2000 Percentage[A]: 0.7; 
+2008 Percentage: 1.8; 
+2008: Lower bound (LB): 0.9; 
+2008: Upper bound (UB): 3.2. 
+
+Path from building entrance to voting area: Doors that would be 
+difficult for a person using a wheelchair to open; 
+2000 Percentage[A]: 3.2; 
+2008 Percentage: 0.5; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 1.6. 
+
+Path from building entrance to voting area: Double door opening is <32 
+inches wide, including situations in which one of the doors cannot be 
+opened; 
+2000 Percentage[A]: 1.8; 
+2008 Percentage: 0.5; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 1.6. 
+
+Path from building entrance to voting area: Steps are required to gain 
+access to voting area; 
+2000 Percentage[A]: 2.1; 
+2008 Percentage: 0.5; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 1.5. 
+
+Path from building entrance to voting area: Elevator is not operational 
+or is not properly equipped for people with disabilities; 
+* The elevator is not operational; 2000 Percentage[A]; 
+* The center of the top outside call button in the hall is higher than 
+* The elevator opening is less than 36 inches wide; 
+* The center of the top floor button(s) in the elevator is higher than 
+48 inches from the floor of the elevator; 
+* The panel surrounding the elevator car buttons lacks raised lettering 
+or Braille; 
+* Outside or inside elevator buttons requires a human touch to operate; 
+* The inside elevator car is less than 48 inches by 48 inches; 
+* The elevator is not equipped with audible tones or bells or verbal 
+annunciators that signal each floor as it passes; 
+2000 Percentage[A]: [C]; 
+2008 Percentage: 0.5; 
+2008: Lower bound (LB): 0.1; 
+2008: Upper bound (UB): 1.4. 
+
+Path from building entrance to voting area: One or more ramps that are 
+< 36 inches wide or can go down to 32 inches wide for 2 feet; 
+2000 Percentage[A]: 1.4; 
+2008 Percentage: 0.3; 
+2008: Lower bound (LB): 0.0; 
+2008: Upper bound (UB): 1.5. 
+
+Path from building entrance to voting area: Wheelchair lift or buttons 
+are not proper dimensions; 
+* The lift is not operational or the lift requires a key which is not 
+present; 
+* The outside call button in the hall is higher than 42 inches from the 
+ground or floor; 
+* The lift clear opening is less than 32 inches wide; 
+* There is less than a 30-inch by 48-inch clear floor space on the 
+lift; 
+* The controls and operating mechanisms inside the lift are more than 
+48 inches from the floor of the lift; 
+* Outside or inside lift buttons requires a human touch to operate; 
+* The lift requires a third party to operate; 
+2000 Percentage[A]: [C]; 
+2008 Percentage: 0.3; 2008: 
+Lower bound (LB): 0.0; 2008: 
+Upper bound (UB): 1.1. 
+
+Path from building entrance to voting area: Other potential impediments 
+with corridors; 
+2000 Percentage[A]: 1.0; 
+2008 Percentage: 3.1; 
+2008: Lower bound (LB): 1.3; 
+2008: Upper bound (UB): 6.3. 
+
+Path from building entrance to voting area: Other potential impediments 
+at doorways and entrances; 
+2000 Percentage[A]: 1.3; 
+2008 Percentage: 2.9; 
+2008: Lower bound (LB): 1.6; 
+2008: Upper bound (UB): 4.8. 
+
+Path from building entrance to voting area: Other potential impediments 
+with ramps; 
+2000 Percentage[A]: 0.7; 
+2008 Percentage: 0.2; 
+2008: Lower bound (LB): 0.0; 
+2008: Upper bound (UB): 1.1. 
+
+Source: GAO analysis of polling place data collected on Nov. 7, 2000, 
+and Nov. 4, 2008: 
+
+[A] The margin of error for 2000 data is between 2 to 8 percentage 
+points at the 95-percent confidence level. 
+
+[B] This feature was listed in the path from parking to building 
+entrance in 2000 study. 
+
+[C] We did not measure these items in 2000. We collected data on this 
+item in 2008, following our review based on the Americans with 
+Disabilities Act: ADA Checklist for Polling Places and per interviews 
+with experts. 
+
+[D] We based this measurement on Justice's ADA Standards for Accessible 
+Design, 28 C.F.R. Part 36, Appendix A, which states that any part of an 
+accessible route with a slope greater than 1:20 shall be considered a 
+ramp and the maximum slope of a ramp is 1:12, except in certain cases 
+where space limitations prohibit the use of 1:12 slope or less. 
+
+[End of table] 
+
+[End of section] 
+
+Appendix V: State Requirements for Accessibility of Polling Places, 
+Alternative Voting Methods, and Accommodations to Facilitate Voting: 
+
+Table 6: Summary of Changes in State Requirements Concerning 
+Accessibility of Polling Places from the 2000 to the 2008 General 
+Elections: 
+
+State requirement: Polling place accessibility; Polling place 
+accessibility standards; 
+Number of states: 2000: 23; 
+Number of states: 2004: 41; 
+Number of states: 2008: 43. 
+
+State requirement: Polling place accessibility; Inspections of polling 
+place accessibility; 
+Number of states: 2000: 15; 
+Number of states: 2004: 28; 
+Number of states: 2008: 34. 
+
+State requirement: Polling place accessibility; Reporting by local 
+jurisdictions to the state on polling place accessibility; 
+Number of states: 2000: 10; 
+Number of states: 2004: 32; 
+Number of states: 2008: 29. 
+
+State requirement: Voting booth areas and equipment; 
+Accommodation of wheelchairs in voting areas; 
+Number of states: 2000: 17; 
+Number of states: 2004: 39; 
+Number of states: 2008: 38. 
+
+State requirement: Aids for visually impaired voters; Provision of 
+ballot or methods of voting in Braille; 
+Number of states: 2000: 3; 
+Number of states: 2004: 1; 
+Number of states: 2008: 6. 
+
+Provision of Provision of ballots with large type; 
+Number of states: 2000: 2; 
+Number of states: 2004: 5; 
+Number of states: 2008: 11. 
+
+Provision of Provision of magnifying instruments; 
+Number of states: 2000: 7; 
+Number of states: 2004: 8; 
+Number of states: 2008: 12. 
+
+Sources: Elections: The Nation's Evolving Election System as Reflected 
+in the November 2004 General Election. GAO-06-450, (Washington, D.C.: 
+June 6, 2006) and GAO analysis of data from its 2008 survey of state 
+election officials. 
+
+Note: Not all states answered every question for the surveys we 
+conducted of state officials. 
+
+[End of table] 
+
+Table 7: State Provisions Concerning Accessibility of Polling Places 
+and Accommodations for Individuals with Disabilities as of the November 
+2004 and 2008 Federal Elections: 
+
+Provision: Polling place accessibility standards; 
+Required: 2004: 41; 
+Required: 2008: 43; 
+Allowed: 2004: 6; 
+Allowed: 2008: 6; 
+Not allowed: 2004: 0; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 2; 
+Not addressed: 2008: 0; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 47; 
+Required or allowed: 2008: 49. 
+
+Provision: Inspections of polling place accessibility; 
+Required: 2004: 28; 
+Required: 2008: 34; 
+Allowed: 2004: 16; 
+Allowed: 2008: 11; 
+Not allowed: 2004: 0; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 6; 
+Not addressed: 2008: 4; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 1; 
+Required or allowed: 2004: 44; 
+Required or allowed: 2008: 45. 
+
+Provision: Reporting by local jurisdictions to the state on polling 
+place accessibility; 
+Required: 2004: 32; 
+Required: 2008: 29; 
+Allowed: 2004: 8; 
+Allowed: 2008: 12; 
+Not allowed: 2004: 0; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 9; 
+Not addressed: 2008: 8; 
+Not applicable: 2004: 2; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 40; 
+Required or allowed: 2008: 41. 
+
+Provision: Accommodation of wheelchairs in voting areas; 
+Required: 2004: 39; 
+Required: 2008: 38; 
+Allowed: 2004: 4; 
+Allowed: 2008: 9; 
+Not allowed: 2004: 0; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 7; 
+Not addressed: 2008: 3; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 43; 
+Required or allowed: 2008: 47. 
+
+Provision: Curbside voting available on Election Day; 
+Required: 2004: 17; 
+Required: 2008: 23; 
+Allowed: 2004: 13; 
+Allowed: 2008: 6; 
+Not allowed: 2004: 18; 
+Not allowed: 2008: 12; 
+Not addressed: 2004: 2; 
+Not addressed: 2008: 8; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 8; 
+Required or allowed: 2004: 30; 
+Required or allowed: 2008: 29. 
+
+Provision: Ballot can be taken to voter's residence on or before 
+Election Day; 
+Required: 2004: 5; 
+Required: 2008: 9; 
+Allowed: 2004: 20; 
+Allowed: 2008: 15; 
+Not allowed: 2004: 18; 
+Not allowed: 2008: 14; 
+Not addressed: 2004: 8; 
+Not addressed: 2008: 12; 
+Not applicable: 2004: 0; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 25; 
+Required or allowed: 2008: 24. 
+
+Provision: Notification of voters of any inaccessible polling places; 
+Required: 2004: 16; 
+Required: 2008: 16; 
+Allowed: 2004: 11; 
+Allowed: 2008: 12; 
+Not allowed: 2004: 1; 
+Not allowed: 2008: 1; [Empty];
+Not addressed: 2004: 16; 
+Not addressed: 2008: 20; 
+Not applicable: 2004: 6; 
+Not applicable: 2008[A]: 1; 
+Required or allowed: 2004: 27; 
+Required or allowed: 2008: 28. 
+
+Provision: Provision of ballot or methods of voting in Braille; 
+Required: 2004: 1; 
+Required: 2008: 6; 
+Allowed: 2004: 13; 
+Allowed: 2008: 14; 
+Not allowed: 2004: 2; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 33; 
+Not addressed: 2008: 30; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 30; 
+Required or allowed: 2004: 14; 
+Required or allowed: 2008: 20. 
+
+Provision: Provision of ballots with large type;
+Required: 2004: 5; 
+Required: 2008: 11; 
+Allowed: 2004: 17; 
+Allowed: 2008: 13; 
+Not allowed: 2004: 3; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 26; 
+Not addressed: 2008: 26; 
+Not applicable: 2004: 0; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 22; 
+Required or allowed: 2008: 24. 
+
+Provision: Provision of magnifying instruments; 
+Required: 2004: 8; 
+Required: 2008: 12; 
+Allowed: 2004: 34; 
+Allowed: 2008: 29; 
+Not allowed: 2004: 0; 
+Not allowed: 2008: 0; 
+Not addressed: 2004: 7; 
+Not addressed: 2008: 9; 
+Not applicable: 2004: 1; 
+Not applicable: 2008[A]: 0; 
+Required or allowed: 2004: 42; 
+Required or allowed: 2008: 41. 
+
+Sources: Elections: The Nation's Evolving Election System as Reflected 
+in the November 2004 General Election. GAO-06-450, (Washington, D.C.: 
+June 6, 2006) and GAO analysis of data from its 2008 survey of state 
+election officials. 
+
+Note: Not all states answered every question for the surveys we 
+conducted of state officials. 
+
+[A] For the 2008 survey, we considered state officials' responses as 
+"not applicable" if they checked the "don't know" option for this 
+survey question. 
+
+[End of table] 
+
+Table 8: Changes in State Requirements Concerning Alternative Voting 
+Methods from the 2000 to the 2008 General Elections: 
+
+Methods and accommodations: Absentee voting by mail; 
+Number of states that required or permitted: 2000: 51; 
+Number of states that required or permitted: 2004: 51; 
+Number of states that required or permitted: 2008: 51. 
+
+Methods and accommodations: Permanent absentee voting; 
+Number of states that required or permitted: 2000: 17; 
+Number of states that required or permitted: 2004: 17; 
+Number of states that required or permitted: 2008: Not available. 
+
+Methods and accommodations: Curbside voting on Election Day; 
+Number of states that required or permitted: 2000: 28; 
+Number of states that required or permitted: 2004: 30; 
+Number of states that required or permitted: 2008: 29. 
+
+Methods and accommodations: Ballot can be taken to voter's residence on 
+or before Election Day; 
+Number of states that required or permitted: 2000: 21; 
+Number of states that required or permitted: 2004: 25; 
+Number of states that required or permitted: 2008: 24. 
+
+Methods and accommodations: Early voting; 
+Number of states that required or permitted: 2000: 39[A]; 
+Number of states that required or permitted: 2004: 25; 
+Number of states that required or permitted: 2008: 23. 
+
+Sources: Elections: The Nation's Evolving Election System as Reflected 
+in the November 2004 General Election. GAO-06-450, (Washington, D.C.: 
+June 6, 2006) and GAO analysis of data from its 2008 survey of state 
+election officials. 
+
+Note: Not all states answered every question for the surveys we 
+conducted of state officials. 
+
+[A] In our report on the 2000 general election, we did not identify 
+states that offered early voting as we defined it in our report on the 
+2004 election. Rather, we reported on absentee and early voting 
+together. 
+
+[End of table] 
+
+[End of section] 
+
+Appendix VI: Comments from the Department of Justice: 
+
+U.S. Department of Justice: 
+Civil Rights Division: 	
+Office the Assistant Attorney General: 
+Washington, D.C. 20530: 
+
+September 8, 2009: 
+
+Barbara D. Bovbjerg: 
+Director, Education, Workforce, and Income Security Issues: 
+U.S. Government Accountability Office: 
+441 G Street, N.W. 
+Washington, D.C. 20548: 
+
+Dear Ms. Bovbjerg: 
+
+Thank you for the opportunity to review the final draft of the 
+Government Accountability Office (GAO) report entitled "Voters With 
+Disabilities: Additional Monitoring of Polling Places Could Further 
+Improve Accessibility, GAO-09-941." This draft report was reviewed by 
+the components of the Department of Justice that participated in this 
+review, specifically, the Voting Section and the Disability Rights 
+Section within the Civil Rights Division. This letter constitutes the 
+Department's formal comments, and we request that the GAO include this 
+letter in the final report. 
+
+The Department greatly appreciates the efforts of your staff in 
+examining issues related to the accessibility of polling places 
+throughout the country and in producing this important report. We also 
+appreciate the opportunity to work with your staff on these important 
+issues. The right to vote is fundamental to our democracy and securing 
+access to this right for all eligible voters is one of the highest 
+priorities of this Department, and we take very seriously our 
+obligation to enforce the protections for voters with disabilities 
+found in federal law. 
+
+Before responding directly to the recommendations contained in the 
+draft report, we believe it important to provide some context and 
+discuss briefly the requirements of federal law with regard to 
+accessibility for voters with disabilities and how the Department 
+enforces those requirements, as well as the election observer program 
+established by federal law. Within the Civil Rights Division, certain 
+responsibilities are divided between the Disability Rights Section and 
+the Voting Section. The Disability Rights Section enforces the 
+Americans with Disabilities Act (ADA), which mandates that persons with 
+disabilities have access to public programs, services, and activities, 
+such as voting, and DRS therefore investigates allegations regarding 
+the disability-based denial of access to polling places. The Voting 
+Section enforces several federal laws that have discrete requirements 
+related to voting access by persons with disabilities, including 
+Section 301 of the Help America Vote Act, which requires every polling 
+place in the country to have an accessible voting system in federal 
+elections, through which voters with disabilities can vote privately 
+and independently. 
+
+The Voting Section also coordinates a program that sends federal 
+observers and monitors around the country to observe elections. The 
+federal observer program was established by Sections 3 and 8 of the 
+Voting Rights Act (VRA). The VRA provides for the appointment of 
+federal observers by a federal court or by the Attorney General, in 
+certain defined circumstances, to enforce the statute's prohibitions 
+against voting discrimination on the basis of race, color or minority 
+language status, as well as the Act's requirements that voters who are 
+blind, have other disabilities, or are illiterate can receive the 
+voting assistance they need from a person of their choice. Federal 
+observers are deployed by the Office of Personnel Management (OPM), and 
+are authorized to enter polling places on election day to observe the 
+casting and counting of ballots. These observers provide reports on 
+their activities to the Department of Justice and, as appropriate, to 
+federal courts. At times, the Department has utilized its own personnel 
+to monitor elections where there may be possible violations of the VRA 
+in a particular jurisdiction that is not certified for federal 
+observers, and such monitoring, limited by Department resources, is 
+conducted with the voluntary cooperation of each jurisdiction. There 
+are no provisions under federal law for a systematic program on 
+election day to monitor for polling place accessibility or voting 
+system accessibility. However, the Department, for several years, has 
+asked for both observers and monitors to note briefly, during their 
+election day activities, whether a polling place appears to have a 
+working voting system accessible to persons with disabilities. In 
+addition, in several instances, the Disability Rights Section has 
+deployed its own limited personnel to undertake election day 
+observations of the physical accessibility of polling places in a given 
+jurisdiction. 
+
+GAO's draft report recommends that the Department "look for 
+opportunities to expand its monitoring and oversight of the 
+accessibility of polling places for people with disabilities in a cost-
+effective manner " The Department agrees generally with this 
+recommendation and will examine ways in which such monitoring and 
+oversight can be accomplished. With regard to the specific 
+recommendations for such opportunities that are included in the draft 
+report, the Department has the following comments: 
+
+Recommendation that the Department work with states to use existing 
+state oversight mechanisms and to use other resources such as 
+organizations representing elections officials and disability rights 
+organizations to help assess and monitor states' progress in ensuring 
+polling place accessibility. 
+
+The Department agrees generally with this GAO recommendation, with some 
+reservations. As the draft report indicates, the Department undertook 
+an extensive effort beginning with the enactment of HAVA in 2002 to 
+educate states regarding the requirements of HAVA, including the voting 
+system accessibility requirements, and to assess the timely compliance 
+of states with these requirements. It is highly doubtful whether the 
+Department can devote the resources to a similarly extensive 
+undertaking in the near future. However, the Department can look for 
+opportunities to enhance its efforts aimed at educating states on their 
+voting accessibility obligations under federal law and gathering some 
+additional information to assess state accessibility programs. The 
+Department can also, in its contacts with election officials and 
+disability rights organizations, stress the importance of polling place 
+accessibility and ask for assistance in improving compliance with 
+federal requirements in this regard. 
+
+Recommendation that the Department expand the ADA Checklist for Polling 
+Places to include guidance on the accessibility of the voting area and 
+the configuration of the accessible voting system to provide voters 
+with disabilities the same level of privacy and independence as 
+afforded to other voters. 
+
+The Department agrees generally with this GAO recommendation and will 
+undertake appropriate revisions to the Department's ADA Checklist for 
+Polling Places to supplement the guidance it provides on the 
+accessibility of the voting area and to include guidance on the 
+configuration of the accessible voting system. 
+
+Recommendation that the Department expand the scope of election day 
+observations to include an assessment of the physical access to the 
+voting area and the level of privacy and independence being offered to 
+voters with disabilities by accessible voting systems. 
+
+The Department has significant concerns with this recommendation. The 
+Department will continue to ask our election day observers and monitors 
+to note whether polling places have a functioning accessible voting 
+system. The Department also will consider whether it can incorporate 
+some additional questions related to accessibility into its existing 
+election day observations. Such questions might include observing 
+whether the accessible voting system appears to be situated in such a 
+way that voters can use the system privately and independently and 
+whether there generally appears to be an accessible path to the voting 
+system. However, the Department has significant concerns that it is not 
+practicable to fully carry out the GAO's recommendation in this regard. 
+
+First, as indicated above, the federal observer program has its 
+derivation in the VRA, and is specifically designed to ensure 
+compliance with the Act's prohibitions of discrimination in voting. 
+Polling places are chosen for observation generally based on statutory 
+criteria and the Department does not have the authority to move the 
+focus of this activity away from its legal basis and its intended 
+function. 
+
+Second, election day observation is very intense from both an effort 
+and resource point of view. Election day observation is of necessity a 
+selective process, as there are a limited number of personnel from OPM 
+and the Department to deploy across the country. In fact, recent 
+experience indicates that personnel resources are being taxed to the 
+maximum degree possible to provide election day coverage deemed 
+necessary for VRA monitoring alone, especially for a federal general 
+election. 
+
+Third, expanding polling place observation to include an accurate, 
+detailed assessment of the physical accessibility of the voting area, 
+the associated parking, and the path thereto, as well as the level of 
+privacy and independence offered to voters with disabilities by the 
+voting system, requires a level of expertise not possessed by the vast 
+majority of polling place observers and monitors, the use of 
+specialized equipment to conduct such assessment, and actions by 
+observers and monitors in the voting area that go beyond the 
+established role of an observer. To conduct the assessment suggested in 
+the draft report, observers and monitors would have to conduct actual 
+physical measurements of polling place premises, inside and out, as 
+well as voting systems, on election day during the hours when voting is 
+underway. Such assessments would require extensive training of 
+observers in techniques for accurately measuring and documenting 
+barriers to access. Since an accurate accessibility survey of a typical 
+polling place requires more than an hour, such surveys would also take 
+a significant amount of time away from other observer functions. Of 
+great significance, observers secure the cooperation of local elections 
+officials by simply observing - and only that. More active assessments 
+of polling place compliance with federal accessibility requirements 
+would, in essence, convert the observer into an investigator and 
+fundamentally change the election monitoring program. 
+
+That said, as indicated in your draft report, the Department has been 
+engaged for some time in the systematic accessibility review of polling 
+places in selected jurisdictions in its Project Civic Access program. 
+The Department will be continuing the PCA program in selected 
+jurisdictions throughout the nation, and polling place accessibility 
+will continue to be a high priority in the PCA program. In fact, in its 
+most recent PCA agreements with jurisdictions responsible for the 
+designation of polling places, the Department has required such 
+jurisdictions to take the steps required to ensure that all of their 
+polling places are accessible. The Department has also recently 
+concluded an extensive agreement with the City of Philadelphia under 
+the ADA to greatly improve the accessibility of the City's 1,200 
+polling places to voters with mobility disabilities. This settlement is 
+the Department's first-ever agreement solely focused on polling places, 
+and was a highly significant undertaking from a resource standpoint. In 
+addition, the Department will continue to act on potential violations 
+of federal law with regard to the accessibility of the voting process 
+to persons with disabilities as it learns of them, either from our 
+normal observing of elections or from complaints received from various 
+sources on election day and at other times. 
+
+Again, we appreciate the extensive effort that your staff has put into 
+this report and the opportunity to work with them on these important 
+issues. 
+
+Sincerely, 
+
+Signed by: 
+
+Loretta King: 
+Acting Assistant Attorney General: 
+
+cc: Richard Theis: 
+Director, Audit Liaison Group: 
+
+[End of section] 
+
+Appendix VII: Comments from the Election Assistance Commission: 
+
+U.S. Election Assistance Commission: 
+1225 New York Ave. NW - Suite 1100: 
+Washington, DC 20005: 
+
+August 27, 2009: 
+
+Ms. Barbara D. Bovbjerg: 
+Director, Education, Workforce, and Income Security Issues: 
+U.S. Government Accountability Office: 
+Washington, DC 20548: 
+
+and: 
+
+Mr. William 0. Jenkins, Jr. 
+Director, Homeland Security and Justice Issues: 
+U.S. Government Accountability Office: 
+Washington, DC 20548: 
+
+Re: Comments regarding proposed GAO-09-685 Report: 
+
+Dear Ms. Bovbjerg and Mr. Jenkins, 
+
+The U.S. Election Assistance Commission (EAC) is grateful for the 
+opportunity to comment on the GAO-09-685 report Voters with 
+Disabilities: More Polling Places had no Potential Impediments than in 
+2000 but Challenges Remain, submitted to the EAC on August 10, 2009. 
+The EAC appreciates GAO's research regarding (1) the proportion of 
+polling places that have features in the path to the voting area that 
+might facilitate or impede access to voting for people with 
+disabilities and how these results compare to GAO's findings from the 
+2000 election and (2) the proportion of polling places that have 
+features in the voting area that might facilitate or impede private and 
+independent voting for people with disabilities. 
+
+As noted in your report, the Help America Vote Act of 2002 (HAVA) 
+requires that each polling place use at least on direct recording 
+electronic voting system, or other voting system equipped for 
+individuals with disabilities, to ensure accessibility for the latter 
+in a manner that provides the same opportunity for access and 
+participation (including privacy and independence) as for other voters. 
+Furthermore, HAVA also requires that the EAC conduct research and 
+activities regarding a wide range of election administration issues, 
+including voting accessibility. 
+
+To help address some of these requirements, the EAC has made the 
+following resources available to election officials and the public: 
+
+* Election Management Guidelines (EMG) — Chapter 9, Polling Place and 
+Vote Center Management, of the EMG provides election officials 
+recommendations for locating, setting up, and managing accessible 
+polling places. A separate chapter will be developed and published in 
+2010 to specifically address voting accessibility issues. 
+
+* Quick Start Management Guide: Elderly and Disabled Voters in Long-
+Term Care Facilities — this brochure provides election officials 
+recommendations to consider when developing and implementing policies 
+that facilitate registration and voting processes for elderly and 
+disabled voters in long-term care facilities, including information on 
+using these facilities as polling places. 
+
+* Effective Designs for the Administration of Federal Elections — This 
+report provides best practice samples for the design of ballots, 
+polling place signage, and voter information materials. The best 
+practice samples were based on the 2005 Voluntary Voting System 
+Guidelines (VVSG), Americans with Disabilities Act (ADA) guidelines, 
+research findings, and information design principles. 
+
+* Successful Practices for Poll Worker Recruitment, Training, and 
+Retention — This guidebook presents a variety of field-tested 
+techniques, which can be adapted by election jurisdictions of varying 
+sizes and demographics, to aid in the recruitment, training, and 
+management of poll workers. The guidebook includes an entire chapter on 
+recruiting poll workers with disabilities, and several sections also 
+discuss poll worker training strategies to better assist elderly and 
+disabled voters. 
+
+* Voluntary Voting System Guidelines (VVSG) — The VVSG provides 
+specifications and standards against which voting systems can be tested 
+to determine if they provide basic functionality, accessibility, and 
+security capabilities. 
+
+These activities serve as the EAC's initial steps in providing 
+resources to election officials and the public regarding voting 
+accessibility, including access to polling places. It should be noted 
+that all of these products have been developed in collaboration with 
+election officials, subject-matter experts, and representatives from 
+advocacy groups. The EAC will continue to seek their feedback in 
+identifying additional resources and materials it may provide in this 
+area. 
+
+GAO's final report will be an invaluable resource to the EAC and 
+election officials as they continue to develop, implement, and evaluate 
+effective election administration practices regarding voting 
+accessibility. It is clear from the report that while some successes 
+have been achieved (e.g. the proportion of polling places without 
+potential impediments increased from 16 percent to 27 percent in 2008) 
+there is still room for improvement in this area. The EAC sincerely 
+appreciates the opportunity to provide information for this report. If 
+you need further information or have any questions regarding the EAC's 
+activities on voting accessibility, please do not hesitate to contact 
+us at your earliest convenience. 
+
+Sincerely yours, 
+
+Signed by: 
+
+Tom Wilkey: 
+Executive Director: 
+
+[End of section] 
+
+Appendix VIII: Comments from the Department of Health and Human 
+Services: 
+
+Department Of Health & Human Services: 
+Office Of The Secretary: 
+Assistant Secretary for Legislation: 	
+Washington, DC 20201: 
+
+August 31, 2009: 
+
+Barbara D. Bovbjerg, Director: 
+Education, Workforce, and Income Security Issues: 
+U.S. Government Accountability Office: 
+441 G Street N.W. 
+Washington, DC 20548: 
+
+Dear Mr. Bovbjerb: 
+
+Enclosed are comments on the U.S. Government Accountability Office's 
+(GAO) report entitled: "Voters with Disabilities: Additional Monitoring 
+of Polling Places Could Further Improve Accessibility (GAO-09-941). 
+
+The Department appreciates the opportunity to review this report before 
+its publication. 
+
+Sincerely, 
+
+Signed by: 
+
+Andrea Palm: 
+Acting Assistant Secretary for Legislation: 
+
+Enclosure: 
+
+[End of letter] 
+
+Comments Of The Department Of Health And Human Services (HHS) On The 
+Government Accountability Office (GAO) Draft Report Titled, "Voters 
+With Disabilities: Additional Monitoring Of Polling Places Could 
+Further Improve Accessibility" (GAO-09-941): 
+
+GAO Recommendations: 
+
+To identify and reduce the number of potential impediments and other 
+challenges at polling places that might hinder or detract from the 
+voting experience for people with disabilities, we recommend that 
+Justice look for opportunities to expand its monitoring and oversight 
+of the accessibility of polling places for people with disabilities in 
+a cost-effective manner. This might include: 
+
+* Working with states to use existing state oversight mechanisms and 
+using other resources such as organizations representing elections 
+officials and disability advocacy organizations to help assess and 
+monitor states' progress in ensuring polling place accessibility, 
+similar to the effort used to determine state compliance with HAVA 
+voting system requirements by the 2006 deadline; 
+
+* Expanding the scope of Election Day observations to include an 
+assessment of the physical access to the voting area and the level of 
+privacy and independence being offered to voters with disabilities by 
+accessible voting systems; and; 
+
+* Expanding the ADA Checklist of Polling Places to include guidance on 
+the accessibility of the voting area and the configuration of the 
+accessible voting system to provide voters with disabilities the same 
+level of privacy and independence as afforded to other voters. 
+
+HHS Comments: 
+ACF's Administration on Developmental Disabilities (ADD) indicated that 
+while it cannot confirm the findings, the findings are consistent with 
+what the State Protection and Advocacy Agencies and the Secretaries of 
+State generally state in their annual reports. Some States are better 
+than others, though ACF grantees reported the following: 
+
+* Most States have established the appropriate accessibility 
+requirements and funded improvements to help facilitate accessible 
+voting; 
+
+* Most States offer alternative voting methods for their local 
+jurisdictions, e.g., curb side voting, absentee voting, vote by phone, 
+etc.; 
+
+* Most States offer some type of accessible voting machine, which is 
+generally an electronic machine; and; 
+
+* Most States continue to need ongoing training and technical 
+assistance to clarify the language in the Help America Vote Act (HAVA), 
+e.g., money available until expended, etc., as well as the appropriate 
+use of HAVA funds. 
+
+Overall, the GAO report highlights a number of concerns that ADD has 
+also encountered for some of ACF's grantees. 
+
+[End of section] 
+
+Appendix IX: GAO Contacts and Staff Acknowledgments: 
+
+GAO Contacts: 
+
+Barbara D. Bovbjerg, (202) 512-7215, bovbjergb@gao.gov: 
+
+William O. Jenkins, Jr., (202) 512-8777, jenkinswo@gao.gov: 
+
+Staff Acknowledgments: 
+
+Brett Fallavollita, Assistant Director, and Laura Heald, Analyst-in- 
+Charge managed this assignment. Carolyn Blocker, Katherine Bowman, Ryan 
+Siegel, and Amber Yancey-Carroll made significant contributions to this 
+report in all aspects of the work. Jason Palmer, Susan Pachikara, 
+Gretta Goodwin, Matthew Goldstein, and numerous staff from headquarters 
+and field offices provided assistance with Election Day data 
+collection. Carl Barden, Cathy Hurley, Stu Kaufman, George Quinn, and 
+Walter Vance provided analytical assistance; Alex Galuten provided 
+legal support; Paula Moore provided technical support; Jessica Orr 
+provided assistance on report preparation; Mimi Nguyen developed the 
+report's graphics; and Anna Bonelli, Caitlin Croake, Kim Siegal, and 
+Paul Wright verified our findings. 
+
+[End of section] 
+
+Related GAO Products: 
+
+Voters with Disabilities: More Polling Places Had No Potential 
+Impediments Than In 2000, But Challenges Remain. [hyperlink, 
+http://www.gao.gov/products/GAO-09-685]. Washington, D.C.: June 10, 
+2009. 
+
+Elections: States, Territories, and the District Are Taking a Range of 
+Important Steps to Manage Their Varied Voting System Environments. 
+[hyperlink, http://www.gao.gov/products/GAO-08-874]. Washington, D.C.: 
+September 25, 2008. 
+
+Elections: 2007 Survey of State Voting System Programs. [hyperlink, 
+http://www.gao.gov/products/GAO-08-1147SP]. Washington, D.C.: September 
+25, 2008. 
+
+Elections: Federal Program for Certifying Voting Systems Needs to Be 
+Further Defined, Fully Implemented, and Expanded. [hyperlink, 
+http://www.gao.gov/products/GAO-08-814]. Washington, D.C.: September 
+16, 2008. 
+
+Election Assistance Commission--Availability of Funds for Purchase of 
+Replacement Voting Equipment. B-316107. Washington, D.C.: March 19, 
+2008. 
+
+Elderly Voters: Some Improvements in Voting Accessibility from 2000 to 
+2004 Elections, but Gaps in Policy and Implementation Remain. 
+[hyperlink, http://www.gao.gov/products/GAO-08-442T]. Washington, D.C.: 
+January 31, 2008. 
+
+Elections: All Levels of Government Are Needed to Address Electronic 
+Voting System Challenges. [hyperlink, 
+http://www.gao.gov/products/GAO-07-741T]. Washington, D.C.: April 18, 
+2007. 
+
+Elections: The Nation's Evolving Election System as Reflected in the 
+November 2004 General Election. [hyperlink, 
+http://www.gao.gov/products/GAO-06-450]. Washington, D.C.: June 6, 
+2006. 
+
+Elections: Federal Efforts to Improve Security and Reliability of 
+Electronic Voting Systems Are Under Way, but Key Activities Need to Be 
+Completed. [hyperlink, http://www.gao.gov/products/GAO-05-956]. 
+Washington, D.C.: September 21, 2005. 
+
+Elections: Electronic Voting Offers Opportunities and Presents 
+Challenges. [hyperlink, http://www.gao.gov/products/GAO-04-975T]. 
+Washington, D.C.: July 20, 2004. 
+
+Elections: A Framework for Evaluating Reform Proposals. [hyperlink, 
+http://www.gao.gov/products/GAO-02-90]. Washington, D.C.: October 15, 
+2001. 
+
+Voters with Disabilities: Access to Polling Places and Alternative 
+Voting Methods. [hyperlink, http://www.gao.gov/products/GAO-02-107]. 
+Washington, D.C.: October 15, 2001: 
+
+[End of section] 
+
+Footnotes: 
+
+[1] GAO, Voters with Disabilities: Access to Polling Places and 
+Alternative Voting Methods, [hyperlink, 
+http://www.gao.gov/products/GAO-02-107] (Washington, D.C.: Oct. 15, 
+2001). 
+
+[2] Wan He, Manisha Sangupta, Victoria A. Velkoff, and Kimberly A. 
+DeBarros, 65+ in the United States: 2005, Current Population Reports 
+Special Studies (Washington, D.C.: December 2005), pp. 23-209. 
+
+[3] Kevin J. Coleman and Eric A. Fischer, Election Reform: Overview and 
+Issues, Congressional Research Service Report for Congress, 7-5700 
+(Washington, D.C.: Mar. 13, 2009), pp. 6-7. 
+
+[4] GAO, Elderly Voters: Some Improvements in Voting Accessibility from 
+2000 to 2004 Elections, but Gaps in Policy and Implementation Remain, 
+[hyperlink, http://www.gao.gov/products/GAO-08-442T] (Washington, D.C.: 
+Jan. 31, 2008). 
+
+[5] GAO, People with Disabilities: More Polling Places Had No Potential 
+Impediments Than in 2000, but Challenges Remain, [hyperlink, 
+http://www.gao.gov/products/GAO-09-685] (Washington, D.C.: June 10, 
+2009). 
+
+[6] We excluded Alaska and Hawaii for cost and efficiency reasons, and 
+Oregon because voters exclusively use mail-in ballots. 
+
+[7] The 730 polling places we visited on Election Day 2008 were located 
+in 79 of the 84 counties we selected for our sample because 5 counties 
+did not grant GAO access to polling places on Election Day. In 
+addition, in several counties, state or county officials granted us 
+access but placed restrictions on our visits, such as not permitting 
+access to the voting area itself. 
+
+[8] This report focuses on access to voting for people with physical 
+disabilities, but does not specifically address access for voters with 
+hearing impairments. 
+
+[9] To update our DCI, we reviewed relevant laws, such as HAVA, and 
+documentation related to polling place accessibility, such as the 
+Department of Justice, Civil Rights Division, Disability Rights 
+Section, Americans with Disabilities Act: ADA Checklist for Polling 
+Places (Washington, D.C.: February 2004). 
+
+[10] We selected the District of Columbia, American Samoa, Guam, Puerto 
+Rico, and the U.S. Virgin Islands for this review because they are 
+required to comply with HAVA provisions. 
+
+[11] Federal elections are held on the first Tuesday after the first 
+Monday in November in even-numbered years. In the interests of 
+convenience and economy, most states and many local jurisdictions also 
+hold many of their elections on the federal Election Day. 
+
+[12] 28 C.F.R. § 35.150(b)(1). All newly constructed public buildings 
+where construction commenced after January 26, 1992, must be readily 
+accessible to individuals with disabilities. 28 C.F.R. § 35.151(a). 
+Alterations to existing facilities commenced after January 26, 1992, 
+must also to the maximum extent feasible be done in such a way that the 
+altered portion of the facility is readily accessible. 28 C.F.R.§ 
+35.151(b). 
+
+[13] Exempted from these requirements generally are private clubs and 
+religious organizations, including places of worship. 
+
+[14] 28 C.F.R. § 36.401-406. This requirement applies to the new 
+construction of facilities for first occupancy after January 26, 1993, 
+or alteration commenced after January 26, 1992. 
+
+[15] Provisional voting is also generally used by states to address 
+certain voter eligibility issues encountered at the polling place on 
+Election Day. A provisional ballot cast by an individual with an 
+eligibility issue typically would not be counted until the individual's 
+eligibility to vote under state law has been verified. 
+
+[16] A sip-and-puff device is a straw-like accessory that allows a 
+voter to make selections by either blowing or sucking into the device. 
+
+[17] We are not making a legal assessment of what is required under 
+HAVA for a voting system to be accessible. 
+
+[18] For the purposes of this study, we define "alternative" voting 
+methods as any voting method other than traditional in-person voting at 
+a polling place on Election Day. 
+
+[19] "No excuse" absentee voting is available to all voters--that is, 
+voters do not need to give a reason to vote absentee. In permanent 
+absentee voting, the voter may request that an absentee ballot be 
+automatically mailed to them, rather than applying separately, for each 
+election. However, voters may need to periodically reapply for 
+permanent absentee ballot status. 
+
+[20] The 95-percent confidence interval for 2000 data is 11.3 to 21.6 
+and for 2008 data is 21.9 to 32.7. The difference between the 2000 and 
+2008 estimates are statistically significant. 
+
+[21] For the purposes of this study, we treated all of the potential 
+impediments with equal significance, although we recognize that, in 
+practice, the effect of any one impediment will depend on an 
+individual's type or severity of disability. For example, the width of 
+a door would not necessarily affect a blind individual without mobility 
+impairments, but it could prevent a person using a wheelchair from 
+entering a polling place. 
+
+[22] The 95-percent confidence interval for polling places with no 
+impediments is 21.9 to 32.7. The 95-percent confidence interval for 
+polling places with one or more potential impediments that offered 
+curbside voting is 37.4 to 53.2. The 95-percent confidence interval for 
+polling places with one or more potential impediments that did not 
+offer curbside voting is 20.4 to 34.4. 
+
+[23] The 95-percent confidence interval for 2008 data is 44.4 to 54.9. 
+
+[24] The 95-percent confidence interval for 2000 data is 51.6 to 66.4 
+and for 2008 data is 16.7 to 34.2. 
+
+[25] The Election Day 2008 DCI was updated to include the measurement 
+of steep ramps or curb cuts in the parking area on the basis of 
+Justice's ADA Checklist for Polling Places. 
+
+[26] The 95-percent confidence interval for 2000 data is 24.2 to 40.2. 
+The 95-percent confidence interval for 2008 data is 1.6 to 6.0. 
+
+[27] We did not assess polling places' legal compliance with HAVA 
+accessible voting system requirements. For our 2008 Election Day DCI, 
+we compiled a list of commonly known accessible voting machines by 
+consulting with disability experts and others. 
+
+[28] The number of polling place officials we interviewed excludes the 
+104 polling places for which (1) we were prohibited from interviewing 
+the officials on or after Election Day, (2) the polling place official 
+declined to be interviewed, or (3) we were not allowed to interview the 
+officials on Election Day and could not reach the officials after 
+Election Day to conduct the interview. The 95-percent confidence 
+interval for the data is 94.9 to 99.4. 
+
+[29] The 95-percent confidence interval for the data is 73.0 to 84.9. 
+
+[30] The 95-percent confidence interval for the data is 36.3 to 54.9. 
+
+[31] We did not assess polling places' legal compliance with HAVA 
+accessible voting system requirements. 
+
+[32] The 95-percent confidence interval for polling places with one 
+challenge is 27.6 to 41.8. The 95-percent confidence interval for 
+polling places with two challenges is 5.9 to 15.7. The 95-percent 
+confidence interval for polling places with three challenges is 0.2 to 
+2.1. 
+
+[33] Although we included the 4 U.S. territories in our survey to 
+compare the results of our 2008 survey of state election officials to 
+our 2000 survey, we are only reporting data from the 50 states and the 
+District of Columbia in our discussion of states' actions to help 
+facilitate voting for people with disabilities. 
+
+[34] For the purposes of our study, we defined "requirements" as 
+requirements under state law, regulation, or executive order/directive. 
+It does not include federal requirements. We did not analyze state 
+laws, regulations, or executive orders/directives to determine what 
+they required, but instead relied on state responses to our survey. 
+
+[35] [hyperlink, http://www.gao.gov/products/GAO-02-107]. 
+
+[36] As we found in our report on the 2004 election, in some states, 
+local jurisdictions are responsible for buying voting systems. Some 
+states provide a list of voting systems from which local jurisdictions 
+are required to choose or they must approve the systems that local 
+jurisdictions purchase. GAO, Elections: The Nation's Evolving Election 
+System as Reflected in the November 2004 General Election. GAO-06-450, 
+Washington, D.C.: June 6, 2006. 
+
+[37] In 2006, we reported that approximately one-third of the states 
+reported plans to purchase new systems for use in the 2008 election, 
+thus requiring federal system certification. Because EAC had not 
+certified any of these systems as of May 2008--at the time we conducted 
+our audit work--these states reported that they intended to either 
+forego planned system replacements and upgrades for the 2008 general 
+election or seek other ways to satisfy state statutes or directives 
+that require federal certification See [hyperlink, 
+http://www.gao.gov/products/GAO-06-450]. 
+
+[38] Absentee voting is usually conducted by mail, but can also be done 
+as "in-person absentee" voting, where the voter visits the election 
+office and completes the absentee voting process in person. Permanent 
+absentee voting is typically available to individuals with disabilities 
+or the elderly. Permanent absentee status, where offered, generally 
+allows the voter to apply for mail-in absentee ballots once (rather 
+than for each separate election) over a specified time period. 
+
+[39] Letter from Justice of March 4, 2005, to the Mississippi Secretary 
+of State's office regarding the accessibility of voting systems and 
+polling places, see [hyperlink, 
+http://www.usdoj.gov/crt/voting/hava/msdisability.php]. 
+
+[40] Three iterations of federal voluntary voting system standards have 
+been issued by the federal government. The first set of standards was 
+created in 1990 by the Federal Election Commission (FEC). In 2002, the 
+FEC updated the standards by adopting a second iteration. HAVA 
+transferred the responsibility of developing voting system standards 
+from the FEC to the EAC. In 2005, the EAC issued the third iteration, 
+called the Voluntary Voting System Guidelines (VVSG). These guidelines 
+were developed by the EAC's federal advisory committee, the Technical 
+Guidelines Development Committee (TGDC), and the National Institute of 
+Standards and Technology (NIST). The EAC is currently in the process of 
+revising the guidelines. Draft guidelines were prepared by the TGDC 
+with technical support from NIST and are available for public comment 
+on EAC's Web site. 
+
+[41] The Voting Rights Act of 1965 authorizes federal observers to 
+monitor procedures in polling places and sites where ballots are 
+counted in political subdivisions that have been certified by court or 
+the U.S. Attorney General. Federal observers, recruited by the Office 
+of Personnel Management and under the supervision of Justice attorneys, 
+visit polling places in certified political subdivisions on Election 
+Day, recording numerous observations on voting procedures and 
+collecting information on voting statistics. According to Justice, its 
+attorneys also conduct observations in uncertified political 
+subdivisions under certain circumstances. 
+
+[42] We selected the District of Columbia, American Samoa, Guam, Puerto 
+Rico, and the U.S. Virgin Islands for this review because they are 
+required to comply with the provisions of HAVA. 
+
+[43] We selected counties and cities that are county-equivalents for 
+Census purposes. In 8 counties in our sample, officials at the 
+subcounty level, such as towns and cities, administer elections. 
+
+[44] See appendix III for a list of the counties we visited. 
+
+[45] In cases where we downloaded a list of polling places from the 
+Internet, we confirmed with county election officials that this was the 
+most current list. In counties where township or city officials 
+administered elections, we contacted all townships or cities within the 
+county and asked for their lists of polling places as well as their 
+permission to visit polling places in their jurisdiction. 
+
+[46] One county where we did not gain access was selected twice in our 
+sample. 
+
+[47] Two counties had less than 8 polling places: One county only had 3 
+polling places because it is in a primarily vote-by-mail state, and, in 
+another county, 1 of the 8 polling places was a mail-in-only location. 
+
+[48] Representatives of state or county election officials accompanied 
+GAO teams in 6 counties, but they did not participate in the teams' 
+observations or interviews with polling place officials. 
+
+[49] The ADA Accessibility Stick IITM is a tool designed to measure 
+potential structural impediments in buildings and on walkways. This 
+tool was designed and manufactured by Access, Inc., Lawrence, Kansas. 
+The fish scale was used to measure the force required to open a door 
+and was included in our study as a pilot measure. 
+
+[50] The types of buildings used for polling places varied widely but 
+typically included houses of worship, schools, libraries, courthouses, 
+police or fire stations, and community centers. 
+
+[51] State or county election officials restricted GAO teams from 
+interviewing polling place officials in 10 counties on Election Day, 
+although we were allowed to interview officials in all but 1 county 
+after Election Day. 
+
+[52] HAVA requires that each polling place have at least one voting 
+system for use in federal elections that is accessible for voters with 
+disabilities and provides the same opportunity for people with 
+disabilities to vote privately and independently as is afforded by 
+voting systems available to other voters. 
+
+[53] See Department of Justice, Civil Rights Division, Disability 
+Rights Section: Americans with Disabilities Act: ADA Checklist for 
+Polling Places (Washington, D.C.: February 2004). This checklist is a 
+self-help survey that voting officials can use to determine whether a 
+polling place has basic accessible features needed by most voters with 
+disabilities. 
+
+[54] We did not assess polling places' legal compliance with HAVA 
+accessible voting system requirements. 
+
+[55] For the purposes of our study, we defined "requirements" as 
+requirements under state law, regulation, or executive order/directive. 
+Our definition does not include federal requirements. 
+
+[End of section] 
+
+GAO's Mission: 
+
+The Government Accountability Office, the audit, evaluation and 
+investigative arm of Congress, exists to support Congress in meeting 
+its constitutional responsibilities and to help improve the performance 
+and accountability of the federal government for the American people. 
+GAO examines the use of public funds; evaluates federal programs and 
+policies; and provides analyses, recommendations, and other assistance 
+to help Congress make informed oversight, policy, and funding 
+decisions. GAO's commitment to good government is reflected in its core 
+values of accountability, integrity, and reliability. 
+
+Obtaining Copies of GAO Reports and Testimony: 
+
+The fastest and easiest way to obtain copies of GAO documents at no 
+cost is through GAO's Web site [hyperlink, http://www.gao.gov]. Each 
+weekday, GAO posts newly released reports, testimony, and 
+correspondence on its Web site. To have GAO e-mail you a list of newly 
+posted products every afternoon, go to [hyperlink, http://www.gao.gov] 
+and select "E-mail Updates." 
+
+Order by Phone: 
+
+The price of each GAO publication reflects GAO’s actual cost of
+production and distribution and depends on the number of pages in the
+publication and whether the publication is printed in color or black and
+white. Pricing and ordering information is posted on GAO’s Web site, 
+[hyperlink, http://www.gao.gov/ordering.htm]. 
+
+Place orders by calling (202) 512-6000, toll free (866) 801-7077, or
+TDD (202) 512-2537. 
+
+Orders may be paid for using American Express, Discover Card,
+MasterCard, Visa, check, or money order. Call for additional 
+information. 
+
+To Report Fraud, Waste, and Abuse in Federal Programs: 
+
+Contact: 
+
+Web site: [hyperlink, http://www.gao.gov/fraudnet/fraudnet.htm]: 
+E-mail: fraudnet@gao.gov: 
+Automated answering system: (800) 424-5454 or (202) 512-7470: 
+
+Congressional Relations: 
+
+Ralph Dawn, Managing Director, dawnr@gao.gov: 
+(202) 512-4400: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7125: 
+Washington, D.C. 20548: 
+
+Public Affairs: 
+
+Chuck Young, Managing Director, youngc1@gao.gov: 
+(202) 512-4800: 
+U.S. Government Accountability Office: 
+441 G Street NW, Room 7149: 
+Washington, D.C. 20548: 		
+		
